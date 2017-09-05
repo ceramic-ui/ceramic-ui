@@ -15,34 +15,40 @@ exports[`Storyshots Button Basic 1`] = `
     >
       <div>
         <button
-          className="sc-bwzfXH julsrh"
+          className="sc-bwzfXH bEoeQr"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-bwzfXH EDJto"
+          className="sc-bwzfXH jgehLW"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-bwzfXH iQIIWb"
+          className="sc-bwzfXH gxoZDQ"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-bwzfXH gKcTzC"
+          className="sc-bwzfXH iLpHmW"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-bwzfXH bfnjoE"
+          className="sc-bwzfXH bWaJrJ"
           type="button"
         >
           Danger
+        </button>
+        <button
+          className="sc-bwzfXH XWAuF"
+          type="button"
+        >
+          Link
         </button>
       </div>
     </div>
@@ -679,6 +685,104 @@ exports[`Storyshots Button Basic 1`] = `
                     </span>
                   </div>
                 </div>
+                <div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Button
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          appearance
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              link
+                              "
+                            </span>
+                          </span>
+                        </span>
+                        
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &gt;
+                    </span>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 48,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      Link
+                    </span>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;/
+                      Button
+                      &gt;
+                    </span>
+                  </div>
+                </div>
                 <div
                   style={
                     Object {
@@ -758,6 +862,21 @@ exports[`Storyshots Button Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
+                      block
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
                       appearance
                     </td>
                     <td>
@@ -815,6 +934,51 @@ exports[`Storyshots Button Basic 1`] = `
 </div>
 `;
 
+exports[`Storyshots Button Block-level 1`] = `
+<div
+  className="sc-bdVaJa kRLPJe"
+>
+  <div>
+    <button
+      className="sc-bwzfXH hvnClr"
+      type="button"
+    >
+      Default
+    </button>
+    <button
+      className="sc-bwzfXH ElExG"
+      type="button"
+    >
+      Primary
+    </button>
+    <button
+      className="sc-bwzfXH iyKWtw"
+      type="button"
+    >
+      Secondary
+    </button>
+    <button
+      className="sc-bwzfXH jGaKGp"
+      type="button"
+    >
+      Success
+    </button>
+    <button
+      className="sc-bwzfXH cdkdob"
+      type="button"
+    >
+      Danger
+    </button>
+    <button
+      className="sc-bwzfXH ZdXyU"
+      type="button"
+    >
+      Link
+    </button>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Card Basic 1`] = `
 <div
   className="sc-bdVaJa kRLPJe"
@@ -828,24 +992,83 @@ exports[`Storyshots Card Basic 1`] = `
         }
       }
     >
-      <div
-        className="sc-dnqmqq gsegjh"
-      >
-        <h1
-          className="sc-htpNat kutWQE"
+      <div>
+        <div
+          className="sc-dnqmqq iEJfhw"
         >
-          A basic card
-        </h1>
-        <p
-          className="sc-htoDjs hKFomb"
+          <h2
+            className="sc-bxivhb jMyIfV"
+          >
+            A basic card
+          </h2>
+          <p
+            className="sc-htoDjs hKFomb"
+          >
+            This is some example content
+          </p>
+          <p
+            className="sc-htoDjs lpgHmS"
+          >
+            It is presented inside a card to draw some attention to it relative to surrounding content
+          </p>
+        </div>
+        <div
+          className="sc-dnqmqq jAtZky"
         >
-          This is some example content
-        </p>
-        <p
-          className="sc-htoDjs lpgHmS"
+          <h2
+            className="sc-bxivhb jMyIfV"
+          >
+            A callout card - Primary style
+          </h2>
+          <p
+            className="sc-htoDjs hKFomb"
+          >
+            This is some example content
+          </p>
+          <p
+            className="sc-htoDjs lpgHmS"
+          >
+            It is presented inside a card to draw some attention to it relative to surrounding content
+          </p>
+        </div>
+        <div
+          className="sc-dnqmqq floniP"
         >
-          It is presented inside a card to draw some attention to it relative to surrounding content
-        </p>
+          <h2
+            className="sc-bxivhb jMyIfV"
+          >
+            A callout card - Danger style
+          </h2>
+          <p
+            className="sc-htoDjs hKFomb"
+          >
+            This is some example content
+          </p>
+          <p
+            className="sc-htoDjs lpgHmS"
+          >
+            It is presented inside a card to draw some attention to it relative to surrounding content
+          </p>
+        </div>
+        <div
+          className="sc-dnqmqq isWYqL"
+        >
+          <h2
+            className="sc-bxivhb jMyIfV"
+          >
+            A callout card - Success style
+          </h2>
+          <p
+            className="sc-htoDjs hKFomb"
+          >
+            This is some example content
+          </p>
+          <p
+            className="sc-htoDjs lpgHmS"
+          >
+            It is presented inside a card to draw some attention to it relative to surrounding content
+          </p>
+        </div>
       </div>
     </div>
     <a
@@ -1026,7 +1249,7 @@ exports[`Storyshots Card Basic 1`] = `
                     }
                   >
                     &lt;
-                    Card
+                    div
                   </span>
                   <span />
                   <span
@@ -1056,7 +1279,7 @@ exports[`Storyshots Card Basic 1`] = `
                       }
                     >
                       &lt;
-                      Heading
+                      Card
                     </span>
                     <span />
                     <span
@@ -1069,23 +1292,250 @@ exports[`Storyshots Card Basic 1`] = `
                       &gt;
                     </span>
                   </div>
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 48,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
+                  <div>
+                    <div
                       style={
                         Object {
-                          "color": "#777",
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
                         }
                       }
                     >
-                      A basic card
-                    </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Heading
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            level
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  2
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        A basic card
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Heading
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        This is some example content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            flush
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        It is presented inside a card to draw some attention to it relative to surrounding content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
                   </div>
                   <div
                     style={
@@ -1103,7 +1553,7 @@ exports[`Storyshots Card Basic 1`] = `
                       }
                     >
                       &lt;/
-                      Heading
+                      Card
                       &gt;
                     </span>
                   </div>
@@ -1125,76 +1575,7 @@ exports[`Storyshots Card Basic 1`] = `
                       }
                     >
                       &lt;
-                      Paragraph
-                    </span>
-                    <span />
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
-                        }
-                      }
-                    >
-                      &gt;
-                    </span>
-                  </div>
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 48,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
-                        }
-                      }
-                    >
-                      This is some example content
-                    </span>
-                  </div>
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 33,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
-                        }
-                      }
-                    >
-                      &lt;/
-                      Paragraph
-                      &gt;
-                    </span>
-                  </div>
-                </div>
-                <div>
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 33,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
-                        }
-                      }
-                    >
-                      &lt;
-                      Paragraph
+                      Card
                     </span>
                     <span>
                       <span>
@@ -1202,7 +1583,26 @@ exports[`Storyshots Card Basic 1`] = `
                         <span
                           style={Object {}}
                         >
-                          flush
+                          appearance
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              callout-primary
+                              "
+                            </span>
+                          </span>
                         </span>
                         
                       </span>
@@ -1217,23 +1617,250 @@ exports[`Storyshots Card Basic 1`] = `
                       &gt;
                     </span>
                   </div>
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 48,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
+                  <div>
+                    <div
                       style={
                         Object {
-                          "color": "#777",
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
                         }
                       }
                     >
-                      It is presented inside a card to draw some attention to it relative to surrounding content
-                    </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Heading
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            level
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  2
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        A callout card - Primary style
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Heading
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        This is some example content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            flush
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        It is presented inside a card to draw some attention to it relative to surrounding content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
                   </div>
                   <div
                     style={
@@ -1251,7 +1878,657 @@ exports[`Storyshots Card Basic 1`] = `
                       }
                     >
                       &lt;/
-                      Paragraph
+                      Card
+                      &gt;
+                    </span>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Card
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          appearance
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              callout-danger
+                              "
+                            </span>
+                          </span>
+                        </span>
+                        
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &gt;
+                    </span>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Heading
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            level
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  2
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        A callout card - Danger style
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Heading
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        This is some example content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            flush
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        It is presented inside a card to draw some attention to it relative to surrounding content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;/
+                      Card
+                      &gt;
+                    </span>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Card
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          appearance
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              callout-success
+                              "
+                            </span>
+                          </span>
+                        </span>
+                        
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &gt;
+                    </span>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Heading
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            level
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  2
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        A callout card - Success style
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Heading
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        This is some example content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            flush
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        It is presented inside a card to draw some attention to it relative to surrounding content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;/
+                      Card
                       &gt;
                     </span>
                   </div>
@@ -1272,7 +2549,7 @@ exports[`Storyshots Card Basic 1`] = `
                     }
                   >
                     &lt;/
-                    Card
+                    div
                     &gt;
                   </span>
                 </div>
@@ -1304,9 +2581,52 @@ exports[`Storyshots Card Basic 1`] = `
                 Card
                 " Component
               </h2>
-              <small>
-                No propTypes defined!
-              </small>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      appearance
+                    </td>
+                    <td>
+                      other
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
             </div>
             <div>
               <h2
@@ -2881,6 +4201,275 @@ exports[`Storyshots Heading Basic 1`] = `
                   </tr>
                 </tbody>
               </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Link Basic 1`] = `
+<div
+  className="sc-bdVaJa kRLPJe"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <a
+        className="sc-gZMcBi bvfrjO"
+      >
+        Simple link
+      </a>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Link
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    Link
+                  </span>
+                  <span />
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    Simple link
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    Link
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Link
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
             </div>
           </div>
         </div>

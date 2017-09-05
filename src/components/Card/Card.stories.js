@@ -11,13 +11,39 @@ storiesOf("Card", module).add(
   withInfo(
     "A Card is a styled container with various presentation options"
   )(() => (
-    <Card>
-      <H level={1}>A basic card</H>
-      <P>This is some example content</P>
-      <P flush>
-        It is presented inside a card to draw some attention to it relative to
-        surrounding content
-      </P>
-    </Card>
+    <div>
+      <Card>
+        <H level={2}>A basic card</H>
+        <P>This is some example content</P>
+        <P flush>
+          It is presented inside a card to draw some attention to it relative to
+          surrounding content
+        </P>
+      </Card>
+      <Card appearance="callout-primary">
+        <H level={2}>A callout card - Primary style</H>
+        <P>This is some example content</P>
+        <P flush>
+          It is presented inside a card to draw some attention to it relative to
+          surrounding content
+        </P>
+      </Card>
+      <Card appearance="callout-danger">
+        <H level={2}>A callout card - Danger style</H>
+        <P>This is some example content</P>
+        <P flush>
+          It is presented inside a card to draw some attention to it relative to
+          surrounding content
+        </P>
+      </Card>
+      <Card appearance="callout-success">
+        <H level={2}>A callout card - Success style</H>
+        <P>This is some example content</P>
+        <P flush>
+          It is presented inside a card to draw some attention to it relative to
+          surrounding content
+        </P>
+      </Card>
+    </div>
   ))
 );
