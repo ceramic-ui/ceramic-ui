@@ -30,9 +30,11 @@ export default {
   focusColor: "#fcc419",
   black,
   white,
+  linkColor: "#329af0",
+  linkVisitedColor: "#8859b6",
   brandDefault: "#495057",
-  brandPrimary: "#1c7cd6",
-  brandSecondary: "#0b7285",
-  brandSuccess: "#2f9e44",
-  brandDanger: "#e03131"
+  brandPrimary: "#329af0",
+  brandSecondary: "#1862ab",
+  brandSuccess: "#40c057",
+  brandDanger: "#f03e3e"
 };
