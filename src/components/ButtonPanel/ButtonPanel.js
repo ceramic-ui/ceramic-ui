@@ -37,9 +37,10 @@ const ButtonPanel = styled.div`
   display: ${props => (props.justify === "none" ? "block" : "flex")};
   flex-direction: column;
   justify-content: ${props => justifyChoices[props.justify]};
+  align-items: center;
 
   ${maxWidth.medium`
-    & > * { margin-bottom: ${props => props.theme.spacingBase()}; }
+    & > * { width: 100%; margin-bottom: ${props => props.theme.spacingBase()}; }
   `};
 
   ${minWidth.medium`
