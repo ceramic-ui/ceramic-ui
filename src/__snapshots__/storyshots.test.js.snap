@@ -2,7 +2,7 @@
 
 exports[`Storyshots Button Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -14,7 +14,7 @@ exports[`Storyshots Button Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH elVppf"
+        className="sc-bwzfXH jzoMRG"
       >
         <button
           className="sc-htpNat hUOHsA"
@@ -995,6 +995,21 @@ exports[`Storyshots Button Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -1008,43 +1023,43 @@ exports[`Storyshots Button Basic 1`] = `
 
 exports[`Storyshots Button Block-level 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div
-    className="sc-bwzfXH dzeXiM"
+    className="sc-bwzfXH blOvOo"
   >
     <button
-      className="sc-htpNat fEhdxz"
+      className="sc-htpNat eekrUC"
       type="button"
     >
       Default
     </button>
     <button
-      className="sc-htpNat iGcwUN"
+      className="sc-htpNat hczexR"
       type="button"
     >
       Primary
     </button>
     <button
-      className="sc-htpNat csKsJJ"
+      className="sc-htpNat gCbWSE"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="sc-htpNat jySqoV"
+      className="sc-htpNat ezoBUa"
       type="button"
     >
       Success
     </button>
     <button
-      className="sc-htpNat hmciEv"
+      className="sc-htpNat iFhdkL"
       type="button"
     >
       Danger
     </button>
     <button
-      className="sc-htpNat jYvqMI"
+      className="sc-htpNat daZnRQ"
       type="button"
     >
       Link
@@ -1055,10 +1070,10 @@ exports[`Storyshots Button Block-level 1`] = `
 
 exports[`Storyshots Button Disabled 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div
-    className="sc-bwzfXH elVppf"
+    className="sc-bwzfXH jzoMRG"
   >
     <button
       className="sc-htpNat hUOHsA"
@@ -1109,7 +1124,7 @@ exports[`Storyshots Button Disabled 1`] = `
 
 exports[`Storyshots ButtonPanel Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -1121,7 +1136,7 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH elVppf"
+        className="sc-bwzfXH jzoMRG"
       >
         <button
           className="sc-htpNat hUOHsA"
@@ -2102,6 +2117,21 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -2115,7 +2145,7 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
 
 exports[`Storyshots Card Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -2128,77 +2158,77 @@ exports[`Storyshots Card Basic 1`] = `
     >
       <div>
         <div
-          className="sc-iwsKbI gaJoDr"
+          className="sc-iwsKbI hRpcuS"
         >
           <h2
-            className="sc-ifAKCX gXWsGV"
+            className="sc-ifAKCX jEDLra"
           >
             A basic card
           </h2>
           <p
-            className="sc-dnqmqq hgupaZ"
+            className="sc-dnqmqq kOaTKw"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq lmdILQ"
+            className="sc-dnqmqq gNydUO"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
         </div>
         <div
-          className="sc-iwsKbI cWKJKI"
+          className="sc-iwsKbI iQjAxF"
         >
           <h2
-            className="sc-ifAKCX gXWsGV"
+            className="sc-ifAKCX jEDLra"
           >
             A callout card - Primary style
           </h2>
           <p
-            className="sc-dnqmqq hgupaZ"
+            className="sc-dnqmqq kOaTKw"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq lmdILQ"
+            className="sc-dnqmqq gNydUO"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
         </div>
         <div
-          className="sc-iwsKbI jiBpOS"
+          className="sc-iwsKbI cZaZaq"
         >
           <h2
-            className="sc-ifAKCX gXWsGV"
+            className="sc-ifAKCX jEDLra"
           >
             A callout card - Danger style
           </h2>
           <p
-            className="sc-dnqmqq hgupaZ"
+            className="sc-dnqmqq kOaTKw"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq lmdILQ"
+            className="sc-dnqmqq gNydUO"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
         </div>
         <div
-          className="sc-iwsKbI gZbUsK"
+          className="sc-iwsKbI hQENFe"
         >
           <h2
-            className="sc-ifAKCX gXWsGV"
+            className="sc-ifAKCX jEDLra"
           >
             A callout card - Success style
           </h2>
           <p
-            className="sc-dnqmqq hgupaZ"
+            className="sc-dnqmqq kOaTKw"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq lmdILQ"
+            className="sc-dnqmqq gNydUO"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
@@ -3759,6 +3789,21 @@ exports[`Storyshots Card Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -3825,6 +3870,21 @@ exports[`Storyshots Card Basic 1`] = `
                           1
                         </span>
                       </span>
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
                     </td>
                     <td />
                   </tr>
@@ -3900,7 +3960,7 @@ exports[`Storyshots Card Basic 1`] = `
 
 exports[`Storyshots Container Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -3913,17 +3973,17 @@ exports[`Storyshots Container Basic 1`] = `
     >
       <div>
         <div
-          className="sc-gZMcBi jMnqap"
+          className="sc-gZMcBi dzmcaU"
         >
           Hello Container 1
         </div>
         <div
-          className="sc-gZMcBi jMnqap"
+          className="sc-gZMcBi dzmcaU"
         >
           Hello Container 2
         </div>
         <div
-          className="sc-gZMcBi bQGlKt"
+          className="sc-gZMcBi hKLBeY"
         >
           This container has its width limited for readability on tablet and larger screens. On mobile screens, it still takes up 100% width. Try resizing your window to see the effect.
         </div>
@@ -4429,6 +4489,21 @@ exports[`Storyshots Container Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -4442,7 +4517,7 @@ exports[`Storyshots Container Basic 1`] = `
 
 exports[`Storyshots Heading Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -4455,32 +4530,32 @@ exports[`Storyshots Heading Basic 1`] = `
     >
       <div>
         <h1
-          className="sc-bxivhb fUPWEM"
+          className="sc-bxivhb hPivvT"
         >
           The quick brown fox jumps over the lazy dog
         </h1>
         <h2
-          className="sc-ifAKCX gXWsGV"
+          className="sc-ifAKCX jEDLra"
         >
           The quick brown fox jumps over the lazy dog
         </h2>
         <h3
-          className="sc-EHOje bpisXK"
+          className="sc-EHOje bwWhfm"
         >
           The quick brown fox jumps over the lazy dog
         </h3>
         <h4
-          className="sc-bZQynM kjhNMw"
+          className="sc-bZQynM JwqYn"
         >
           The quick brown fox jumps over the lazy dog
         </h4>
         <h5
-          className="sc-gzVnrw fvZQRQ"
+          className="sc-gzVnrw eBLFOD"
         >
           The quick brown fox jumps over the lazy dog
         </h5>
         <h6
-          className="sc-htoDjs ldXLls"
+          className="sc-htoDjs kWteOR"
         >
           The quick brown fox jumps over the lazy dog
         </h6>
@@ -5333,6 +5408,21 @@ exports[`Storyshots Heading Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -5346,7 +5436,7 @@ exports[`Storyshots Heading Basic 1`] = `
 
 exports[`Storyshots Link Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -5615,7 +5705,7 @@ exports[`Storyshots Link Basic 1`] = `
 
 exports[`Storyshots Paragraph Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -5628,17 +5718,17 @@ exports[`Storyshots Paragraph Basic 1`] = `
     >
       <div>
         <p
-          className="sc-dnqmqq hgupaZ"
+          className="sc-dnqmqq kOaTKw"
         >
           This is sample text in a paragraph
         </p>
         <p
-          className="sc-dnqmqq lmdILQ"
+          className="sc-dnqmqq gNydUO"
         >
           This is a flush paragraph that has no margin
         </p>
         <p
-          className="sc-dnqmqq hgupaZ"
+          className="sc-dnqmqq kOaTKw"
         >
           This is another paragraph
         </p>
@@ -6157,7 +6247,7 @@ exports[`Storyshots Paragraph Basic 1`] = `
 
 exports[`Storyshots ProgressBar Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -6169,13 +6259,13 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi jMnqap"
+        className="sc-gZMcBi dzmcaU"
       >
         <div
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-VigVT OIuKL"
+          className="sc-VigVT bFjrLU"
           max={100}
           min={0}
           role="progressbar"
@@ -6185,7 +6275,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-VigVT hSOrdV"
+          className="sc-VigVT Yggig"
           max={100}
           min={0}
           role="progressbar"
@@ -6195,7 +6285,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-VigVT dyoXCO"
+          className="sc-VigVT fiqpgM"
           max={100}
           min={0}
           role="progressbar"
@@ -6205,7 +6295,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-VigVT dqKPLu"
+          className="sc-VigVT fBcoaD"
           max={100}
           min={0}
           role="progressbar"
@@ -6786,6 +6876,21 @@ exports[`Storyshots ProgressBar Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -6921,6 +7026,21 @@ exports[`Storyshots ProgressBar Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -6934,7 +7054,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
 
 exports[`Storyshots SystemFontStack Basic 1`] = `
 <div
-  className="sc-bdVaJa kRLPJe"
+  className="sc-bdVaJa eFICPR"
 >
   <div>
     <div
@@ -6946,7 +7066,7 @@ exports[`Storyshots SystemFontStack Basic 1`] = `
       }
     >
       <div
-        className="sc-bdVaJa kRLPJe"
+        className="sc-bdVaJa eFICPR"
       >
         This text should be rendered using your system font
       </div>

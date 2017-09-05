@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
 import { maxWidth, minWidth } from "../../media";
+import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
 
 export const justifyChoices = {
   start: "flex-start",
@@ -38,6 +39,7 @@ const ButtonPanel = styled.div`
   flex-direction: column;
   justify-content: ${props => justifyChoices[props.justify]};
   align-items: center;
+  ${props => vrythm};
 
   ${maxWidth.medium`
     & > * { width: 100%; margin-bottom: ${props => props.theme.spacingBase()}; }
@@ -59,7 +61,8 @@ const ButtonPanel = styled.div`
 `;
 ButtonPanel.displayName = "ButtonPanel";
 ButtonPanel.propTypes = {
-  justify: PropTypes.oneOf(Object.keys(justifyChoices)).isRequired
+  justify: PropTypes.oneOf(Object.keys(justifyChoices)).isRequired,
+  ...vrythmPropTypes
 };
 ButtonPanel.defaultProps = {
   justify: "start"

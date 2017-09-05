@@ -3,9 +3,10 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 
 import { minWidth } from "../../media";
+import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
 
 const Container = styled.div`
-  margin: 0 0 ${props => props.theme.spacingBase()};
+  ${props => vrythm};
   padding: 0 ${props => props.theme.paddingX()};
 
   ${minWidth.medium`max-width: ${props =>
@@ -13,7 +14,8 @@ const Container = styled.div`
 `;
 Container.displayName = "Container";
 Container.propTypes = {
-  readable: PropTypes.bool
+  readable: PropTypes.bool,
+  ...vrythmPropTypes
 };
 
 export default Container;

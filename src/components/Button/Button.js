@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
 import { lighten, darken } from "../../colors";
+import { vrythm } from "../../mixins/spacing";
 
 const appearanceMixin = colorName => css`
   border: 1px solid ${props => props.theme[colorName]};
@@ -58,7 +59,7 @@ const Button = styled.button`
   ${props => props.block && "width: 100%"};
   display: ${props => (props.block ? "block" : "inline-block")};
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
-  ${props => props.block && `margin-bottom: ${props.theme.spacingBase()}`};
+  ${props => props.block && vrythm};
   font-size: 1rem;
   font-weight: 500;
   cursor: pointer;
