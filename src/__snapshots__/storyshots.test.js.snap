@@ -905,6 +905,21 @@ exports[`Storyshots Button Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
                       type
                     </td>
                     <td />
@@ -2022,6 +2037,21 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
                         default
                         "
                       </span>
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
                     </td>
                     <td />
                   </tr>

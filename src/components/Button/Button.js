@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
 import { lighten, darken } from "../../colors";
-import { vrythm } from "../../mixins/spacing";
+import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
 
 const appearanceMixin = colorName => css`
   border: 1px solid ${props => props.theme[colorName]};
@@ -88,7 +88,8 @@ Button.propTypes = {
     "success",
     "danger",
     "link"
-  ]).isRequired
+  ]).isRequired,
+  ...vrythmPropTypes
 };
 Button.defaultProps = {
   appearance: "default",
