@@ -1,49 +1,61 @@
 import React from "react";
 import PropTypes from "prop-types";
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 import { darken } from "../../colors";
 
-const bg = {
-  default: props => props.theme.brandDefault,
-  primary: props => props.theme.brandPrimary,
-  secondary: props => props.theme.brandSecondary,
-  success: props => props.theme.brandSuccess,
-  danger: props => props.theme.brandDanger
-};
-
-const hoverBg = Object.keys(bg).reduce((acc, k) => {
-  const color = bg[k];
-  const hover = props => darken(color(props), 5);
-  return { ...acc, [k]: hover };
-}, {});
-
-const borderColors = hoverBg;
-
-const Button = styled.button`
-  padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
-  border: 1px solid ${props => borderColors[props.appearance](props)};
-  background-color: ${props => bg[props.appearance](props)};
+const appearanceMixin = colorName => css`
+  border: 1px solid ${props => props.theme[colorName]};
+  background-color: ${props => props.theme[colorName]};
   color: ${props => props.theme.white};
-  font-size: 1rem;
-
   &:hover {
-    background-color: ${props => hoverBg[props.appearance](props)};
+    background-color: ${props => darken(props.theme[colorName], 5)};
   }
   &:focus {
-    background-color: ${props => hoverBg[props.appearance](props)};
+    background-color: ${props => darken(props.theme[colorName], 5)};
+  }
+`;
+
+const linkMixin = css`
+  border: 1px solid transparent;
+  background: none;
+  color: ${props => props.theme.brandPrimary};
+  &:hover {
+    text-decoration: underline;
+  }
+`;
+
+const buttons = {
+  default: appearanceMixin("brandDefault"),
+  primary: appearanceMixin("brandPrimary"),
+  secondary: appearanceMixin("brandSecondary"),
+  success: appearanceMixin("brandSuccess"),
+  danger: appearanceMixin("brandDanger"),
+  link: linkMixin
+};
+
+const Button = styled.button`
+  width: ${props => (props.block ? "100%" : "auto")};
+  display: ${props => (props.block ? "block" : "inline-block")};
+  padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
+  font-size: 1rem;
+  cursor: pointer;
+  &:focus {
     outline: 2px solid ${props => props.theme.focusColor};
     outline-offset: 2px;
   }
+  ${props => buttons[props.appearance]};
 `;
 Button.displayName = "Button";
 Button.propTypes = {
+  block: PropTypes.bool,
   appearance: PropTypes.oneOf([
     "default",
     "primary",
     "secondary",
     "success",
-    "danger"
+    "danger",
+    "link"
   ]).isRequired
 };
 Button.defaultProps = {
