@@ -34,7 +34,7 @@ const buttons = {
 };
 
 const Button = styled.button`
-  width: ${props => (props.block ? "100%" : "auto")};
+  ${props => props.block && "width: 100%"};
   display: ${props => (props.block ? "block" : "inline-block")};
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
   ${props => props.block && `margin-bottom: ${props.theme.spacingBase()}`};
