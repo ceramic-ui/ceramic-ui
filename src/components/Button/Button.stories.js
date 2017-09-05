@@ -42,4 +42,26 @@ storiesOf("Button", module)
         </Button>
       </ButtonPanel>
     );
+  })
+  .add("Disabled", () => {
+    return (
+      <ButtonPanel>
+        <Button disabled>Default</Button>
+        <Button disabled appearance="primary">
+          Primary
+        </Button>
+        <Button disabled appearance="secondary">
+          Secondary
+        </Button>
+        <Button disabled appearance="success">
+          Success
+        </Button>
+        <Button disabled appearance="danger">
+          Danger
+        </Button>
+        <Button disabled appearance="link" onClick={() => alert("hi")}>
+          Link
+        </Button>
+      </ButtonPanel>
+    );
   });

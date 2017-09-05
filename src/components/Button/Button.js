@@ -2,10 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
-import { darken } from "../../colors";
+import { lighten, darken } from "../../colors";
 
 const appearanceMixin = colorName => css`
   border: 1px solid ${props => props.theme[colorName]};
+  box-shadow: 2px 2px 8px 0 ${props => lighten(props.theme.black, 60)};
   background-color: ${props => props.theme[colorName]};
   color: ${props => props.theme.white};
   &:hover {
@@ -14,6 +15,26 @@ const appearanceMixin = colorName => css`
   &:focus {
     background-color: ${props => darken(props.theme[colorName], 5)};
   }
+  &:active {
+    box-shadow: none;
+  }
+`;
+
+const defaultMixin = css`
+  border: 1px solid ${props => props.theme.brandPrimary};
+  box-shadow: 2px 2px 8px 0 ${props => lighten(props.theme.black, 60)},
+    inset 0 0 0 3px ${props => props.theme.brandPrimary};
+  background-color: ${props => props.theme.white};
+  color: ${props => props.theme.brandPrimary};
+  &:hover {
+    background-color: ${props => darken(props.theme.white, 5)};
+  }
+  &:focus {
+    background-color: ${props => darken(props.theme.white, 5)};
+  }
+  &:active {
+    box-shadow: inset 0 0 0 3px ${props => props.theme.brandPrimary};
+  }
 `;
 
 const linkMixin = css`
@@ -21,11 +42,11 @@ const linkMixin = css`
   background: none;
   color: ${props => props.theme.linkColor};
   text-decoration: underline;
-  text-transform: none;
+  font-weight: 400;
 `;
 
 const buttons = {
-  default: appearanceMixin("brandDefault"),
+  default: defaultMixin,
   primary: appearanceMixin("brandPrimary"),
   secondary: appearanceMixin("brandSecondary"),
   success: appearanceMixin("brandSuccess"),
@@ -39,13 +60,22 @@ const Button = styled.button`
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
   ${props => props.block && `margin-bottom: ${props.theme.spacingBase()}`};
   font-size: 1rem;
+  font-weight: 500;
   cursor: pointer;
-  text-transform: uppercase;
   &:focus {
     outline: 2px solid ${props => props.theme.focusColor};
     outline-offset: 2px;
   }
   ${props => buttons[props.appearance]};
+  &:disabled {
+    background-color: ${props => props.theme.borderColor};
+    border-color: ${props => props.theme.borderColor};
+    box-shadow: none;
+    color: ${props => props.theme.black};
+    text-decoration: none;
+    font-weight: 400;
+    cursor: not-allowed;
+  }
 `;
 Button.displayName = "Button";
 Button.propTypes = {
