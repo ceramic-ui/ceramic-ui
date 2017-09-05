@@ -2,11 +2,11 @@ import defaultTheme from "./default";
 
 export default {
   ...defaultTheme,
-  linkColor: "#009fd4",
+  linkColor: "#3344dd",
   linkVisitedColor: "#8859b6",
   brandDefault: "#3e3e3e",
-  brandPrimary: "#009fd4",
+  brandPrimary: "#007FAA",
   brandSecondary: "#5d445d",
-  brandSuccess: "#00aa55",
-  brandDanger: "#f22613"
+  brandSuccess: "#008945",
+  brandDanger: "#E8200D"
 };
