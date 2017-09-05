@@ -2,6 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
+import { maxWidth, minWidth } from "../../media";
+
 export const justifyChoices = {
   start: "flex-start",
   end: "flex-end",
@@ -33,14 +35,26 @@ const margins = {
 
 const ButtonPanel = styled.div`
   display: ${props => (props.justify === "none" ? "block" : "flex")};
+  flex-direction: column;
   justify-content: ${props => justifyChoices[props.justify]};
-  ${props => margins[props.justify]};
 
-  & > * {
-    margin: 0
-      ${props =>
-        props.justify === "none" ? "0" : props.theme.spacingBase(s => s / 4)};
-  }
+  ${maxWidth.medium`
+    & > * { margin-bottom: ${props => props.theme.spacingBase()}; }
+  `};
+
+  ${minWidth.medium`
+    flex-direction: row;
+    ${props => margins[props.justify]};
+
+    & > * {
+      margin-left:
+        ${props =>
+          props.justify === "none" ? "0" : props.theme.spacingBase(s => s / 4)};
+      margin-right:
+        ${props =>
+          props.justify === "none" ? "0" : props.theme.spacingBase(s => s / 4)};
+    }
+  `};
 `;
 ButtonPanel.displayName = "ButtonPanel";
 ButtonPanel.propTypes = {
