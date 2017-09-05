@@ -36,6 +36,7 @@ const Button = styled.button`
   width: ${props => (props.block ? "100%" : "auto")};
   display: ${props => (props.block ? "block" : "inline-block")};
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
+  margin-bottom: ${props => (props.block ? props.theme.spacingBase() : "0")};
   font-size: 1rem;
   cursor: pointer;
   &:focus {
