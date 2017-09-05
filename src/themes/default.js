@@ -32,7 +32,6 @@ export default {
   white,
   linkColor: "#329af0",
   linkVisitedColor: "#8859b6",
-  brandDefault: "#495057",
   brandPrimary: "#329af0",
   brandSecondary: "#1862ab",
   brandSuccess: "#40c057",
