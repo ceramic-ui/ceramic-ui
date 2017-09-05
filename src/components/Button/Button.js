@@ -21,6 +21,7 @@ const linkMixin = css`
   background: none;
   color: ${props => props.theme.linkColor};
   text-decoration: underline;
+  text-transform: none;
 `;
 
 const buttons = {
@@ -39,6 +40,7 @@ const Button = styled.button`
   margin-bottom: ${props => (props.block ? props.theme.spacingBase() : "0")};
   font-size: 1rem;
   cursor: pointer;
+  text-transform: uppercase;
   &:focus {
     outline: 2px solid ${props => props.theme.focusColor};
     outline-offset: 2px;
