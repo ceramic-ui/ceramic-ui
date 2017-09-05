@@ -19,10 +19,8 @@ const appearanceMixin = colorName => css`
 const linkMixin = css`
   border: 1px solid transparent;
   background: none;
-  color: ${props => props.theme.brandPrimary};
-  &:hover {
-    text-decoration: underline;
-  }
+  color: ${props => props.theme.linkColor};
+  text-decoration: underline;
 `;
 
 const buttons = {
