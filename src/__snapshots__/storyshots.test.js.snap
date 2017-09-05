@@ -14,40 +14,40 @@ exports[`Storyshots Button Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH rrMLZ"
+        className="sc-bwzfXH elVppf"
       >
         <button
-          className="sc-htpNat iEoRlu"
+          className="sc-htpNat hUOHsA"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat jhUCru"
+          className="sc-htpNat iGTMDg"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat OKoHQ"
+          className="sc-htpNat ieSKLr"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat gnoTar"
+          className="sc-htpNat fSLpKD"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat hfLTLj"
+          className="sc-htpNat KOouS"
           type="button"
         >
           Danger
         </button>
         <button
-          className="sc-htpNat eUaBNU"
+          className="sc-htpNat jxTfZq"
           type="button"
         >
           Link
@@ -1011,40 +1011,94 @@ exports[`Storyshots Button Block-level 1`] = `
   className="sc-bdVaJa kRLPJe"
 >
   <div
-    className="sc-bwzfXH kxgWIX"
+    className="sc-bwzfXH dzeXiM"
   >
     <button
-      className="sc-htpNat fJGyxV"
+      className="sc-htpNat fEhdxz"
       type="button"
     >
       Default
     </button>
     <button
-      className="sc-htpNat kcJhkQ"
+      className="sc-htpNat iGcwUN"
       type="button"
     >
       Primary
     </button>
     <button
-      className="sc-htpNat sMeZD"
+      className="sc-htpNat csKsJJ"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="sc-htpNat heDKNk"
+      className="sc-htpNat jySqoV"
       type="button"
     >
       Success
     </button>
     <button
-      className="sc-htpNat dvsYlI"
+      className="sc-htpNat hmciEv"
       type="button"
     >
       Danger
     </button>
     <button
-      className="sc-htpNat gPgPBx"
+      className="sc-htpNat jYvqMI"
+      type="button"
+    >
+      Link
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button Disabled 1`] = `
+<div
+  className="sc-bdVaJa kRLPJe"
+>
+  <div
+    className="sc-bwzfXH elVppf"
+  >
+    <button
+      className="sc-htpNat hUOHsA"
+      disabled={true}
+      type="button"
+    >
+      Default
+    </button>
+    <button
+      className="sc-htpNat iGTMDg"
+      disabled={true}
+      type="button"
+    >
+      Primary
+    </button>
+    <button
+      className="sc-htpNat ieSKLr"
+      disabled={true}
+      type="button"
+    >
+      Secondary
+    </button>
+    <button
+      className="sc-htpNat fSLpKD"
+      disabled={true}
+      type="button"
+    >
+      Success
+    </button>
+    <button
+      className="sc-htpNat KOouS"
+      disabled={true}
+      type="button"
+    >
+      Danger
+    </button>
+    <button
+      className="sc-htpNat jxTfZq"
+      disabled={true}
+      onClick={[Function]}
       type="button"
     >
       Link
@@ -1067,40 +1121,40 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH rrMLZ"
+        className="sc-bwzfXH elVppf"
       >
         <button
-          className="sc-htpNat iEoRlu"
+          className="sc-htpNat hUOHsA"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat jhUCru"
+          className="sc-htpNat iGTMDg"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat OKoHQ"
+          className="sc-htpNat ieSKLr"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat gnoTar"
+          className="sc-htpNat fSLpKD"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat hfLTLj"
+          className="sc-htpNat KOouS"
           type="button"
         >
           Danger
         </button>
         <button
-          className="sc-htpNat eUaBNU"
+          className="sc-htpNat jxTfZq"
           type="button"
         >
           Link
@@ -6084,6 +6138,783 @@ exports[`Storyshots Paragraph Basic 1`] = `
                     </td>
                     <td>
                       no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots ProgressBar Basic 1`] = `
+<div
+  className="sc-bdVaJa kRLPJe"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <div
+        className="sc-gZMcBi jMnqap"
+      >
+        <div
+          aria-valuemax={100}
+          aria-valuemin={0}
+          aria-valuenow={42}
+          className="sc-VigVT OIuKL"
+          max={100}
+          min={0}
+          role="progressbar"
+          value={42}
+        />
+        <div
+          aria-valuemax={100}
+          aria-valuemin={0}
+          aria-valuenow={42}
+          className="sc-VigVT hSOrdV"
+          max={100}
+          min={0}
+          role="progressbar"
+          value={42}
+        />
+        <div
+          aria-valuemax={100}
+          aria-valuemin={0}
+          aria-valuenow={42}
+          className="sc-VigVT dyoXCO"
+          max={100}
+          min={0}
+          role="progressbar"
+          value={42}
+        />
+        <div
+          aria-valuemax={100}
+          aria-valuemin={0}
+          aria-valuenow={42}
+          className="sc-VigVT dqKPLu"
+          max={100}
+          min={0}
+          role="progressbar"
+          value={42}
+        />
+      </div>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              ProgressBar
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    Container
+                  </span>
+                  <span />
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    ProgressBar
+                  </span>
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        value
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }
+                            >
+                              42
+                            </span>
+                          </span>
+                        </span>
+                      </span>
+                       
+                    </span>
+                  </span>
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    /&gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    ProgressBar
+                  </span>
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        appearance
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#22a",
+                                "wordBreak": "break-word",
+                              }
+                            }
+                          >
+                            "
+                            secondary
+                            "
+                          </span>
+                        </span>
+                      </span>
+                    </span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        value
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }
+                            >
+                              42
+                            </span>
+                          </span>
+                        </span>
+                      </span>
+                       
+                    </span>
+                  </span>
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    /&gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    ProgressBar
+                  </span>
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        appearance
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#22a",
+                                "wordBreak": "break-word",
+                              }
+                            }
+                          >
+                            "
+                            danger
+                            "
+                          </span>
+                        </span>
+                      </span>
+                    </span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        value
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }
+                            >
+                              42
+                            </span>
+                          </span>
+                        </span>
+                      </span>
+                       
+                    </span>
+                  </span>
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    /&gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    ProgressBar
+                  </span>
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        appearance
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#22a",
+                                "wordBreak": "break-word",
+                              }
+                            }
+                          >
+                            "
+                            success
+                            "
+                          </span>
+                        </span>
+                      </span>
+                    </span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        value
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }
+                            >
+                              42
+                            </span>
+                          </span>
+                        </span>
+                      </span>
+                       
+                    </span>
+                  </span>
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    /&gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    Container
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Container
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      readable
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                ProgressBar
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      appearance
+                    </td>
+                    <td>
+                      other
+                    </td>
+                    <td>
+                      yes
+                    </td>
+                    <td>
+                      <span
+                        style={
+                          Object {
+                            "color": "#22a",
+                            "wordBreak": "break-word",
+                          }
+                        }
+                      >
+                        "
+                        primary
+                        "
+                      </span>
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      min
+                    </td>
+                    <td>
+                      number
+                    </td>
+                    <td>
+                      yes
+                    </td>
+                    <td>
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#a11",
+                            }
+                          }
+                        >
+                          0
+                        </span>
+                      </span>
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      max
+                    </td>
+                    <td>
+                      number
+                    </td>
+                    <td>
+                      yes
+                    </td>
+                    <td>
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#a11",
+                            }
+                          }
+                        >
+                          100
+                        </span>
+                      </span>
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      value
+                    </td>
+                    <td>
+                      number
+                    </td>
+                    <td>
+                      yes
                     </td>
                     <td>
                       -
