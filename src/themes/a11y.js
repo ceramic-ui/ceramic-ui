@@ -6,7 +6,7 @@ export default {
   linkVisitedColor: "#8859b6",
   brandDefault: "#3e3e3e",
   brandPrimary: "#009fd4",
-  brandSecondary: "#005051",
+  brandSecondary: "#5d445d",
   brandSuccess: "#00aa55",
   brandDanger: "#f22613"
 };
