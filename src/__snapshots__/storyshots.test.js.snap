@@ -14,40 +14,40 @@ exports[`Storyshots Button Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH ggscwH"
+        className="sc-bwzfXH rrMLZ"
       >
         <button
-          className="sc-htpNat fkaVOv"
+          className="sc-htpNat iEoRlu"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat gVYpcw"
+          className="sc-htpNat jhUCru"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat eyzOzP"
+          className="sc-htpNat OKoHQ"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat laRwKM"
+          className="sc-htpNat gnoTar"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat jbaHlj"
+          className="sc-htpNat hfLTLj"
           type="button"
         >
           Danger
         </button>
         <button
-          className="sc-htpNat tjUAQ"
+          className="sc-htpNat eUaBNU"
           type="button"
         >
           Link
@@ -1011,40 +1011,40 @@ exports[`Storyshots Button Block-level 1`] = `
   className="sc-bdVaJa kRLPJe"
 >
   <div
-    className="sc-bwzfXH bbLuCu"
+    className="sc-bwzfXH kxgWIX"
   >
     <button
-      className="sc-htpNat dsecih"
+      className="sc-htpNat fJGyxV"
       type="button"
     >
       Default
     </button>
     <button
-      className="sc-htpNat cerGsi"
+      className="sc-htpNat kcJhkQ"
       type="button"
     >
       Primary
     </button>
     <button
-      className="sc-htpNat bWDauz"
+      className="sc-htpNat sMeZD"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="sc-htpNat jzgqpB"
+      className="sc-htpNat heDKNk"
       type="button"
     >
       Success
     </button>
     <button
-      className="sc-htpNat hAluMD"
+      className="sc-htpNat dvsYlI"
       type="button"
     >
       Danger
     </button>
     <button
-      className="sc-htpNat jGBoMT"
+      className="sc-htpNat gPgPBx"
       type="button"
     >
       Link
@@ -1067,40 +1067,40 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH ggscwH"
+        className="sc-bwzfXH rrMLZ"
       >
         <button
-          className="sc-htpNat fkaVOv"
+          className="sc-htpNat iEoRlu"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat gVYpcw"
+          className="sc-htpNat jhUCru"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat eyzOzP"
+          className="sc-htpNat OKoHQ"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat laRwKM"
+          className="sc-htpNat gnoTar"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat jbaHlj"
+          className="sc-htpNat hfLTLj"
           type="button"
         >
           Danger
         </button>
         <button
-          className="sc-htpNat tjUAQ"
+          className="sc-htpNat eUaBNU"
           type="button"
         >
           Link
