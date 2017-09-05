@@ -2,6 +2,7 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
+import ButtonPanel from "../ButtonPanel";
 import Button from "./Button";
 
 storiesOf("Button", module)
@@ -9,20 +10,20 @@ storiesOf("Button", module)
     "Basic",
     withInfo()(() => {
       return (
-        <div>
+        <ButtonPanel>
           <Button>Default</Button>
           <Button appearance="primary">Primary</Button>
           <Button appearance="secondary">Secondary</Button>
           <Button appearance="success">Success</Button>
           <Button appearance="danger">Danger</Button>
           <Button appearance="link">Link</Button>
-        </div>
+        </ButtonPanel>
       );
     })
   )
   .add("Block-level", () => {
     return (
-      <div>
+      <ButtonPanel justify="none">
         <Button block>Default</Button>
         <Button block appearance="primary">
           Primary
@@ -39,6 +40,6 @@ storiesOf("Button", module)
         <Button block appearance="link">
           Link
         </Button>
-      </div>
+      </ButtonPanel>
     );
   });
