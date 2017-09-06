@@ -6,7 +6,7 @@ const Label = styled.label`
   display: block;
   font-weight: bold;
   font-size: ${props => props.theme.fontSize()};
-  margin-bottom: ${props => props.theme.spacingBase(s => s / 4)};
+  color: ${props => props.theme.textColor};
 `;
 Label.displayName = "Label";
 Label.propTypes = {};
