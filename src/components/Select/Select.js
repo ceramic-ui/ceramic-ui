@@ -13,6 +13,8 @@ const Container = styled.div`
   align-items: center;
   white-space: nowrap;
   position: relative;
+  ${props => !!props.valid && `color: ${props.theme.brandSuccess}`};
+  ${props => !!props.invalid && `color: ${props.theme.brandDanger}`};
 `;
 Container.displayName = "Select.Container";
 
@@ -71,7 +73,12 @@ const Control = styled.select`
 Control.displayName = "Select.Control";
 
 const Select = props => (
-  <Container inline={props.inline} disabled={props.disabled}>
+  <Container
+    valid={props.valid}
+    invalid={props.invalid}
+    inline={props.inline}
+    disabled={props.disabled}
+  >
     <Control {...props} />
     <Accessory>
       <Chevron />
@@ -80,6 +87,8 @@ const Select = props => (
 );
 
 Select.propTypes = {
+  valid: PropTypes.bool,
+  invalid: PropTypes.bool,
   inline: PropTypes.bool,
   disabled: PropTypes.bool
 };

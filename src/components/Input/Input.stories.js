@@ -39,4 +39,21 @@ storiesOf("Input", module)
         <Input inline disabled />
       </SpacedContainer>
     </div>
+  ))
+  .add("Validation", () => (
+    <div>
+      <Container readable>
+        <Input valid defaultValue="I am valid" />
+      </Container>
+      <Container readable>
+        <Input invalid defaultValue="I am invalid" />
+      </Container>
+      <Container readable>
+        <Input
+          disabled
+          invalid
+          defaultValue="I am disabled. Validation not shown."
+        />
+      </Container>
+    </div>
   ));

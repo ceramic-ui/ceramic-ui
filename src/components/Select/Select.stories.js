@@ -75,4 +75,26 @@ storiesOf("Select", module)
         </Select>
       </SpacedContainer>
     </div>
+  ))
+  .add("Validation", () => (
+    <div>
+      <Container>
+        <Select valid>
+          <Option>Select your favourite super hero</Option>
+          <Option selected>Wonder woman</Option>
+          <Option>Batman</Option>
+          <Option>Superman</Option>
+          <Option>Iron man</Option>
+        </Select>
+      </Container>
+      <Container>
+        <Select invalid>
+          <Option>Select your favourite super hero</Option>
+          <Option>Wonder woman</Option>
+          <Option>Batman</Option>
+          <Option>Superman</Option>
+          <Option>Iron man</Option>
+        </Select>
+      </Container>
+    </div>
   ));

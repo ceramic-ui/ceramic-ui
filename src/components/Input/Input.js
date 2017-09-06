@@ -13,6 +13,9 @@ const Input = styled.input`
   touch-action: manipulation;
   background-color: ${props => props.theme.white};
   color: inherit;
+  ${props => !!props.valid && `color: ${props.theme.brandSuccess}`};
+  ${props => !!props.invalid && `color: ${props.theme.brandDanger}`};
+  ${props => !!props.disabled && "color: inherit"};
   &:focus {
     outline: 2px solid ${props => props.theme.focusColor};
     outline-offset: 2px;
@@ -23,6 +26,10 @@ const Input = styled.input`
   }
 `;
 Input.displayName = "Input";
-Input.propTypes = {};
+Input.propTypes = {
+  inline: PropTypes.bool,
+  valid: PropTypes.bool,
+  invalid: PropTypes.bool
+};
 
 export default Input;
