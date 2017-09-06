@@ -15,7 +15,7 @@ function loadStories() {
 
 reset();
 
-const Stage = styled.div`padding: ${props => props.theme.spacingBase()} 0;`;
+const Stage = styled.div`padding: ${props => props.theme.spacingBase()};`;
 Stage.displayName = "Stage";
 
 addDecorator(story => {
