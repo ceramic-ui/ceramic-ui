@@ -5,16 +5,16 @@ import styled from "styled-components";
 export const Option = props => <option {...props} />;
 export const OptionGroup = props => <optgroup {...props} />;
 
-const Container = styled.div`
+const Label = styled.label`
   border: 2px solid currentColor;
   background-color: ${props =>
-    props.disabled ? props.theme.brandDisabled : props.theme.white};
+    props.disabled ? props.theme.brandMuted : props.theme.white};
   display: ${props => (props.inline ? "inline-flex" : "flex")};
   align-items: center;
   white-space: nowrap;
   position: relative;
 `;
-Container.displayName = "Select.Container";
+Label.displayName = "Select.Label";
 
 const Accessory = styled.div`
   width: ${props => props.theme.paddingX(s => s * 2)};
@@ -71,12 +71,12 @@ const Control = styled.select`
 Control.displayName = "Select.Control";
 
 const Select = props => (
-  <Container inline={props.inline} disabled={props.disabled}>
+  <Label inline={props.inline} disabled={props.disabled}>
     <Control {...props} />
     <Accessory>
       <Chevron />
     </Accessory>
-  </Container>
+  </Label>
 );
 
 Select.propTypes = {
