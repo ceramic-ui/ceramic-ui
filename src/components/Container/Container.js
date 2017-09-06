@@ -7,7 +7,7 @@ import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
 
 const Container = styled.div`
   ${props => vrythm};
-  padding: 0 ${props => props.theme.paddingX()};
+  padding: 0 ${props => props.theme.spacingBase()};
 
   ${minWidth.medium`max-width: ${props =>
     props.readable ? props.theme.readableWidth() : "auto"}`};
