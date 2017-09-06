@@ -4003,17 +4003,17 @@ exports[`Storyshots Container Basic 1`] = `
     >
       <div>
         <div
-          className="sc-gZMcBi eeEHXD"
+          className="sc-gZMcBi ACLRk"
         >
           Hello Container 1
         </div>
         <div
-          className="sc-gZMcBi eeEHXD"
+          className="sc-gZMcBi ACLRk"
         >
           Hello Container 2
         </div>
         <div
-          className="sc-gZMcBi clDhaE"
+          className="sc-gZMcBi hUSxgO"
         >
           This container has its width limited for readability on tablet and larger screens. On mobile screens, it still takes up 100% width. Try resizing your window to see the effect.
         </div>
@@ -5478,10 +5478,10 @@ exports[`Storyshots Input Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi clDhaE"
+        className="sc-gZMcBi hUSxgO"
       >
         <input
-          className="sc-gqjmRU exdWkx"
+          className="sc-gqjmRU cSLgHR"
         />
       </div>
     </div>
@@ -5818,9 +5818,82 @@ exports[`Storyshots Input Basic 1`] = `
                 Input
                 " Component
               </h2>
-              <small>
-                No propTypes defined!
-              </small>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      inline
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      valid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      invalid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
@@ -5836,23 +5909,23 @@ exports[`Storyshots Input Disabled 1`] = `
 >
   <div>
     <div
-      className="sc-gZMcBi clDhaE"
+      className="sc-gZMcBi hUSxgO"
     >
       <input
-        className="sc-gqjmRU exdWkx"
+        className="sc-gqjmRU bTIefn"
         disabled={true}
         value="cannot edit me!"
       />
     </div>
     <div
-      className="sc-VigVT KfWfZ"
+      className="sc-VigVT hqMSnI"
     >
       <input
-        className="sc-gqjmRU jmiukc"
+        className="sc-gqjmRU kdpdSa"
         disabled={true}
       />
       <input
-        className="sc-gqjmRU jmiukc"
+        className="sc-gqjmRU kdpdSa"
         disabled={true}
       />
     </div>
@@ -5874,13 +5947,13 @@ exports[`Storyshots Input Inline 1`] = `
       }
     >
       <div
-        className="sc-VigVT KfWfZ"
+        className="sc-VigVT hqMSnI"
       >
         <input
-          className="sc-gqjmRU jmiukc"
+          className="sc-gqjmRU cyqcsY"
         />
         <input
-          className="sc-gqjmRU jmiukc"
+          className="sc-gqjmRU cyqcsY"
         />
       </div>
     </div>
@@ -6192,9 +6265,82 @@ exports[`Storyshots Input Inline 1`] = `
                 Input
                 " Component
               </h2>
-              <small>
-                No propTypes defined!
-              </small>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      inline
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      valid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      invalid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
             </div>
             <div>
               <h2
@@ -6273,6 +6419,40 @@ exports[`Storyshots Input Inline 1`] = `
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Input Validation 1`] = `
+<div
+  className="sc-bdVaJa eFICPR"
+>
+  <div>
+    <div
+      className="sc-gZMcBi hUSxgO"
+    >
+      <input
+        className="sc-gqjmRU gqeHYD"
+        defaultValue="I am valid"
+      />
+    </div>
+    <div
+      className="sc-gZMcBi hUSxgO"
+    >
+      <input
+        className="sc-gqjmRU iLCoSF"
+        defaultValue="I am invalid"
+      />
+    </div>
+    <div
+      className="sc-gZMcBi hUSxgO"
+    >
+      <input
+        className="sc-gqjmRU biumOH"
+        defaultValue="I am disabled. Validation not shown."
+        disabled={true}
+      />
     </div>
   </div>
 </div>
@@ -7372,7 +7552,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi eeEHXD"
+        className="sc-gZMcBi ACLRk"
       >
         <div
           aria-valuemax={100}
@@ -8179,10 +8359,10 @@ exports[`Storyshots Select Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi clDhaE"
+        className="sc-gZMcBi hUSxgO"
       >
         <div
-          className="sc-cSHVUG eHWVxD"
+          className="sc-cSHVUG cQvKhQ"
           disabled={undefined}
         >
           <select
@@ -8971,6 +9151,36 @@ exports[`Storyshots Select Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
+                      valid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      invalid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
                       inline
                     </td>
                     <td>
@@ -9016,10 +9226,10 @@ exports[`Storyshots Select Disabled 1`] = `
 >
   <div>
     <div
-      className="sc-gZMcBi clDhaE"
+      className="sc-gZMcBi hUSxgO"
     >
       <div
-        className="sc-cSHVUG dloVbQ"
+        className="sc-cSHVUG feGdOl"
         disabled={true}
       >
         <select
@@ -9062,10 +9272,10 @@ exports[`Storyshots Select Disabled 1`] = `
       </div>
     </div>
     <div
-      className="sc-kGXeez kDyELy"
+      className="sc-kGXeez dnZczP"
     >
       <div
-        className="sc-cSHVUG blleHS"
+        className="sc-cSHVUG jWVmji"
         disabled={true}
       >
         <select
@@ -9107,7 +9317,7 @@ exports[`Storyshots Select Disabled 1`] = `
         </div>
       </div>
       <div
-        className="sc-cSHVUG blleHS"
+        className="sc-cSHVUG jWVmji"
         disabled={true}
       >
         <select
@@ -9167,10 +9377,10 @@ exports[`Storyshots Select Inline 1`] = `
       }
     >
       <div
-        className="sc-kGXeez kDyELy"
+        className="sc-kGXeez dnZczP"
       >
         <div
-          className="sc-cSHVUG kRjeRt"
+          className="sc-cSHVUG bUMskF"
           disabled={undefined}
         >
           <select
@@ -9211,7 +9421,7 @@ exports[`Storyshots Select Inline 1`] = `
           </div>
         </div>
         <div
-          className="sc-cSHVUG kRjeRt"
+          className="sc-cSHVUG bUMskF"
           disabled={undefined}
         >
           <select
@@ -10342,6 +10552,36 @@ exports[`Storyshots Select Inline 1`] = `
                 <tbody>
                   <tr>
                     <td>
+                      valid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      invalid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
                       inline
                     </td>
                     <td>
@@ -10455,6 +10695,107 @@ exports[`Storyshots Select Inline 1`] = `
 </div>
 `;
 
+exports[`Storyshots Select Validation 1`] = `
+<div
+  className="sc-bdVaJa eFICPR"
+>
+  <div>
+    <div
+      className="sc-gZMcBi ACLRk"
+    >
+      <div
+        className="sc-cSHVUG gQnJRm"
+        disabled={undefined}
+      >
+        <select
+          className="sc-kgoBCf dpunGF"
+        >
+          <option>
+            Select your favourite super hero
+          </option>
+          <option
+            selected={true}
+          >
+            Wonder woman
+          </option>
+          <option>
+            Batman
+          </option>
+          <option>
+            Superman
+          </option>
+          <option>
+            Iron man
+          </option>
+        </select>
+        <div
+          className="sc-kAzzGY cGmAir"
+        >
+          <svg
+            className="sc-chPdSV dzZpSy"
+            fill="none"
+            stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="3"
+            viewBox="0 0 24 24"
+          >
+            <polyline
+              points="6 9 12 15 18 9"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-gZMcBi ACLRk"
+    >
+      <div
+        className="sc-cSHVUG eBqYOS"
+        disabled={undefined}
+      >
+        <select
+          className="sc-kgoBCf dpunGF"
+        >
+          <option>
+            Select your favourite super hero
+          </option>
+          <option>
+            Wonder woman
+          </option>
+          <option>
+            Batman
+          </option>
+          <option>
+            Superman
+          </option>
+          <option>
+            Iron man
+          </option>
+        </select>
+        <div
+          className="sc-kAzzGY cGmAir"
+        >
+          <svg
+            className="sc-chPdSV dzZpSy"
+            fill="none"
+            stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="3"
+            viewBox="0 0 24 24"
+          >
+            <polyline
+              points="6 9 12 15 18 9"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Switch Basic 1`] = `
 <div
   className="sc-bdVaJa eFICPR"
@@ -10469,7 +10810,7 @@ exports[`Storyshots Switch Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi eeEHXD"
+        className="sc-gZMcBi ACLRk"
       >
         <div
           className="sc-iwsKbI iGpqNg"
@@ -10480,7 +10821,7 @@ exports[`Storyshots Switch Basic 1`] = `
             As a checkbox
           </p>
           <div
-            className="sc-gZMcBi eeEHXD"
+            className="sc-gZMcBi ACLRk"
           >
             <div
               className="sc-jKJlTe iLnlYU"
@@ -10506,7 +10847,7 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi eeEHXD"
+            className="sc-gZMcBi ACLRk"
           >
             <div
               className="sc-jKJlTe iLnlYU"
@@ -10532,7 +10873,7 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi eeEHXD"
+            className="sc-gZMcBi ACLRk"
           >
             <div
               className="sc-jKJlTe iLnlYU"
@@ -10568,7 +10909,7 @@ exports[`Storyshots Switch Basic 1`] = `
             As a radio
           </p>
           <div
-            className="sc-gZMcBi eeEHXD"
+            className="sc-gZMcBi ACLRk"
           >
             <div
               className="sc-jKJlTe iLnlYU"
@@ -10594,7 +10935,7 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi eeEHXD"
+            className="sc-gZMcBi ACLRk"
           >
             <div
               className="sc-jKJlTe iLnlYU"
@@ -10620,7 +10961,7 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi eeEHXD"
+            className="sc-gZMcBi ACLRk"
           >
             <div
               className="sc-jKJlTe iLnlYU"
@@ -12931,7 +13272,7 @@ exports[`Storyshots Text Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi eeEHXD"
+        className="sc-gZMcBi ACLRk"
       >
         <span
           className="sc-hMqMXs lnyvPD"
@@ -14048,7 +14389,7 @@ exports[`Storyshots Text Weights 1`] = `
   className="sc-bdVaJa eFICPR"
 >
   <div
-    className="sc-gZMcBi eeEHXD"
+    className="sc-gZMcBi ACLRk"
   >
     <span
       className="sc-hMqMXs hGWRps"
