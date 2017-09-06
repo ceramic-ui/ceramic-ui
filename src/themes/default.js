@@ -36,5 +36,6 @@ export default {
   brandSecondary: "#1862ab",
   brandSuccess: "#40c057",
   brandDanger: "#f03e3e",
-  brandMuted: "#ced4da"
+  brandMuted: "#687889",
+  brandDisabled: "#ced4da"
 };

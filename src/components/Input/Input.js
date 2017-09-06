@@ -21,7 +21,7 @@ const Input = styled.input`
     outline-offset: 2px;
   }
   &:disabled {
-    background-color: ${props => props.theme.brandMuted};
+    background-color: ${props => props.theme.brandDisabled};
     cursor: not-allowed;
   }
 `;

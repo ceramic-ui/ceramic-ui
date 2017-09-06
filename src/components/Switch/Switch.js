@@ -53,8 +53,8 @@ const Control = styled.input.attrs({
     cursor: not-allowed;
   }
   &:disabled + ${Label} > ${Status} {
-    border-color: ${props => props.theme.brandMuted};
-    background-color: ${props => props.theme.brandMuted};
+    border-color: ${props => props.theme.brandDisabled};
+    background-color: ${props => props.theme.brandDisabled};
   }
   &:focus + ${Label} {
     outline: 2px solid ${props => props.theme.focusColor};

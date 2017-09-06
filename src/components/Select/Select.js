@@ -8,7 +8,7 @@ export const OptionGroup = props => <optgroup {...props} />;
 const Container = styled.div`
   border: 2px solid currentColor;
   background-color: ${props =>
-    props.disabled ? props.theme.brandMuted : props.theme.white};
+    props.disabled ? props.theme.brandDisabled : props.theme.white};
   display: ${props => (props.inline ? "inline-flex" : "flex")};
   align-items: center;
   white-space: nowrap;
