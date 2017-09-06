@@ -57,7 +57,7 @@ const Control = styled.select`
   ${props => `padding: ${props.theme.paddingY()} ${props.theme.paddingX()}`};
   padding-right: ${props => props.theme.paddingX(s => s * 2)};
   font-size: ${props => props.theme.fontSize()};
-  line-height: 1;
+  line-height: inherit;
   cursor: pointer;
   z-index: 1;
   &:focus {
