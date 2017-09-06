@@ -24,7 +24,7 @@ const appearanceMixin = colorName => css`
 const defaultMixin = css`
   border: 1px solid ${props => props.theme.brandPrimary};
   box-shadow: 0px 2px 4px 0 ${props => lighten(props.theme.black, 60)},
-    inset 0 0 0 3px ${props => props.theme.brandPrimary};
+    inset 0 0 0 1px ${props => props.theme.brandPrimary};
   background-color: ${props => props.theme.white};
   color: ${props => props.theme.brandPrimary};
   &:hover {
