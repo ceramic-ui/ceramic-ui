@@ -20,8 +20,8 @@ const black = "#212529";
 export default {
   fontFamily: systemFontStack,
   headingFontFamily: systemFontStack,
-  paddingX: size(1),
-  paddingY: size(1),
+  paddingX: size(0.75),
+  paddingY: size(0.75),
   spacingBase: size(1.25),
   fontSize: size(1),
   readableWidth: size(38),
