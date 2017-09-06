@@ -4545,6 +4545,1572 @@ exports[`Storyshots Container Basic 1`] = `
 </div>
 `;
 
+exports[`Storyshots Error Basic 1`] = `
+<div
+  className="sc-bdVaJa eFICPR"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <p
+        className="sc-gqjmRU jlzksv"
+      >
+        Basic example
+      </p>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Error
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    Error
+                  </span>
+                  <span />
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    Basic example
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    Error
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Error
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Field Basic 1`] = `
+<div
+  className="sc-bdVaJa eFICPR"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <div
+        className="sc-gZMcBi hUSxgO"
+      >
+        <div
+          className="sc-jzJRlG jwebDd"
+        >
+          <div>
+            <label
+              className="sc-jTzLTM hExgyA"
+            >
+              Street
+            </label>
+            <span
+              className="sc-fjdhpX bpwrDY"
+              color="muted"
+            >
+              Must be a U.S. address
+            </span>
+          </div>
+          <input
+            className="sc-VigVT cDOZKz"
+            defaultValue="742 Evergreen Terrace"
+          />
+          <input
+            className="sc-VigVT cDOZKz"
+            defaultValue=""
+          />
+          <p
+            className="sc-gqjmRU jlzksv"
+          >
+            This is not a valid address
+          </p>
+        </div>
+        <div
+          className="sc-jzJRlG grhJEb"
+        >
+          <label
+            className="sc-jTzLTM hExgyA"
+          >
+            Town or suburb
+          </label>
+          <input
+            className="sc-VigVT cDOZKz"
+            defaultValue="Springfield"
+          />
+        </div>
+      </div>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Field
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    Container
+                  </span>
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        readable
+                      </span>
+                      
+                    </span>
+                  </span>
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Field
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          invalid
+                        </span>
+                        
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &gt;
+                    </span>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        div
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div>
+                      <div
+                        style={
+                          Object {
+                            "paddingLeft": 63,
+                            "paddingRight": 3,
+                          }
+                        }
+                      >
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &lt;
+                          Label
+                        </span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "paddingLeft": 48,
+                            "paddingRight": 3,
+                          }
+                        }
+                      >
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          Street
+                        </span>
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "paddingLeft": 63,
+                            "paddingRight": 3,
+                          }
+                        }
+                      >
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &lt;/
+                          Label
+                          &gt;
+                        </span>
+                      </div>
+                    </div>
+                    <div>
+                      <div
+                        style={
+                          Object {
+                            "paddingLeft": 63,
+                            "paddingRight": 3,
+                          }
+                        }
+                      >
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &lt;
+                          Text
+                        </span>
+                        <span>
+                          <span>
+                             
+                            <span
+                              style={Object {}}
+                            >
+                              color
+                            </span>
+                            <span>
+                              =
+                              <span
+                                style={Object {}}
+                              >
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#22a",
+                                      "wordBreak": "break-word",
+                                    }
+                                  }
+                                >
+                                  "
+                                  muted
+                                  "
+                                </span>
+                              </span>
+                            </span>
+                            
+                          </span>
+                        </span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "paddingLeft": 48,
+                            "paddingRight": 3,
+                          }
+                        }
+                      >
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          Must be a U.S. address
+                        </span>
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "paddingLeft": 63,
+                            "paddingRight": 3,
+                          }
+                        }
+                      >
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &lt;/
+                          Text
+                          &gt;
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        div
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 48,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Input
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          defaultValue
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              742 Evergreen Terrace
+                              "
+                            </span>
+                          </span>
+                        </span>
+                         
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      /&gt;
+                    </span>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 48,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Input
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          defaultValue
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              
+                              "
+                            </span>
+                          </span>
+                        </span>
+                         
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      /&gt;
+                    </span>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Error
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        This is not a valid address
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Error
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;/
+                      Field
+                      &gt;
+                    </span>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Field
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          valid
+                        </span>
+                        
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &gt;
+                    </span>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Label
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        Town or suburb
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Label
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 48,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Input
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          defaultValue
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              Springfield
+                              "
+                            </span>
+                          </span>
+                        </span>
+                         
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      /&gt;
+                    </span>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;/
+                      Field
+                      &gt;
+                    </span>
+                  </div>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    Container
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Container
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      readable
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Error
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Field
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      valid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      invalid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Input
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      inline
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      valid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      invalid
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Label
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Text
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      color
+                    </td>
+                    <td>
+                      other
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      weight
+                    </td>
+                    <td>
+                      other
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Heading Basic 1`] = `
 <div
   className="sc-bdVaJa eFICPR"
@@ -5481,7 +7047,7 @@ exports[`Storyshots Input Basic 1`] = `
         className="sc-gZMcBi hUSxgO"
       >
         <input
-          className="sc-gqjmRU cSLgHR"
+          className="sc-VigVT cDOZKz"
         />
       </div>
     </div>
@@ -5912,20 +7478,20 @@ exports[`Storyshots Input Disabled 1`] = `
       className="sc-gZMcBi hUSxgO"
     >
       <input
-        className="sc-gqjmRU bTIefn"
+        className="sc-VigVT rspek"
         disabled={true}
         value="cannot edit me!"
       />
     </div>
     <div
-      className="sc-VigVT hqMSnI"
+      className="sc-cSHVUG kKJnpj"
     >
       <input
-        className="sc-gqjmRU kdpdSa"
+        className="sc-VigVT gGciuT"
         disabled={true}
       />
       <input
-        className="sc-gqjmRU kdpdSa"
+        className="sc-VigVT gGciuT"
         disabled={true}
       />
     </div>
@@ -5947,13 +7513,13 @@ exports[`Storyshots Input Inline 1`] = `
       }
     >
       <div
-        className="sc-VigVT hqMSnI"
+        className="sc-cSHVUG kKJnpj"
       >
         <input
-          className="sc-gqjmRU cyqcsY"
+          className="sc-VigVT iNqcbd"
         />
         <input
-          className="sc-gqjmRU cyqcsY"
+          className="sc-VigVT iNqcbd"
         />
       </div>
     </div>
@@ -6433,7 +7999,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="sc-gZMcBi hUSxgO"
     >
       <input
-        className="sc-gqjmRU gqeHYD"
+        className="sc-VigVT jZjtqU"
         defaultValue="I am valid"
       />
     </div>
@@ -6441,7 +8007,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="sc-gZMcBi hUSxgO"
     >
       <input
-        className="sc-gqjmRU iLCoSF"
+        className="sc-VigVT cWVZUD"
         defaultValue="I am invalid"
       />
     </div>
@@ -6449,7 +8015,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="sc-gZMcBi hUSxgO"
     >
       <input
-        className="sc-gqjmRU biumOH"
+        className="sc-VigVT eIXEwj"
         defaultValue="I am disabled. Validation not shown."
         disabled={true}
       />
@@ -6472,7 +8038,7 @@ exports[`Storyshots Label Basic 1`] = `
       }
     >
       <label
-        className="sc-jTzLTM cNxYng"
+        className="sc-jTzLTM hExgyA"
       >
         Basic example
       </label>
@@ -6741,7 +8307,7 @@ exports[`Storyshots Link Basic 1`] = `
       }
     >
       <a
-        className="sc-fjdhpX cLIERN"
+        className="sc-kAzzGY dHrcXo"
       >
         Simple link
       </a>
@@ -7558,7 +9124,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-jzJRlG fHSTVE"
+          className="sc-chPdSV jVbeOo"
           max={100}
           min={0}
           role="progressbar"
@@ -7568,7 +9134,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-jzJRlG xeqaE"
+          className="sc-chPdSV jNYYvR"
           max={100}
           min={0}
           role="progressbar"
@@ -7578,7 +9144,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-jzJRlG byMHCE"
+          className="sc-chPdSV hktQqh"
           max={100}
           min={0}
           role="progressbar"
@@ -7588,7 +9154,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-jzJRlG jJvbZG"
+          className="sc-chPdSV kxarfZ"
           max={100}
           min={0}
           role="progressbar"
@@ -8362,11 +9928,11 @@ exports[`Storyshots Select Basic 1`] = `
         className="sc-gZMcBi hUSxgO"
       >
         <div
-          className="sc-cSHVUG cQvKhQ"
+          className="sc-kgoBCf jnrYZa"
           disabled={undefined}
         >
           <select
-            className="sc-kgoBCf dpunGF"
+            className="sc-dxgOiQ KELtD"
           >
             <option>
               Select your favourite super hero
@@ -8385,10 +9951,10 @@ exports[`Storyshots Select Basic 1`] = `
             </option>
           </select>
           <div
-            className="sc-kAzzGY cGmAir"
+            className="sc-kGXeez kaEMmv"
           >
             <svg
-              className="sc-chPdSV dzZpSy"
+              className="sc-kpOJdX bPAcUd"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -9229,11 +10795,11 @@ exports[`Storyshots Select Disabled 1`] = `
       className="sc-gZMcBi hUSxgO"
     >
       <div
-        className="sc-cSHVUG feGdOl"
+        className="sc-kgoBCf bUQBtc"
         disabled={true}
       >
         <select
-          className="sc-kgoBCf dpunGF"
+          className="sc-dxgOiQ KELtD"
           disabled={true}
         >
           <option>
@@ -9253,10 +10819,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="sc-kAzzGY cGmAir"
+          className="sc-kGXeez kaEMmv"
         >
           <svg
-            className="sc-chPdSV dzZpSy"
+            className="sc-kpOJdX bPAcUd"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -9272,14 +10838,14 @@ exports[`Storyshots Select Disabled 1`] = `
       </div>
     </div>
     <div
-      className="sc-kGXeez dnZczP"
+      className="sc-ckVGcZ lfnsfr"
     >
       <div
-        className="sc-cSHVUG jWVmji"
+        className="sc-kgoBCf EOFnz"
         disabled={true}
       >
         <select
-          className="sc-kgoBCf gfPWEx"
+          className="sc-dxgOiQ gJKDOp"
           disabled={true}
         >
           <option>
@@ -9299,10 +10865,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="sc-kAzzGY cGmAir"
+          className="sc-kGXeez kaEMmv"
         >
           <svg
-            className="sc-chPdSV dzZpSy"
+            className="sc-kpOJdX bPAcUd"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -9317,11 +10883,11 @@ exports[`Storyshots Select Disabled 1`] = `
         </div>
       </div>
       <div
-        className="sc-cSHVUG jWVmji"
+        className="sc-kgoBCf EOFnz"
         disabled={true}
       >
         <select
-          className="sc-kgoBCf gfPWEx"
+          className="sc-dxgOiQ gJKDOp"
           disabled={true}
         >
           <option>
@@ -9341,10 +10907,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="sc-kAzzGY cGmAir"
+          className="sc-kGXeez kaEMmv"
         >
           <svg
-            className="sc-chPdSV dzZpSy"
+            className="sc-kpOJdX bPAcUd"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -9377,14 +10943,14 @@ exports[`Storyshots Select Inline 1`] = `
       }
     >
       <div
-        className="sc-kGXeez dnZczP"
+        className="sc-ckVGcZ lfnsfr"
       >
         <div
-          className="sc-cSHVUG bUMskF"
+          className="sc-kgoBCf hskqun"
           disabled={undefined}
         >
           <select
-            className="sc-kgoBCf gfPWEx"
+            className="sc-dxgOiQ gJKDOp"
           >
             <option>
               Select your favourite super hero
@@ -9403,10 +10969,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="sc-kAzzGY cGmAir"
+            className="sc-kGXeez kaEMmv"
           >
             <svg
-              className="sc-chPdSV dzZpSy"
+              className="sc-kpOJdX bPAcUd"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -9421,11 +10987,11 @@ exports[`Storyshots Select Inline 1`] = `
           </div>
         </div>
         <div
-          className="sc-cSHVUG bUMskF"
+          className="sc-kgoBCf hskqun"
           disabled={undefined}
         >
           <select
-            className="sc-kgoBCf gfPWEx"
+            className="sc-dxgOiQ gJKDOp"
           >
             <option>
               Select your favourite food
@@ -9444,10 +11010,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="sc-kAzzGY cGmAir"
+            className="sc-kGXeez kaEMmv"
           >
             <svg
-              className="sc-chPdSV dzZpSy"
+              className="sc-kpOJdX bPAcUd"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -10704,11 +12270,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="sc-gZMcBi ACLRk"
     >
       <div
-        className="sc-cSHVUG gQnJRm"
+        className="sc-kgoBCf dXrDdH"
         disabled={undefined}
       >
         <select
-          className="sc-kgoBCf dpunGF"
+          className="sc-dxgOiQ KELtD"
         >
           <option>
             Select your favourite super hero
@@ -10729,10 +12295,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="sc-kAzzGY cGmAir"
+          className="sc-kGXeez kaEMmv"
         >
           <svg
-            className="sc-chPdSV dzZpSy"
+            className="sc-kpOJdX bPAcUd"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -10751,11 +12317,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="sc-gZMcBi ACLRk"
     >
       <div
-        className="sc-cSHVUG eBqYOS"
+        className="sc-kgoBCf fWcCuI"
         disabled={undefined}
       >
         <select
-          className="sc-kgoBCf dpunGF"
+          className="sc-dxgOiQ KELtD"
         >
           <option>
             Select your favourite super hero
@@ -10774,10 +12340,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="sc-kAzzGY cGmAir"
+          className="sc-kGXeez kaEMmv"
         >
           <svg
-            className="sc-chPdSV dzZpSy"
+            className="sc-kpOJdX bPAcUd"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -10824,22 +12390,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="sc-gZMcBi ACLRk"
           >
             <div
-              className="sc-jKJlTe iLnlYU"
+              className="sc-kEYyzF cQYVcI"
             >
               <input
-                className="sc-ckVGcZ eDGLaz"
+                className="sc-hMqMXs btekbO"
                 id="example"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="sc-dxgOiQ iLAnMN"
+                className="sc-eNQAEJ cecfGh"
               >
                 <div
-                  className="sc-kpOJdX fbaIJv"
+                  className="sc-jKJlTe dXdnhJ"
                 />
                 <div
-                  className="sc-eNQAEJ jtRuZV"
+                  className="sc-kkGfuU gNDBZC"
                 >
                   This can be toggled
                 </div>
@@ -10850,22 +12416,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="sc-gZMcBi ACLRk"
           >
             <div
-              className="sc-jKJlTe iLnlYU"
+              className="sc-kEYyzF cQYVcI"
             >
               <input
-                className="sc-ckVGcZ eDGLaz"
+                className="sc-hMqMXs btekbO"
                 id="example2"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="sc-dxgOiQ iLAnMN"
+                className="sc-eNQAEJ cecfGh"
               >
                 <div
-                  className="sc-kpOJdX fbaIJv"
+                  className="sc-jKJlTe dXdnhJ"
                 />
                 <div
-                  className="sc-eNQAEJ jtRuZV"
+                  className="sc-kkGfuU gNDBZC"
                 >
                   So can this one
                 </div>
@@ -10876,23 +12442,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="sc-gZMcBi ACLRk"
           >
             <div
-              className="sc-jKJlTe iLnlYU"
+              className="sc-kEYyzF cQYVcI"
             >
               <input
-                className="sc-ckVGcZ eDGLaz"
+                className="sc-hMqMXs btekbO"
                 disabled={true}
                 id="example3"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="sc-dxgOiQ iLAnMN"
+                className="sc-eNQAEJ cecfGh"
               >
                 <div
-                  className="sc-kpOJdX fbaIJv"
+                  className="sc-jKJlTe dXdnhJ"
                 />
                 <div
-                  className="sc-eNQAEJ jtRuZV"
+                  className="sc-kkGfuU gNDBZC"
                 >
                   But this one is disabled
                 </div>
@@ -10912,22 +12478,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="sc-gZMcBi ACLRk"
           >
             <div
-              className="sc-jKJlTe iLnlYU"
+              className="sc-kEYyzF cQYVcI"
             >
               <input
-                className="sc-ckVGcZ eDGLaz"
+                className="sc-hMqMXs btekbO"
                 id="example4"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="sc-dxgOiQ iLAnMN"
+                className="sc-eNQAEJ cecfGh"
               >
                 <div
-                  className="sc-kpOJdX fbaIJv"
+                  className="sc-jKJlTe dXdnhJ"
                 />
                 <div
-                  className="sc-eNQAEJ jtRuZV"
+                  className="sc-kkGfuU gNDBZC"
                 >
                   This can be selected
                 </div>
@@ -10938,22 +12504,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="sc-gZMcBi ACLRk"
           >
             <div
-              className="sc-jKJlTe iLnlYU"
+              className="sc-kEYyzF cQYVcI"
             >
               <input
-                className="sc-ckVGcZ eDGLaz"
+                className="sc-hMqMXs btekbO"
                 id="example5"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="sc-dxgOiQ iLAnMN"
+                className="sc-eNQAEJ cecfGh"
               >
                 <div
-                  className="sc-kpOJdX fbaIJv"
+                  className="sc-jKJlTe dXdnhJ"
                 />
                 <div
-                  className="sc-eNQAEJ jtRuZV"
+                  className="sc-kkGfuU gNDBZC"
                 >
                   So can this one
                 </div>
@@ -10964,23 +12530,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="sc-gZMcBi ACLRk"
           >
             <div
-              className="sc-jKJlTe iLnlYU"
+              className="sc-kEYyzF cQYVcI"
             >
               <input
-                className="sc-ckVGcZ eDGLaz"
+                className="sc-hMqMXs btekbO"
                 disabled={true}
                 id="example6"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="sc-dxgOiQ iLAnMN"
+                className="sc-eNQAEJ cecfGh"
               >
                 <div
-                  className="sc-kpOJdX fbaIJv"
+                  className="sc-jKJlTe dXdnhJ"
                 />
                 <div
-                  className="sc-eNQAEJ jtRuZV"
+                  className="sc-kkGfuU gNDBZC"
                 >
                   But this one is disabled
                 </div>
@@ -13275,41 +14841,41 @@ exports[`Storyshots Text Basic 1`] = `
         className="sc-gZMcBi ACLRk"
       >
         <span
-          className="sc-hMqMXs lnyvPD"
+          className="sc-fjdhpX jqbaQw"
         >
           Basic example
         </span>
         <br />
         <span
-          className="sc-hMqMXs hnAdiY"
+          className="sc-fjdhpX kZGfMN"
           color="primary"
         >
           Basic example (primary)
         </span>
         <br />
         <span
-          className="sc-hMqMXs kdDlDE"
+          className="sc-fjdhpX bDdmNt"
           color="secondary"
         >
           Basic example (secondary)
         </span>
         <br />
         <span
-          className="sc-hMqMXs eLmJk"
+          className="sc-fjdhpX gWZQpl"
           color="success"
         >
           Basic example (success)
         </span>
         <br />
         <span
-          className="sc-hMqMXs kKZzIZ"
+          className="sc-fjdhpX lihSTy"
           color="danger"
         >
           Basic example (danger)
         </span>
         <br />
         <span
-          className="sc-hMqMXs gDPTxF"
+          className="sc-fjdhpX bpwrDY"
           color="muted"
         >
           Basic example (muted)
@@ -14392,27 +15958,27 @@ exports[`Storyshots Text Weights 1`] = `
     className="sc-gZMcBi ACLRk"
   >
     <span
-      className="sc-hMqMXs hGWRps"
+      className="sc-fjdhpX gUTTtU"
     >
       Basic example
     </span>
     <br />
     <span
-      className="sc-hMqMXs iDQwQx"
+      className="sc-fjdhpX jbDNgg"
     >
       Basic example
     </span>
     <br />
     <br />
     <span
-      className="sc-hMqMXs fLYExR"
+      className="sc-fjdhpX kQwlwM"
       color="primary"
     >
       Basic example (primary)
     </span>
     <br />
     <span
-      className="sc-hMqMXs cZpixi"
+      className="sc-fjdhpX gMHZJp"
       color="primary"
     >
       Basic example (primary)
@@ -14420,14 +15986,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-hMqMXs dOeqPX"
+      className="sc-fjdhpX hRpdXm"
       color="secondary"
     >
       Basic example (secondary)
     </span>
     <br />
     <span
-      className="sc-hMqMXs iNTect"
+      className="sc-fjdhpX eqQxvX"
       color="secondary"
     >
       Basic example (secondary)
@@ -14435,14 +16001,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-hMqMXs jurqrP"
+      className="sc-fjdhpX bUvhim"
       color="success"
     >
       Basic example (success)
     </span>
     <br />
     <span
-      className="sc-hMqMXs exEYgf"
+      className="sc-fjdhpX dkCYlc"
       color="success"
     >
       Basic example (success)
@@ -14450,14 +16016,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-hMqMXs cQdAJJ"
+      className="sc-fjdhpX yOcmz"
       color="danger"
     >
       Basic example (danger)
     </span>
     <br />
     <span
-      className="sc-hMqMXs idNBPD"
+      className="sc-fjdhpX krdEiz"
       color="danger"
     >
       Basic example (danger)
@@ -14465,14 +16031,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-hMqMXs eotGaZ"
+      className="sc-fjdhpX nfJSi"
       color="muted"
     >
       Basic example (muted)
     </span>
     <br />
     <span
-      className="sc-hMqMXs degkSk"
+      className="sc-fjdhpX dBuLze"
       color="muted"
     >
       Basic example (muted)
