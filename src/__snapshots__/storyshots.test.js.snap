@@ -17,31 +17,31 @@ exports[`Storyshots Button Basic 1`] = `
         className="sc-bwzfXH jzoMRG"
       >
         <button
-          className="sc-htpNat eWzgPN"
+          className="sc-htpNat igdQWm"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat cwMvQM"
+          className="sc-htpNat fSWnYd"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat ffbfil"
+          className="sc-htpNat ezTVoj"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat iycBbG"
+          className="sc-htpNat gvHFxZ"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat erNab"
+          className="sc-htpNat jXvclQ"
           type="button"
         >
           Danger
@@ -1044,31 +1044,31 @@ exports[`Storyshots Button Block-level 1`] = `
     className="sc-bwzfXH blOvOo"
   >
     <button
-      className="sc-htpNat ibCRos"
+      className="sc-htpNat RrUhZ"
       type="button"
     >
       Default
     </button>
     <button
-      className="sc-htpNat lljuRf"
+      className="sc-htpNat ljQeUM"
       type="button"
     >
       Primary
     </button>
     <button
-      className="sc-htpNat hOIrQd"
+      className="sc-htpNat hbmUOP"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="sc-htpNat nSOWv"
+      className="sc-htpNat kRZRlp"
       type="button"
     >
       Success
     </button>
     <button
-      className="sc-htpNat iCRjxR"
+      className="sc-htpNat jmGVrp"
       type="button"
     >
       Danger
@@ -1091,35 +1091,35 @@ exports[`Storyshots Button Disabled 1`] = `
     className="sc-bwzfXH jzoMRG"
   >
     <button
-      className="sc-htpNat eWzgPN"
+      className="sc-htpNat igdQWm"
       disabled={true}
       type="button"
     >
       Default
     </button>
     <button
-      className="sc-htpNat cwMvQM"
+      className="sc-htpNat fSWnYd"
       disabled={true}
       type="button"
     >
       Primary
     </button>
     <button
-      className="sc-htpNat ffbfil"
+      className="sc-htpNat ezTVoj"
       disabled={true}
       type="button"
     >
       Secondary
     </button>
     <button
-      className="sc-htpNat iycBbG"
+      className="sc-htpNat gvHFxZ"
       disabled={true}
       type="button"
     >
       Success
     </button>
     <button
-      className="sc-htpNat erNab"
+      className="sc-htpNat jXvclQ"
       disabled={true}
       type="button"
     >
@@ -1154,31 +1154,31 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
         className="sc-bwzfXH jzoMRG"
       >
         <button
-          className="sc-htpNat eWzgPN"
+          className="sc-htpNat igdQWm"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat cwMvQM"
+          className="sc-htpNat fSWnYd"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat ffbfil"
+          className="sc-htpNat ezTVoj"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat iycBbG"
+          className="sc-htpNat gvHFxZ"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat erNab"
+          className="sc-htpNat jXvclQ"
           type="button"
         >
           Danger

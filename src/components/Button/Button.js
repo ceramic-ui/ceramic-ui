@@ -6,15 +6,15 @@ import { lighten, darken } from "../../colors";
 import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
 
 const appearanceMixin = colorName => css`
-  border: 1px solid ${props => props.theme[colorName]};
+  border: ${props =>
+    `${props.theme.borderWidth()} solid ${props.theme[colorName]}`};
   box-shadow: 0 2px 4px 0 ${props => lighten(props.theme.black, 70)};
   background-color: ${props => props.theme[colorName]};
   color: ${props => props.theme.white};
-  &:hover {
-    background-color: ${props => darken(props.theme[colorName], 5)};
-  }
+  &:hover,
   &:focus {
     background-color: ${props => darken(props.theme[colorName], 5)};
+    border-color: ${props => darken(props.theme[colorName], 5)};
   }
   &:active {
     box-shadow: none;
@@ -22,19 +22,18 @@ const appearanceMixin = colorName => css`
 `;
 
 const defaultMixin = css`
-  border: 1px solid ${props => props.theme.brandPrimary};
-  box-shadow: 0px 2px 4px 0 ${props => lighten(props.theme.black, 70)},
-    inset 0 0 0 1px ${props => props.theme.brandPrimary};
+  border: ${props =>
+    `${props.theme.borderWidth()} solid ${props.theme.brandPrimary}`};
+  box-shadow: 0 2px 4px 0 ${props => lighten(props.theme.black, 70)};
   background-color: ${props => props.theme.white};
   color: ${props => props.theme.brandPrimary};
-  &:hover {
-    background-color: ${props => darken(props.theme.white, 5)};
-  }
+  &:hover,
   &:focus {
     background-color: ${props => darken(props.theme.white, 5)};
+    border-color: ${props => darken(props.theme.brandPrimary, 5)};
   }
   &:active {
-    box-shadow: inset 0 0 0 3px ${props => props.theme.brandPrimary};
+    box-shadow: none;
   }
 `;
 

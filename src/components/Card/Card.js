@@ -20,7 +20,8 @@ const appearances = {
 const Card = styled.div`
   ${props => vrythm};
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
-  border: 2px solid ${props => props.theme.borderColor};
+  border: ${props =>
+    `${props.theme.borderWidth()} solid ${props.theme.borderColor}`};
 
   ${props => appearances[props.appearance]};
 `;

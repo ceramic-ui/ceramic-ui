@@ -6,7 +6,7 @@ export const Option = props => <option {...props} />;
 export const OptionGroup = props => <optgroup {...props} />;
 
 const Container = styled.div`
-  border: 2px solid currentColor;
+  border: ${props => props.theme.borderWidth()} solid currentColor;
   background-color: ${props =>
     props.disabled ? props.theme.brandDisabled : props.theme.white};
   display: ${props => (props.inline ? "inline-flex" : "flex")};
@@ -63,7 +63,8 @@ const Control = styled.select`
   cursor: pointer;
   z-index: 1;
   &:focus {
-    outline: 2px solid ${props => props.theme.focusColor};
+    outline: ${props =>
+      `${props.theme.borderWidth()} solid ${props.theme.focusColor}`};
     outline-offset: 4px;
   }
   &:disabled {

@@ -22,6 +22,7 @@ export default {
   headingFontFamily: systemFontStack,
   paddingX: size(0.75),
   paddingY: size(0.75),
+  borderWidth: size(2, "px"),
   spacingBase: size(1.25),
   fontSize: size(1),
   readableWidth: size(38),

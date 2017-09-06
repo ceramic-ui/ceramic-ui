@@ -9,7 +9,7 @@ const Input = styled.input`
   padding: ${prop => `${prop.theme.paddingY()} ${prop.theme.paddingX()}`};
   margin: 0;
   font-size: ${props => props.theme.fontSize()};
-  border: 2px solid currentColor;
+  border: ${props => props.theme.borderWidth()} solid currentColor;
   touch-action: manipulation;
   background-color: ${props => props.theme.white};
   color: inherit;
@@ -17,7 +17,8 @@ const Input = styled.input`
   ${props => !!props.invalid && `color: ${props.theme.brandDanger}`};
   ${props => !!props.disabled && "color: inherit"};
   &:focus {
-    outline: 2px solid ${props => props.theme.focusColor};
+    outline: ${props =>
+      `${props.theme.borderWidth()} solid ${props.theme.focusColor}`};
     outline-offset: 2px;
   }
   &:disabled {
