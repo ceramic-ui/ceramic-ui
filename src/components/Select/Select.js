@@ -5,7 +5,7 @@ import styled from "styled-components";
 export const Option = props => <option {...props} />;
 export const OptionGroup = props => <optgroup {...props} />;
 
-const Label = styled.label`
+const Container = styled.div`
   border: 2px solid currentColor;
   background-color: ${props =>
     props.disabled ? props.theme.brandMuted : props.theme.white};
@@ -14,7 +14,7 @@ const Label = styled.label`
   white-space: nowrap;
   position: relative;
 `;
-Label.displayName = "Select.Label";
+Container.displayName = "Select.Container";
 
 const Accessory = styled.div`
   width: ${props => props.theme.paddingX(s => s * 2)};
@@ -71,12 +71,12 @@ const Control = styled.select`
 Control.displayName = "Select.Control";
 
 const Select = props => (
-  <Label inline={props.inline} disabled={props.disabled}>
+  <Container inline={props.inline} disabled={props.disabled}>
     <Control {...props} />
     <Accessory>
       <Chevron />
     </Accessory>
-  </Label>
+  </Container>
 );
 
 Select.propTypes = {
