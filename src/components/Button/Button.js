@@ -69,8 +69,8 @@ const Button = styled.button`
   }
   ${props => buttons[props.appearance]};
   &:disabled {
-    background-color: ${props => props.theme.borderColor};
-    border-color: ${props => props.theme.borderColor};
+    background-color: ${props => props.theme.brandDisabled};
+    border-color: ${props => props.theme.brandDisabled};
     box-shadow: none;
     color: ${props => props.theme.black};
     text-decoration: none;
