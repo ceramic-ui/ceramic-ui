@@ -9,7 +9,7 @@ const Container = styled.div`
   border: 2px solid currentColor;
   background-color: ${props =>
     props.disabled ? props.theme.brandDisabled : props.theme.white};
-  display: inline-flex;
+  display: ${props => (props.inline ? "inline-flex" : "flex")};
   align-items: center;
   white-space: nowrap;
   position: relative;
@@ -47,7 +47,8 @@ const Chevron = styled(ChevronSVG)`
 Chevron.displayName = "Select.Chevron";
 
 const Control = styled.select`
-  z-index: 1;
+  width: 100%;
+  display: ${props => (props.inline ? "inline-block" : "block")};
   appearance: none;
   background: none;
   border: none;
@@ -58,6 +59,7 @@ const Control = styled.select`
   font-size: ${props => props.theme.fontSize()};
   line-height: 1;
   cursor: pointer;
+  z-index: 1;
   &:focus {
     outline: 2px solid ${props => props.theme.focusColor};
     outline-offset: 4px;
@@ -69,7 +71,7 @@ const Control = styled.select`
 Control.displayName = "Select.Control";
 
 const Select = props => (
-  <Container disabled={props.disabled}>
+  <Container inline={props.inline} disabled={props.disabled}>
     <Control {...props} />
     <Accessory>
       <Chevron />
@@ -78,6 +80,7 @@ const Select = props => (
 );
 
 Select.propTypes = {
+  inline: PropTypes.bool,
   disabled: PropTypes.bool
 };
 
