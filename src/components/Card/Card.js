@@ -8,7 +8,7 @@ import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
 const calloutMixin = colourName => css`
   border-color: ${props => props.theme[colourName]};
   box-shadow: inset 6px 0 0 -3px ${props => props.theme[colourName]},
-    0px 0px 20px 0 ${props => lighten(props.theme.black, 75)};
+    0px 2px 4px 0 ${props => lighten(props.theme.black, 75)};
 `;
 
 const appearances = {
