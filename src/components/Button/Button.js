@@ -59,6 +59,7 @@ const Button = styled.button`
   display: ${props => (props.block ? "block" : "inline-block")};
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
   ${props => props.block && vrythm};
+  border-radius: ${props => props.theme.borderRadius()};
   font-size: 1rem;
   font-weight: 500;
   cursor: pointer;

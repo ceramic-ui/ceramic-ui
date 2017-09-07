@@ -7,6 +7,7 @@ export const OptionGroup = props => <optgroup {...props} />;
 
 const Container = styled.div`
   border: ${props => props.theme.borderWidth()} solid currentColor;
+  border-radius: ${props => props.theme.borderRadius()};
   background-color: ${props =>
     props.disabled ? props.theme.brandDisabled : props.theme.white};
   display: ${props => (props.inline ? "inline-flex" : "flex")};

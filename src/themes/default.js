@@ -22,6 +22,7 @@ export default {
   paddingX: size(0.625),
   paddingY: size(0.625),
   borderWidth: size(1, "px"),
+  borderRadius: size(3, "px"),
   spacingBase: size(1.25),
   fontSize: size(1),
   readableWidth: size(38),

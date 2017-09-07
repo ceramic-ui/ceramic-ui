@@ -10,6 +10,7 @@ const Input = styled.input`
   margin: 0;
   font-size: ${props => props.theme.fontSize()};
   border: ${props => props.theme.borderWidth()} solid currentColor;
+  border-radius: ${props => props.theme.borderRadius()};
   touch-action: manipulation;
   background-color: ${props => props.theme.white};
   color: inherit;

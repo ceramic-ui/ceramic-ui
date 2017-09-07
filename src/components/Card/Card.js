@@ -22,7 +22,7 @@ const Card = styled.div`
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
   border: ${props =>
     `${props.theme.borderWidth()} solid ${props.theme.borderColor}`};
-
+  border-radius: ${props => props.theme.borderRadius()};
   ${props => appearances[props.appearance]};
 `;
 Card.displayName = "Card";
