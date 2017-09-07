@@ -1,3 +1,5 @@
+import { size } from "../geometry";
+
 const systemFontStack = [
   "-apple-system",
   "BlinkMacSystemFont",
@@ -11,18 +13,15 @@ const systemFontStack = [
   '"Segoe UI Symbol"'
 ].join(",");
 
-const size = (base, unit = "rem") => (modify = b => b) =>
-  `${modify(base)}${unit}`;
-
 const white = "#fff";
 const black = "#212529";
 
 export default {
   fontFamily: systemFontStack,
   headingFontFamily: systemFontStack,
-  paddingX: size(0.75),
-  paddingY: size(0.75),
-  borderWidth: size(2, "px"),
+  paddingX: size(0.625),
+  paddingY: size(0.625),
+  borderWidth: size(1, "px"),
   spacingBase: size(1.25),
   fontSize: size(1),
   readableWidth: size(38),
