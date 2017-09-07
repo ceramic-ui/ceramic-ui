@@ -17,37 +17,37 @@ exports[`Storyshots Button Basic 1`] = `
         className="ButtonPanel-s11qikfz-0 jojQrr"
       >
         <button
-          className="Button-wl37ou-0 jqujpF"
+          className="Button-xkyzf1-0 cBcjoy"
           type="button"
         >
           Default
         </button>
         <button
-          className="Button-wl37ou-0 fGqFqw"
+          className="Button-xkyzf1-0 cbeSKs"
           type="button"
         >
           Primary
         </button>
         <button
-          className="Button-wl37ou-0 hUBojY"
+          className="Button-xkyzf1-0 fTGmDt"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="Button-wl37ou-0 ldxKDj"
+          className="Button-xkyzf1-0 itBNcz"
           type="button"
         >
           Success
         </button>
         <button
-          className="Button-wl37ou-0 kzhuSG"
+          className="Button-xkyzf1-0 gmhFZt"
           type="button"
         >
           Danger
         </button>
         <button
-          className="Button-wl37ou-0 bsEMfy"
+          className="Button-xkyzf1-0 dnmqYu"
           type="button"
         >
           Link
@@ -1044,37 +1044,37 @@ exports[`Storyshots Button Block-level 1`] = `
     className="ButtonPanel-s11qikfz-0 lkCQIj"
   >
     <button
-      className="Button-wl37ou-0 NPXus"
+      className="Button-xkyzf1-0 jqUDto"
       type="button"
     >
       Default
     </button>
     <button
-      className="Button-wl37ou-0 iYmCEb"
+      className="Button-xkyzf1-0 kjxALD"
       type="button"
     >
       Primary
     </button>
     <button
-      className="Button-wl37ou-0 jVnwZi"
+      className="Button-xkyzf1-0 VPrQU"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="Button-wl37ou-0 hdeoAV"
+      className="Button-xkyzf1-0 eeGeVx"
       type="button"
     >
       Success
     </button>
     <button
-      className="Button-wl37ou-0 fjIODq"
+      className="Button-xkyzf1-0 eYJktr"
       type="button"
     >
       Danger
     </button>
     <button
-      className="Button-wl37ou-0 eqKdhZ"
+      className="Button-xkyzf1-0 kDWKPy"
       type="button"
     >
       Link
@@ -1091,42 +1091,42 @@ exports[`Storyshots Button Disabled 1`] = `
     className="ButtonPanel-s11qikfz-0 jojQrr"
   >
     <button
-      className="Button-wl37ou-0 jqujpF"
+      className="Button-xkyzf1-0 cBcjoy"
       disabled={true}
       type="button"
     >
       Default
     </button>
     <button
-      className="Button-wl37ou-0 fGqFqw"
+      className="Button-xkyzf1-0 cbeSKs"
       disabled={true}
       type="button"
     >
       Primary
     </button>
     <button
-      className="Button-wl37ou-0 hUBojY"
+      className="Button-xkyzf1-0 fTGmDt"
       disabled={true}
       type="button"
     >
       Secondary
     </button>
     <button
-      className="Button-wl37ou-0 ldxKDj"
+      className="Button-xkyzf1-0 itBNcz"
       disabled={true}
       type="button"
     >
       Success
     </button>
     <button
-      className="Button-wl37ou-0 kzhuSG"
+      className="Button-xkyzf1-0 gmhFZt"
       disabled={true}
       type="button"
     >
       Danger
     </button>
     <button
-      className="Button-wl37ou-0 bsEMfy"
+      className="Button-xkyzf1-0 dnmqYu"
       disabled={true}
       onClick={[Function]}
       type="button"
@@ -1154,37 +1154,37 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
         className="ButtonPanel-s11qikfz-0 jojQrr"
       >
         <button
-          className="Button-wl37ou-0 jqujpF"
+          className="Button-xkyzf1-0 cBcjoy"
           type="button"
         >
           Default
         </button>
         <button
-          className="Button-wl37ou-0 fGqFqw"
+          className="Button-xkyzf1-0 cbeSKs"
           type="button"
         >
           Primary
         </button>
         <button
-          className="Button-wl37ou-0 hUBojY"
+          className="Button-xkyzf1-0 fTGmDt"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="Button-wl37ou-0 ldxKDj"
+          className="Button-xkyzf1-0 itBNcz"
           type="button"
         >
           Success
         </button>
         <button
-          className="Button-wl37ou-0 kzhuSG"
+          className="Button-xkyzf1-0 gmhFZt"
           type="button"
         >
           Danger
         </button>
         <button
-          className="Button-wl37ou-0 bsEMfy"
+          className="Button-xkyzf1-0 dnmqYu"
           type="button"
         >
           Link
@@ -2188,10 +2188,10 @@ exports[`Storyshots Card Basic 1`] = `
     >
       <div>
         <div
-          className="Card-s14e64nw-0 eUamhN"
+          className="Card-t00d4p-0 lVpxg"
         >
           <h2
-            className="Heading__Heading2-c41kgi-1 iqIuBq"
+            className="Heading__Heading2-s1c25ugq-1 emwOmg"
           >
             A basic card
           </h2>
@@ -2207,10 +2207,10 @@ exports[`Storyshots Card Basic 1`] = `
           </p>
         </div>
         <div
-          className="Card-s14e64nw-0 cmaDNe"
+          className="Card-t00d4p-0 dgaLnY"
         >
           <h2
-            className="Heading__Heading2-c41kgi-1 iqIuBq"
+            className="Heading__Heading2-s1c25ugq-1 emwOmg"
           >
             A callout card - Primary style
           </h2>
@@ -2226,10 +2226,10 @@ exports[`Storyshots Card Basic 1`] = `
           </p>
         </div>
         <div
-          className="Card-s14e64nw-0 foBYmQ"
+          className="Card-t00d4p-0 fKArDp"
         >
           <h2
-            className="Heading__Heading2-c41kgi-1 iqIuBq"
+            className="Heading__Heading2-s1c25ugq-1 emwOmg"
           >
             A callout card - Danger style
           </h2>
@@ -2245,10 +2245,10 @@ exports[`Storyshots Card Basic 1`] = `
           </p>
         </div>
         <div
-          className="Card-s14e64nw-0 bngDPP"
+          className="Card-t00d4p-0 nsRUS"
         >
           <h2
-            className="Heading__Heading2-c41kgi-1 iqIuBq"
+            className="Heading__Heading2-s1c25ugq-1 emwOmg"
           >
             A callout card - Success style
           </h2>
@@ -4847,11 +4847,11 @@ exports[`Storyshots Field Basic 1`] = `
             </span>
           </div>
           <input
-            className="Input-s2iff0r-0 gqYGmp"
+            className="Input-s100234g-0 cHdSzb"
             defaultValue="742 Evergreen Terrace"
           />
           <input
-            className="Input-s2iff0r-0 gqYGmp"
+            className="Input-s100234g-0 cHdSzb"
             defaultValue=""
           />
           <p
@@ -4869,7 +4869,7 @@ exports[`Storyshots Field Basic 1`] = `
             Town or suburb
           </label>
           <input
-            className="Input-s2iff0r-0 gqYGmp"
+            className="Input-s100234g-0 cHdSzb"
             defaultValue="Springfield"
           />
         </div>
@@ -6091,6 +6091,333 @@ exports[`Storyshots Field Basic 1`] = `
                     </td>
                     <td>
                       other
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots FieldSet Basic 1`] = `
+<div
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <fieldset
+        className="Card-t00d4p-0-fieldset gVtmsM"
+      >
+        Basic example
+      </fieldset>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              FieldSet
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    FieldSet
+                  </span>
+                  <span />
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    Basic example
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    FieldSet
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                FieldSet
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      appearance
+                    </td>
+                    <td>
+                      other
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
                     </td>
                     <td>
                       no
@@ -7961,32 +8288,32 @@ exports[`Storyshots Heading Basic 1`] = `
     >
       <div>
         <h1
-          className="Heading__Heading1-c41kgi-0 iuurgV"
+          className="Heading__Heading1-s1c25ugq-0 kfwDtx"
         >
           The quick brown fox jumps over the lazy dog
         </h1>
         <h2
-          className="Heading__Heading2-c41kgi-1 iqIuBq"
+          className="Heading__Heading2-s1c25ugq-1 emwOmg"
         >
           The quick brown fox jumps over the lazy dog
         </h2>
         <h3
-          className="Heading__Heading3-c41kgi-2 ilvGEP"
+          className="Heading__Heading3-s1c25ugq-2 jSgkBg"
         >
           The quick brown fox jumps over the lazy dog
         </h3>
         <h4
-          className="Heading__Heading4-c41kgi-3 eJyNmC"
+          className="Heading__Heading4-s1c25ugq-3 gQkJDz"
         >
           The quick brown fox jumps over the lazy dog
         </h4>
         <h5
-          className="Heading__Heading5-c41kgi-4 bIqqOc"
+          className="Heading__Heading5-s1c25ugq-4 faxurP"
         >
           The quick brown fox jumps over the lazy dog
         </h5>
         <h6
-          className="Heading__Heading6-c41kgi-5 glRHBP"
+          className="Heading__Heading6-s1c25ugq-5 jwcFOS"
         >
           The quick brown fox jumps over the lazy dog
         </h6>
@@ -8882,7 +9209,7 @@ exports[`Storyshots Input Basic 1`] = `
         className="Container-oaggut-0 gYRxuE"
       >
         <input
-          className="Input-s2iff0r-0 gqYGmp"
+          className="Input-s100234g-0 cHdSzb"
         />
       </div>
     </div>
@@ -9313,7 +9640,7 @@ exports[`Storyshots Input Disabled 1`] = `
       className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="Input-s2iff0r-0 gdGKkt"
+        className="Input-s100234g-0 kOgSDc"
         disabled={true}
         value="cannot edit me!"
       />
@@ -9322,11 +9649,11 @@ exports[`Storyshots Input Disabled 1`] = `
       className="oaggut-0-Container-klzlrk bWCLRh"
     >
       <input
-        className="Input-s2iff0r-0 dWSNPD"
+        className="Input-s100234g-0 kbqteW"
         disabled={true}
       />
       <input
-        className="Input-s2iff0r-0 dWSNPD"
+        className="Input-s100234g-0 kbqteW"
         disabled={true}
       />
     </div>
@@ -9351,10 +9678,10 @@ exports[`Storyshots Input Inline 1`] = `
         className="oaggut-0-Container-klzlrk bWCLRh"
       >
         <input
-          className="Input-s2iff0r-0 SeXiq"
+          className="Input-s100234g-0 dtUVg"
         />
         <input
-          className="Input-s2iff0r-0 SeXiq"
+          className="Input-s100234g-0 dtUVg"
         />
       </div>
     </div>
@@ -9834,7 +10161,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="Input-s2iff0r-0 fcDAEO"
+        className="Input-s100234g-0 joXWM"
         defaultValue="I am valid"
       />
     </div>
@@ -9842,7 +10169,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="Input-s2iff0r-0 bIjByK"
+        className="Input-s100234g-0 euvFre"
         defaultValue="I am invalid"
       />
     </div>
@@ -9850,7 +10177,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="Input-s2iff0r-0 bgMXtw"
+        className="Input-s100234g-0 cbLnDK"
         defaultValue="I am disabled. Validation not shown."
         disabled={true}
       />
@@ -10114,6 +10441,275 @@ exports[`Storyshots Label Basic 1`] = `
               >
                 "
                 Label
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Legend Basic 1`] = `
+<div
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <legend
+        className="Heading__Heading4-s1c25ugq-3-legend hCeQEG"
+      >
+        Basic example
+      </legend>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Legend
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    Legend
+                  </span>
+                  <span />
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    Basic example
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    Legend
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Legend
                 " Component
               </h2>
               <small>
@@ -11763,11 +12359,11 @@ exports[`Storyshots Select Basic 1`] = `
         className="Container-oaggut-0 gYRxuE"
       >
         <div
-          className="Select__Container-d3yd3r-0 hIeNAl"
+          className="Select__Container-s3jzw8g-0 heJvrX"
           disabled={undefined}
         >
           <select
-            className="Select__Control-d3yd3r-3 cNntzh"
+            className="Select__Control-s3jzw8g-3 fMtOOZ"
           >
             <option>
               Select your favourite super hero
@@ -11786,10 +12382,10 @@ exports[`Storyshots Select Basic 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-d3yd3r-1 eVPuFM"
+            className="Select__Accessory-s3jzw8g-1 fXFLsw"
           >
             <svg
-              className="Select__Chevron-d3yd3r-2 jzHEgu"
+              className="Select__Chevron-s3jzw8g-2 gKiVJU"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -12630,11 +13226,11 @@ exports[`Storyshots Select Disabled 1`] = `
       className="Container-oaggut-0 gYRxuE"
     >
       <div
-        className="Select__Container-d3yd3r-0 dkiXQx"
+        className="Select__Container-s3jzw8g-0 yeUuD"
         disabled={true}
       >
         <select
-          className="Select__Control-d3yd3r-3 cNntzh"
+          className="Select__Control-s3jzw8g-3 fMtOOZ"
           disabled={true}
         >
           <option>
@@ -12654,10 +13250,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-d3yd3r-1 eVPuFM"
+          className="Select__Accessory-s3jzw8g-1 fXFLsw"
         >
           <svg
-            className="Select__Chevron-d3yd3r-2 jzHEgu"
+            className="Select__Chevron-s3jzw8g-2 gKiVJU"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -12676,11 +13272,11 @@ exports[`Storyshots Select Disabled 1`] = `
       className="oaggut-0-Container-gATNmD kxywBB"
     >
       <div
-        className="Select__Container-d3yd3r-0 bVQBDi"
+        className="Select__Container-s3jzw8g-0 ccORcE"
         disabled={true}
       >
         <select
-          className="Select__Control-d3yd3r-3 dfCEQK"
+          className="Select__Control-s3jzw8g-3 ktYIcg"
           disabled={true}
         >
           <option>
@@ -12700,10 +13296,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-d3yd3r-1 eVPuFM"
+          className="Select__Accessory-s3jzw8g-1 fXFLsw"
         >
           <svg
-            className="Select__Chevron-d3yd3r-2 jzHEgu"
+            className="Select__Chevron-s3jzw8g-2 gKiVJU"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -12718,11 +13314,11 @@ exports[`Storyshots Select Disabled 1`] = `
         </div>
       </div>
       <div
-        className="Select__Container-d3yd3r-0 bVQBDi"
+        className="Select__Container-s3jzw8g-0 ccORcE"
         disabled={true}
       >
         <select
-          className="Select__Control-d3yd3r-3 dfCEQK"
+          className="Select__Control-s3jzw8g-3 ktYIcg"
           disabled={true}
         >
           <option>
@@ -12742,10 +13338,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-d3yd3r-1 eVPuFM"
+          className="Select__Accessory-s3jzw8g-1 fXFLsw"
         >
           <svg
-            className="Select__Chevron-d3yd3r-2 jzHEgu"
+            className="Select__Chevron-s3jzw8g-2 gKiVJU"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -12781,11 +13377,11 @@ exports[`Storyshots Select Inline 1`] = `
         className="oaggut-0-Container-gATNmD kxywBB"
       >
         <div
-          className="Select__Container-d3yd3r-0 kbTePb"
+          className="Select__Container-s3jzw8g-0 ezeLih"
           disabled={undefined}
         >
           <select
-            className="Select__Control-d3yd3r-3 dfCEQK"
+            className="Select__Control-s3jzw8g-3 ktYIcg"
           >
             <option>
               Select your favourite super hero
@@ -12804,10 +13400,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-d3yd3r-1 eVPuFM"
+            className="Select__Accessory-s3jzw8g-1 fXFLsw"
           >
             <svg
-              className="Select__Chevron-d3yd3r-2 jzHEgu"
+              className="Select__Chevron-s3jzw8g-2 gKiVJU"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -12822,11 +13418,11 @@ exports[`Storyshots Select Inline 1`] = `
           </div>
         </div>
         <div
-          className="Select__Container-d3yd3r-0 kbTePb"
+          className="Select__Container-s3jzw8g-0 ezeLih"
           disabled={undefined}
         >
           <select
-            className="Select__Control-d3yd3r-3 dfCEQK"
+            className="Select__Control-s3jzw8g-3 ktYIcg"
           >
             <option>
               Select your favourite food
@@ -12845,10 +13441,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-d3yd3r-1 eVPuFM"
+            className="Select__Accessory-s3jzw8g-1 fXFLsw"
           >
             <svg
-              className="Select__Chevron-d3yd3r-2 jzHEgu"
+              className="Select__Chevron-s3jzw8g-2 gKiVJU"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -14105,11 +14701,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Container-oaggut-0 gFNCPI"
     >
       <div
-        className="Select__Container-d3yd3r-0 kUdxgb"
+        className="Select__Container-s3jzw8g-0 eomKFd"
         disabled={undefined}
       >
         <select
-          className="Select__Control-d3yd3r-3 cNntzh"
+          className="Select__Control-s3jzw8g-3 fMtOOZ"
         >
           <option>
             Select your favourite super hero
@@ -14130,10 +14726,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-d3yd3r-1 eVPuFM"
+          className="Select__Accessory-s3jzw8g-1 fXFLsw"
         >
           <svg
-            className="Select__Chevron-d3yd3r-2 jzHEgu"
+            className="Select__Chevron-s3jzw8g-2 gKiVJU"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -14152,11 +14748,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Container-oaggut-0 gFNCPI"
     >
       <div
-        className="Select__Container-d3yd3r-0 LoKUI"
+        className="Select__Container-s3jzw8g-0 NStWT"
         disabled={undefined}
       >
         <select
-          className="Select__Control-d3yd3r-3 cNntzh"
+          className="Select__Control-s3jzw8g-3 fMtOOZ"
         >
           <option>
             Select your favourite super hero
@@ -14175,10 +14771,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-d3yd3r-1 eVPuFM"
+          className="Select__Accessory-s3jzw8g-1 fXFLsw"
         >
           <svg
-            className="Select__Chevron-d3yd3r-2 jzHEgu"
+            className="Select__Chevron-s3jzw8g-2 gKiVJU"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -14214,7 +14810,7 @@ exports[`Storyshots Switch Basic 1`] = `
         className="Container-oaggut-0 gFNCPI"
       >
         <div
-          className="Card-s14e64nw-0 eUamhN"
+          className="Card-t00d4p-0 lVpxg"
         >
           <p
             className="Paragraph-ahzkxl-0 bqylBN"
@@ -14225,22 +14821,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="Switch__Container-s1klwwtq-3 hplKzP"
+              className="Switch__Container-s6psl27-3 bgWelH"
             >
               <input
-                className="Switch__Control-s1klwwtq-2 bLrwFi"
+                className="Switch__Control-s6psl27-2 etQAQD"
                 id="example"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1klwwtq-1 iPYjNs"
+                className="Switch__Label-s6psl27-1 YwGrT"
               >
                 <div
-                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
+                  className="Switch__Status-s6psl27-0 jTzHEm"
                 />
                 <div
-                  className="Switch__Content-s1klwwtq-4 lduDel"
+                  className="Switch__Content-s6psl27-4 eJqRXT"
                 >
                   This can be toggled
                 </div>
@@ -14251,22 +14847,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="Switch__Container-s1klwwtq-3 hplKzP"
+              className="Switch__Container-s6psl27-3 bgWelH"
             >
               <input
-                className="Switch__Control-s1klwwtq-2 bLrwFi"
+                className="Switch__Control-s6psl27-2 etQAQD"
                 id="example2"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1klwwtq-1 iPYjNs"
+                className="Switch__Label-s6psl27-1 YwGrT"
               >
                 <div
-                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
+                  className="Switch__Status-s6psl27-0 jTzHEm"
                 />
                 <div
-                  className="Switch__Content-s1klwwtq-4 lduDel"
+                  className="Switch__Content-s6psl27-4 eJqRXT"
                 >
                   So can this one
                 </div>
@@ -14277,23 +14873,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="Switch__Container-s1klwwtq-3 hplKzP"
+              className="Switch__Container-s6psl27-3 bgWelH"
             >
               <input
-                className="Switch__Control-s1klwwtq-2 bLrwFi"
+                className="Switch__Control-s6psl27-2 etQAQD"
                 disabled={true}
                 id="example3"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1klwwtq-1 iPYjNs"
+                className="Switch__Label-s6psl27-1 YwGrT"
               >
                 <div
-                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
+                  className="Switch__Status-s6psl27-0 jTzHEm"
                 />
                 <div
-                  className="Switch__Content-s1klwwtq-4 lduDel"
+                  className="Switch__Content-s6psl27-4 eJqRXT"
                 >
                   But this one is disabled
                 </div>
@@ -14302,7 +14898,7 @@ exports[`Storyshots Switch Basic 1`] = `
           </div>
         </div>
         <div
-          className="Card-s14e64nw-0 eUamhN"
+          className="Card-t00d4p-0 lVpxg"
         >
           <p
             className="Paragraph-ahzkxl-0 bqylBN"
@@ -14313,22 +14909,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="Switch__Container-s1klwwtq-3 hplKzP"
+              className="Switch__Container-s6psl27-3 bgWelH"
             >
               <input
-                className="Switch__Control-s1klwwtq-2 bLrwFi"
+                className="Switch__Control-s6psl27-2 etQAQD"
                 id="example4"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1klwwtq-1 iPYjNs"
+                className="Switch__Label-s6psl27-1 YwGrT"
               >
                 <div
-                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
+                  className="Switch__Status-s6psl27-0 jTzHEm"
                 />
                 <div
-                  className="Switch__Content-s1klwwtq-4 lduDel"
+                  className="Switch__Content-s6psl27-4 eJqRXT"
                 >
                   This can be selected
                 </div>
@@ -14339,22 +14935,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="Switch__Container-s1klwwtq-3 hplKzP"
+              className="Switch__Container-s6psl27-3 bgWelH"
             >
               <input
-                className="Switch__Control-s1klwwtq-2 bLrwFi"
+                className="Switch__Control-s6psl27-2 etQAQD"
                 id="example5"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1klwwtq-1 iPYjNs"
+                className="Switch__Label-s6psl27-1 YwGrT"
               >
                 <div
-                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
+                  className="Switch__Status-s6psl27-0 jTzHEm"
                 />
                 <div
-                  className="Switch__Content-s1klwwtq-4 lduDel"
+                  className="Switch__Content-s6psl27-4 eJqRXT"
                 >
                   So can this one
                 </div>
@@ -14365,23 +14961,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="Switch__Container-s1klwwtq-3 hplKzP"
+              className="Switch__Container-s6psl27-3 bgWelH"
             >
               <input
-                className="Switch__Control-s1klwwtq-2 bLrwFi"
+                className="Switch__Control-s6psl27-2 etQAQD"
                 disabled={true}
                 id="example6"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1klwwtq-1 iPYjNs"
+                className="Switch__Label-s6psl27-1 YwGrT"
               >
                 <div
-                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
+                  className="Switch__Status-s6psl27-0 jTzHEm"
                 />
                 <div
-                  className="Switch__Content-s1klwwtq-4 lduDel"
+                  className="Switch__Content-s6psl27-4 eJqRXT"
                 >
                   But this one is disabled
                 </div>

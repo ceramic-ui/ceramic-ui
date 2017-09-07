@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
 
-const Heading1 = styled.h1`
+export const Heading1 = styled.h1`
   ${props => vrythm};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 2.074)};
@@ -12,7 +12,7 @@ const Heading1 = styled.h1`
 `;
 Heading1.displayName = "Heading1";
 
-const Heading2 = styled.h2`
+export const Heading2 = styled.h2`
   ${props => vrythm};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.728)};
@@ -20,7 +20,7 @@ const Heading2 = styled.h2`
 `;
 Heading2.displayName = "Heading2";
 
-const Heading3 = styled.h3`
+export const Heading3 = styled.h3`
   ${props => vrythm};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.44)};
@@ -28,7 +28,7 @@ const Heading3 = styled.h3`
 `;
 Heading3.displayName = "Heading3";
 
-const Heading4 = styled.h4`
+export const Heading4 = styled.h4`
   ${props => vrythm};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.2)};
@@ -36,14 +36,14 @@ const Heading4 = styled.h4`
 `;
 Heading4.displayName = "Heading4";
 
-const Heading5 = styled.h5`
+export const Heading5 = styled.h5`
   ${props => vrythm};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize()};
 `;
 Heading5.displayName = "Heading5";
 
-const Heading6 = styled.h6`
+export const Heading6 = styled.h6`
   ${props => vrythm};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 0.833)};
