@@ -2,14 +2,18 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
+import { lighten } from "../../colors";
+
 const Status = styled.div`
   width: ${props => props.theme.fontSize(s => s * 1.4)};
   height: ${props => props.theme.fontSize(s => s * 1.4)};
   margin-right: ${props => props.theme.spacingBase(s => s / 2)};
   display: inline-block;
   border: ${props => props.theme.borderWidth()} solid currentColor;
+  box-shadow: 0 2px 4px 0 ${props => lighten(props.theme.textColor, 75)};
   border-radius: 100%;
   position: relative;
+  transition: box-shadow 100ms ease-in;
   &:after {
     content: "";
     width: ${props => props.theme.fontSize()};
@@ -46,6 +50,9 @@ const Control = styled.input.attrs({
   margin: 0;
   padding: 0;
   cursor: pointer;
+  &:checked + ${Label} > ${Status} {
+    box-shadow: none;
+  }
   &:checked + ${Label} > ${Status}:after {
     opacity: 1;
   }
@@ -55,6 +62,7 @@ const Control = styled.input.attrs({
   &:disabled + ${Label} > ${Status} {
     border-color: ${props => props.theme.brandDisabled};
     background-color: ${props => props.theme.brandDisabled};
+    box-shadow: none;
   }
   &:focus + ${Label} {
     outline: 2px solid ${props => props.theme.focusColor};
