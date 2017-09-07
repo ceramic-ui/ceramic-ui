@@ -63,6 +63,7 @@ const Button = styled.button`
   font-size: 1rem;
   font-weight: 500;
   cursor: pointer;
+  text-transform: uppercase;
   &:focus {
     outline: 2px solid ${props => props.theme.focusColor};
     outline-offset: 2px;
