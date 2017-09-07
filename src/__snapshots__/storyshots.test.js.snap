@@ -2,7 +2,7 @@
 
 exports[`Storyshots Button Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -14,40 +14,40 @@ exports[`Storyshots Button Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH jzoMRG"
+        className="ButtonPanel-s11qikfz-0 jojQrr"
       >
         <button
-          className="sc-htpNat igdQWm"
+          className="Button-wl37ou-0 jqujpF"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat fSWnYd"
+          className="Button-wl37ou-0 fGqFqw"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat ezTVoj"
+          className="Button-wl37ou-0 hUBojY"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat gvHFxZ"
+          className="Button-wl37ou-0 ldxKDj"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat jXvclQ"
+          className="Button-wl37ou-0 kzhuSG"
           type="button"
         >
           Danger
         </button>
         <button
-          className="sc-htpNat cVjKzs"
+          className="Button-wl37ou-0 bsEMfy"
           type="button"
         >
           Link
@@ -1038,43 +1038,43 @@ exports[`Storyshots Button Basic 1`] = `
 
 exports[`Storyshots Button Block-level 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div
-    className="sc-bwzfXH blOvOo"
+    className="ButtonPanel-s11qikfz-0 lkCQIj"
   >
     <button
-      className="sc-htpNat RrUhZ"
+      className="Button-wl37ou-0 NPXus"
       type="button"
     >
       Default
     </button>
     <button
-      className="sc-htpNat ljQeUM"
+      className="Button-wl37ou-0 iYmCEb"
       type="button"
     >
       Primary
     </button>
     <button
-      className="sc-htpNat hbmUOP"
+      className="Button-wl37ou-0 jVnwZi"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="sc-htpNat kRZRlp"
+      className="Button-wl37ou-0 hdeoAV"
       type="button"
     >
       Success
     </button>
     <button
-      className="sc-htpNat jmGVrp"
+      className="Button-wl37ou-0 fjIODq"
       type="button"
     >
       Danger
     </button>
     <button
-      className="sc-htpNat cvETNi"
+      className="Button-wl37ou-0 eqKdhZ"
       type="button"
     >
       Link
@@ -1085,48 +1085,48 @@ exports[`Storyshots Button Block-level 1`] = `
 
 exports[`Storyshots Button Disabled 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div
-    className="sc-bwzfXH jzoMRG"
+    className="ButtonPanel-s11qikfz-0 jojQrr"
   >
     <button
-      className="sc-htpNat igdQWm"
+      className="Button-wl37ou-0 jqujpF"
       disabled={true}
       type="button"
     >
       Default
     </button>
     <button
-      className="sc-htpNat fSWnYd"
+      className="Button-wl37ou-0 fGqFqw"
       disabled={true}
       type="button"
     >
       Primary
     </button>
     <button
-      className="sc-htpNat ezTVoj"
+      className="Button-wl37ou-0 hUBojY"
       disabled={true}
       type="button"
     >
       Secondary
     </button>
     <button
-      className="sc-htpNat gvHFxZ"
+      className="Button-wl37ou-0 ldxKDj"
       disabled={true}
       type="button"
     >
       Success
     </button>
     <button
-      className="sc-htpNat jXvclQ"
+      className="Button-wl37ou-0 kzhuSG"
       disabled={true}
       type="button"
     >
       Danger
     </button>
     <button
-      className="sc-htpNat cVjKzs"
+      className="Button-wl37ou-0 bsEMfy"
       disabled={true}
       onClick={[Function]}
       type="button"
@@ -1139,7 +1139,7 @@ exports[`Storyshots Button Disabled 1`] = `
 
 exports[`Storyshots ButtonPanel Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -1151,40 +1151,40 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
       }
     >
       <div
-        className="sc-bwzfXH jzoMRG"
+        className="ButtonPanel-s11qikfz-0 jojQrr"
       >
         <button
-          className="sc-htpNat igdQWm"
+          className="Button-wl37ou-0 jqujpF"
           type="button"
         >
           Default
         </button>
         <button
-          className="sc-htpNat fSWnYd"
+          className="Button-wl37ou-0 fGqFqw"
           type="button"
         >
           Primary
         </button>
         <button
-          className="sc-htpNat ezTVoj"
+          className="Button-wl37ou-0 hUBojY"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="sc-htpNat gvHFxZ"
+          className="Button-wl37ou-0 ldxKDj"
           type="button"
         >
           Success
         </button>
         <button
-          className="sc-htpNat jXvclQ"
+          className="Button-wl37ou-0 kzhuSG"
           type="button"
         >
           Danger
         </button>
         <button
-          className="sc-htpNat cVjKzs"
+          className="Button-wl37ou-0 bsEMfy"
           type="button"
         >
           Link
@@ -2175,7 +2175,7 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
 
 exports[`Storyshots Card Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -2188,77 +2188,77 @@ exports[`Storyshots Card Basic 1`] = `
     >
       <div>
         <div
-          className="sc-iwsKbI iGpqNg"
+          className="Card-s14e64nw-0 eUamhN"
         >
           <h2
-            className="sc-ifAKCX jEDLra"
+            className="Heading__Heading2-c41kgi-1 iqIuBq"
           >
             A basic card
           </h2>
           <p
-            className="sc-dnqmqq kOaTKw"
+            className="Paragraph-ahzkxl-0 bqylBN"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq gNydUO"
+            className="Paragraph-ahzkxl-0 ckqjKZ"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
         </div>
         <div
-          className="sc-iwsKbI jbGwLo"
+          className="Card-s14e64nw-0 cmaDNe"
         >
           <h2
-            className="sc-ifAKCX jEDLra"
+            className="Heading__Heading2-c41kgi-1 iqIuBq"
           >
             A callout card - Primary style
           </h2>
           <p
-            className="sc-dnqmqq kOaTKw"
+            className="Paragraph-ahzkxl-0 bqylBN"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq gNydUO"
+            className="Paragraph-ahzkxl-0 ckqjKZ"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
         </div>
         <div
-          className="sc-iwsKbI cwrfle"
+          className="Card-s14e64nw-0 foBYmQ"
         >
           <h2
-            className="sc-ifAKCX jEDLra"
+            className="Heading__Heading2-c41kgi-1 iqIuBq"
           >
             A callout card - Danger style
           </h2>
           <p
-            className="sc-dnqmqq kOaTKw"
+            className="Paragraph-ahzkxl-0 bqylBN"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq gNydUO"
+            className="Paragraph-ahzkxl-0 ckqjKZ"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
         </div>
         <div
-          className="sc-iwsKbI dAwpky"
+          className="Card-s14e64nw-0 bngDPP"
         >
           <h2
-            className="sc-ifAKCX jEDLra"
+            className="Heading__Heading2-c41kgi-1 iqIuBq"
           >
             A callout card - Success style
           </h2>
           <p
-            className="sc-dnqmqq kOaTKw"
+            className="Paragraph-ahzkxl-0 bqylBN"
           >
             This is some example content
           </p>
           <p
-            className="sc-dnqmqq gNydUO"
+            className="Paragraph-ahzkxl-0 ckqjKZ"
           >
             It is presented inside a card to draw some attention to it relative to surrounding content
           </p>
@@ -3990,7 +3990,7 @@ exports[`Storyshots Card Basic 1`] = `
 
 exports[`Storyshots Container Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -4003,17 +4003,17 @@ exports[`Storyshots Container Basic 1`] = `
     >
       <div>
         <div
-          className="sc-gZMcBi ACLRk"
+          className="Container-oaggut-0 gFNCPI"
         >
           Hello Container 1
         </div>
         <div
-          className="sc-gZMcBi ACLRk"
+          className="Container-oaggut-0 gFNCPI"
         >
           Hello Container 2
         </div>
         <div
-          className="sc-gZMcBi hUSxgO"
+          className="Container-oaggut-0 gYRxuE"
         >
           This container has its width limited for readability on tablet and larger screens. On mobile screens, it still takes up 100% width. Try resizing your window to see the effect.
         </div>
@@ -4547,7 +4547,7 @@ exports[`Storyshots Container Basic 1`] = `
 
 exports[`Storyshots Error Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -4559,7 +4559,7 @@ exports[`Storyshots Error Basic 1`] = `
       }
     >
       <p
-        className="sc-gqjmRU jlzksv"
+        className="Error-stmcen-0 doAlVt"
       >
         Basic example
       </p>
@@ -4816,7 +4816,7 @@ exports[`Storyshots Error Basic 1`] = `
 
 exports[`Storyshots Field Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -4828,48 +4828,48 @@ exports[`Storyshots Field Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi hUSxgO"
+        className="Container-oaggut-0 gYRxuE"
       >
         <div
-          className="sc-jzJRlG jwebDd"
+          className="Field-s1e1nri1-0 kDmFEQ"
         >
           <div>
             <label
-              className="sc-jTzLTM hExgyA"
+              className="Label-s1gwtaf2-0 fjTjmT"
             >
               Street
             </label>
             <span
-              className="sc-fjdhpX bpwrDY"
+              className="Text-s1io7kdp-0 gofLBD"
               color="muted"
             >
               Must be a U.S. address
             </span>
           </div>
           <input
-            className="sc-VigVT cDOZKz"
+            className="Input-s2iff0r-0 gqYGmp"
             defaultValue="742 Evergreen Terrace"
           />
           <input
-            className="sc-VigVT cDOZKz"
+            className="Input-s2iff0r-0 gqYGmp"
             defaultValue=""
           />
           <p
-            className="sc-gqjmRU jlzksv"
+            className="Error-stmcen-0 doAlVt"
           >
             This is not a valid address
           </p>
         </div>
         <div
-          className="sc-jzJRlG grhJEb"
+          className="Field-s1e1nri1-0 hLCxPZ"
         >
           <label
-            className="sc-jTzLTM hExgyA"
+            className="Label-s1gwtaf2-0 fjTjmT"
           >
             Town or suburb
           </label>
           <input
-            className="sc-VigVT cDOZKz"
+            className="Input-s2iff0r-0 gqYGmp"
             defaultValue="Springfield"
           />
         </div>
@@ -6113,7 +6113,7 @@ exports[`Storyshots Field Basic 1`] = `
 
 exports[`Storyshots Flex Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -6125,19 +6125,19 @@ exports[`Storyshots Flex Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi hUSxgO"
+        className="Container-oaggut-0 gYRxuE"
       >
         <div
-          className="sc-kAzzGY bTxzhd"
+          className="Flex-s1aphh1m-1 cxJEtE"
           direction="row"
           wrap="wrap"
         >
           <div
-            className="sc-cSHVUG jtPsaT"
+            className="Flex__Item-s1aphh1m-0 gXCAPC"
             data-flush={undefined}
           >
             <p
-              className="sc-dnqmqq kOaTKw"
+              className="Paragraph-ahzkxl-0 bqylBN"
             >
               First example
               <br />
@@ -6145,62 +6145,62 @@ exports[`Storyshots Flex Basic 1`] = `
             </p>
           </div>
           <div
-            className="sc-cSHVUG jtPsaT"
+            className="Flex__Item-s1aphh1m-0 gXCAPC"
             data-flush={true}
           >
             <p
-              className="sc-dnqmqq kOaTKw"
+              className="Paragraph-ahzkxl-0 bqylBN"
             >
               Second example
             </p>
           </div>
           <div
-            className="sc-cSHVUG jtPsaT"
+            className="Flex__Item-s1aphh1m-0 gXCAPC"
             data-flush={undefined}
           >
             <p
-              className="sc-dnqmqq kOaTKw"
+              className="Paragraph-ahzkxl-0 bqylBN"
             >
               Third example
             </p>
           </div>
           <div
-            className="sc-cSHVUG iGHHwM"
+            className="Flex__Item-s1aphh1m-0 gLEJbs"
             data-flush={undefined}
             order={-1}
           >
             <p
-              className="sc-dnqmqq kOaTKw"
+              className="Paragraph-ahzkxl-0 bqylBN"
             >
               Fourth example
             </p>
           </div>
           <div
-            className="sc-cSHVUG doWOXc"
+            className="Flex__Item-s1aphh1m-0 fttuyF"
             data-flush={undefined}
           >
             <p
-              className="sc-dnqmqq kOaTKw"
+              className="Paragraph-ahzkxl-0 bqylBN"
             >
               Fifth example
             </p>
           </div>
           <div
-            className="sc-cSHVUG jtPsaT"
+            className="Flex__Item-s1aphh1m-0 gXCAPC"
             data-flush={undefined}
           >
             <p
-              className="sc-dnqmqq kOaTKw"
+              className="Paragraph-ahzkxl-0 bqylBN"
             >
               Sixth example
             </p>
           </div>
           <div
-            className="sc-cSHVUG jtPsaT"
+            className="Flex__Item-s1aphh1m-0 gXCAPC"
             data-flush={undefined}
           >
             <p
-              className="sc-dnqmqq kOaTKw"
+              className="Paragraph-ahzkxl-0 bqylBN"
             >
               Seventh example
             </p>
@@ -7948,7 +7948,7 @@ exports[`Storyshots Flex Basic 1`] = `
 
 exports[`Storyshots Heading Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -7961,32 +7961,32 @@ exports[`Storyshots Heading Basic 1`] = `
     >
       <div>
         <h1
-          className="sc-bxivhb hPivvT"
+          className="Heading__Heading1-c41kgi-0 iuurgV"
         >
           The quick brown fox jumps over the lazy dog
         </h1>
         <h2
-          className="sc-ifAKCX jEDLra"
+          className="Heading__Heading2-c41kgi-1 iqIuBq"
         >
           The quick brown fox jumps over the lazy dog
         </h2>
         <h3
-          className="sc-EHOje bwWhfm"
+          className="Heading__Heading3-c41kgi-2 ilvGEP"
         >
           The quick brown fox jumps over the lazy dog
         </h3>
         <h4
-          className="sc-bZQynM JwqYn"
+          className="Heading__Heading4-c41kgi-3 eJyNmC"
         >
           The quick brown fox jumps over the lazy dog
         </h4>
         <h5
-          className="sc-gzVnrw eBLFOD"
+          className="Heading__Heading5-c41kgi-4 bIqqOc"
         >
           The quick brown fox jumps over the lazy dog
         </h5>
         <h6
-          className="sc-htoDjs kWteOR"
+          className="Heading__Heading6-c41kgi-5 glRHBP"
         >
           The quick brown fox jumps over the lazy dog
         </h6>
@@ -8867,7 +8867,7 @@ exports[`Storyshots Heading Basic 1`] = `
 
 exports[`Storyshots Input Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -8879,10 +8879,10 @@ exports[`Storyshots Input Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi hUSxgO"
+        className="Container-oaggut-0 gYRxuE"
       >
         <input
-          className="sc-VigVT cDOZKz"
+          className="Input-s2iff0r-0 gqYGmp"
         />
       </div>
     </div>
@@ -9306,27 +9306,27 @@ exports[`Storyshots Input Basic 1`] = `
 
 exports[`Storyshots Input Disabled 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
-      className="sc-gZMcBi hUSxgO"
+      className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="sc-VigVT rspek"
+        className="Input-s2iff0r-0 gdGKkt"
         disabled={true}
         value="cannot edit me!"
       />
     </div>
     <div
-      className="sc-chPdSV dKVzMO"
+      className="oaggut-0-Container-klzlrk bWCLRh"
     >
       <input
-        className="sc-VigVT gGciuT"
+        className="Input-s2iff0r-0 dWSNPD"
         disabled={true}
       />
       <input
-        className="sc-VigVT gGciuT"
+        className="Input-s2iff0r-0 dWSNPD"
         disabled={true}
       />
     </div>
@@ -9336,7 +9336,7 @@ exports[`Storyshots Input Disabled 1`] = `
 
 exports[`Storyshots Input Inline 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -9348,13 +9348,13 @@ exports[`Storyshots Input Inline 1`] = `
       }
     >
       <div
-        className="sc-chPdSV dKVzMO"
+        className="oaggut-0-Container-klzlrk bWCLRh"
       >
         <input
-          className="sc-VigVT iNqcbd"
+          className="Input-s2iff0r-0 SeXiq"
         />
         <input
-          className="sc-VigVT iNqcbd"
+          className="Input-s2iff0r-0 SeXiq"
         />
       </div>
     </div>
@@ -9517,7 +9517,7 @@ exports[`Storyshots Input Inline 1`] = `
                     }
                   >
                     &lt;
-                    styled.div
+                    Container
                   </span>
                   <span>
                     <span>
@@ -9634,7 +9634,7 @@ exports[`Storyshots Input Inline 1`] = `
                     }
                   >
                     &lt;/
-                    styled.div
+                    Container
                     &gt;
                   </span>
                 </div>
@@ -9654,6 +9654,80 @@ exports[`Storyshots Input Inline 1`] = `
             >
               Prop Types
             </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Container
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      readable
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
             <div>
               <h2
                 style={
@@ -9743,80 +9817,6 @@ exports[`Storyshots Input Inline 1`] = `
                 </tbody>
               </table>
             </div>
-            <div>
-              <h2
-                style={
-                  Object {
-                    "margin": "20px 0 0 0",
-                  }
-                }
-              >
-                "
-                styled.div
-                " Component
-              </h2>
-              <table
-                style={
-                  Object {
-                    "borderCollapse": "separate",
-                    "borderSpacing": "10px 5px",
-                    "marginLeft": -10,
-                  }
-                }
-              >
-                <thead>
-                  <tr>
-                    <th>
-                      property
-                    </th>
-                    <th>
-                      propType
-                    </th>
-                    <th>
-                      required
-                    </th>
-                    <th>
-                      default
-                    </th>
-                    <th>
-                      description
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>
-                      readable
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                  <tr>
-                    <td>
-                      flush
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                </tbody>
-              </table>
-            </div>
           </div>
         </div>
       </div>
@@ -9827,30 +9827,30 @@ exports[`Storyshots Input Inline 1`] = `
 
 exports[`Storyshots Input Validation 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
-      className="sc-gZMcBi hUSxgO"
+      className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="sc-VigVT jZjtqU"
+        className="Input-s2iff0r-0 fcDAEO"
         defaultValue="I am valid"
       />
     </div>
     <div
-      className="sc-gZMcBi hUSxgO"
+      className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="sc-VigVT cWVZUD"
+        className="Input-s2iff0r-0 bIjByK"
         defaultValue="I am invalid"
       />
     </div>
     <div
-      className="sc-gZMcBi hUSxgO"
+      className="Container-oaggut-0 gYRxuE"
     >
       <input
-        className="sc-VigVT eIXEwj"
+        className="Input-s2iff0r-0 bgMXtw"
         defaultValue="I am disabled. Validation not shown."
         disabled={true}
       />
@@ -9861,7 +9861,7 @@ exports[`Storyshots Input Validation 1`] = `
 
 exports[`Storyshots Label Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -9873,7 +9873,7 @@ exports[`Storyshots Label Basic 1`] = `
       }
     >
       <label
-        className="sc-jTzLTM hExgyA"
+        className="Label-s1gwtaf2-0 fjTjmT"
       >
         Basic example
       </label>
@@ -10130,7 +10130,7 @@ exports[`Storyshots Label Basic 1`] = `
 
 exports[`Storyshots Link Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -10142,7 +10142,7 @@ exports[`Storyshots Link Basic 1`] = `
       }
     >
       <a
-        className="sc-kgoBCf dSrpIV"
+        className="Link-s1y9ut1t-0 hEMPpt"
       >
         Simple link
       </a>
@@ -10399,7 +10399,7 @@ exports[`Storyshots Link Basic 1`] = `
 
 exports[`Storyshots Paragraph Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -10412,17 +10412,17 @@ exports[`Storyshots Paragraph Basic 1`] = `
     >
       <div>
         <p
-          className="sc-dnqmqq kOaTKw"
+          className="Paragraph-ahzkxl-0 bqylBN"
         >
           This is sample text in a paragraph
         </p>
         <p
-          className="sc-dnqmqq gNydUO"
+          className="Paragraph-ahzkxl-0 ckqjKZ"
         >
           This is a flush paragraph that has no margin
         </p>
         <p
-          className="sc-dnqmqq kOaTKw"
+          className="Paragraph-ahzkxl-0 bqylBN"
         >
           This is another paragraph
         </p>
@@ -10941,7 +10941,7 @@ exports[`Storyshots Paragraph Basic 1`] = `
 
 exports[`Storyshots ProgressBar Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -10953,13 +10953,13 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi ACLRk"
+        className="Container-oaggut-0 gFNCPI"
       >
         <div
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-kGXeez cLXSgw"
+          className="ProgressBar-s1ar132v-0 fZlhXJ"
           max={100}
           min={0}
           role="progressbar"
@@ -10969,7 +10969,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-kGXeez gDACMk"
+          className="ProgressBar-s1ar132v-0 kBOjie"
           max={100}
           min={0}
           role="progressbar"
@@ -10979,7 +10979,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-kGXeez kQcIVT"
+          className="ProgressBar-s1ar132v-0 bysqyo"
           max={100}
           min={0}
           role="progressbar"
@@ -10989,7 +10989,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="sc-kGXeez cwOPiY"
+          className="ProgressBar-s1ar132v-0 ciNxzK"
           max={100}
           min={0}
           role="progressbar"
@@ -11748,7 +11748,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
 
 exports[`Storyshots Select Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -11760,14 +11760,14 @@ exports[`Storyshots Select Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi hUSxgO"
+        className="Container-oaggut-0 gYRxuE"
       >
         <div
-          className="sc-kpOJdX oaYOY"
+          className="Select__Container-d3yd3r-0 hIeNAl"
           disabled={undefined}
         >
           <select
-            className="sc-jKJlTe bByPYL"
+            className="Select__Control-d3yd3r-3 cNntzh"
           >
             <option>
               Select your favourite super hero
@@ -11786,10 +11786,10 @@ exports[`Storyshots Select Basic 1`] = `
             </option>
           </select>
           <div
-            className="sc-dxgOiQ uvkDL"
+            className="Select__Accessory-d3yd3r-1 eVPuFM"
           >
             <svg
-              className="sc-ckVGcZ juyLlj"
+              className="Select__Chevron-d3yd3r-2 jzHEgu"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -12034,7 +12034,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -12081,7 +12081,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -12103,7 +12103,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -12150,7 +12150,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -12172,7 +12172,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -12219,7 +12219,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -12241,7 +12241,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -12288,7 +12288,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -12310,7 +12310,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -12357,7 +12357,7 @@ exports[`Storyshots Select Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -12419,22 +12419,6 @@ exports[`Storyshots Select Basic 1`] = `
             >
               Prop Types
             </h1>
-            <div>
-              <h2
-                style={
-                  Object {
-                    "margin": "20px 0 0 0",
-                  }
-                }
-              >
-                "
-                
-                " Component
-              </h2>
-              <small>
-                No propTypes defined!
-              </small>
-            </div>
             <div>
               <h2
                 style={
@@ -12508,6 +12492,22 @@ exports[`Storyshots Select Basic 1`] = `
                   </tr>
                 </tbody>
               </table>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Option
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
             </div>
             <div>
               <h2
@@ -12623,18 +12623,18 @@ exports[`Storyshots Select Basic 1`] = `
 
 exports[`Storyshots Select Disabled 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
-      className="sc-gZMcBi hUSxgO"
+      className="Container-oaggut-0 gYRxuE"
     >
       <div
-        className="sc-kpOJdX bAFZGE"
+        className="Select__Container-d3yd3r-0 dkiXQx"
         disabled={true}
       >
         <select
-          className="sc-jKJlTe bByPYL"
+          className="Select__Control-d3yd3r-3 cNntzh"
           disabled={true}
         >
           <option>
@@ -12654,10 +12654,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="sc-dxgOiQ uvkDL"
+          className="Select__Accessory-d3yd3r-1 eVPuFM"
         >
           <svg
-            className="sc-ckVGcZ juyLlj"
+            className="Select__Chevron-d3yd3r-2 jzHEgu"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -12673,14 +12673,14 @@ exports[`Storyshots Select Disabled 1`] = `
       </div>
     </div>
     <div
-      className="sc-eNQAEJ bfNKjc"
+      className="oaggut-0-Container-gATNmD kxywBB"
     >
       <div
-        className="sc-kpOJdX giZzay"
+        className="Select__Container-d3yd3r-0 bVQBDi"
         disabled={true}
       >
         <select
-          className="sc-jKJlTe eJMEbd"
+          className="Select__Control-d3yd3r-3 dfCEQK"
           disabled={true}
         >
           <option>
@@ -12700,10 +12700,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="sc-dxgOiQ uvkDL"
+          className="Select__Accessory-d3yd3r-1 eVPuFM"
         >
           <svg
-            className="sc-ckVGcZ juyLlj"
+            className="Select__Chevron-d3yd3r-2 jzHEgu"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -12718,11 +12718,11 @@ exports[`Storyshots Select Disabled 1`] = `
         </div>
       </div>
       <div
-        className="sc-kpOJdX giZzay"
+        className="Select__Container-d3yd3r-0 bVQBDi"
         disabled={true}
       >
         <select
-          className="sc-jKJlTe eJMEbd"
+          className="Select__Control-d3yd3r-3 dfCEQK"
           disabled={true}
         >
           <option>
@@ -12742,10 +12742,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="sc-dxgOiQ uvkDL"
+          className="Select__Accessory-d3yd3r-1 eVPuFM"
         >
           <svg
-            className="sc-ckVGcZ juyLlj"
+            className="Select__Chevron-d3yd3r-2 jzHEgu"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -12766,7 +12766,7 @@ exports[`Storyshots Select Disabled 1`] = `
 
 exports[`Storyshots Select Inline 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -12778,14 +12778,14 @@ exports[`Storyshots Select Inline 1`] = `
       }
     >
       <div
-        className="sc-eNQAEJ bfNKjc"
+        className="oaggut-0-Container-gATNmD kxywBB"
       >
         <div
-          className="sc-kpOJdX ejOIfL"
+          className="Select__Container-d3yd3r-0 kbTePb"
           disabled={undefined}
         >
           <select
-            className="sc-jKJlTe eJMEbd"
+            className="Select__Control-d3yd3r-3 dfCEQK"
           >
             <option>
               Select your favourite super hero
@@ -12804,10 +12804,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="sc-dxgOiQ uvkDL"
+            className="Select__Accessory-d3yd3r-1 eVPuFM"
           >
             <svg
-              className="sc-ckVGcZ juyLlj"
+              className="Select__Chevron-d3yd3r-2 jzHEgu"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -12822,11 +12822,11 @@ exports[`Storyshots Select Inline 1`] = `
           </div>
         </div>
         <div
-          className="sc-kpOJdX ejOIfL"
+          className="Select__Container-d3yd3r-0 kbTePb"
           disabled={undefined}
         >
           <select
-            className="sc-jKJlTe eJMEbd"
+            className="Select__Control-d3yd3r-3 dfCEQK"
           >
             <option>
               Select your favourite food
@@ -12845,10 +12845,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="sc-dxgOiQ uvkDL"
+            className="Select__Accessory-d3yd3r-1 eVPuFM"
           >
             <svg
-              className="sc-ckVGcZ juyLlj"
+              className="Select__Chevron-d3yd3r-2 jzHEgu"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -13023,7 +13023,7 @@ exports[`Storyshots Select Inline 1`] = `
                     }
                   >
                     &lt;
-                    styled.div
+                    Container
                   </span>
                   <span>
                     <span>
@@ -13103,7 +13103,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13150,7 +13150,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13172,7 +13172,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13219,7 +13219,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13241,7 +13241,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13288,7 +13288,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13310,7 +13310,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13357,7 +13357,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13379,7 +13379,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13426,7 +13426,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13509,7 +13509,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13556,7 +13556,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13578,7 +13578,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13625,7 +13625,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13647,7 +13647,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13694,7 +13694,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13716,7 +13716,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13763,7 +13763,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13785,7 +13785,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;
-                        Unknown
+                        Option
                       </span>
                       <span />
                       <span
@@ -13832,7 +13832,7 @@ exports[`Storyshots Select Inline 1`] = `
                         }
                       >
                         &lt;/
-                        Unknown
+                        Option
                         &gt;
                       </span>
                     </div>
@@ -13874,7 +13874,7 @@ exports[`Storyshots Select Inline 1`] = `
                     }
                   >
                     &lt;/
-                    styled.div
+                    Container
                     &gt;
                   </span>
                 </div>
@@ -13903,7 +13903,81 @@ exports[`Storyshots Select Inline 1`] = `
                 }
               >
                 "
-                
+                Container
+                " Component
+              </h2>
+              <table
+                style={
+                  Object {
+                    "borderCollapse": "separate",
+                    "borderSpacing": "10px 5px",
+                    "marginLeft": -10,
+                  }
+                }
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      property
+                    </th>
+                    <th>
+                      propType
+                    </th>
+                    <th>
+                      required
+                    </th>
+                    <th>
+                      default
+                    </th>
+                    <th>
+                      description
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      readable
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      flush
+                    </td>
+                    <td>
+                      bool
+                    </td>
+                    <td>
+                      no
+                    </td>
+                    <td>
+                      -
+                    </td>
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Option
                 " Component
               </h2>
               <small>
@@ -14014,80 +14088,6 @@ exports[`Storyshots Select Inline 1`] = `
                 </tbody>
               </table>
             </div>
-            <div>
-              <h2
-                style={
-                  Object {
-                    "margin": "20px 0 0 0",
-                  }
-                }
-              >
-                "
-                styled.div
-                " Component
-              </h2>
-              <table
-                style={
-                  Object {
-                    "borderCollapse": "separate",
-                    "borderSpacing": "10px 5px",
-                    "marginLeft": -10,
-                  }
-                }
-              >
-                <thead>
-                  <tr>
-                    <th>
-                      property
-                    </th>
-                    <th>
-                      propType
-                    </th>
-                    <th>
-                      required
-                    </th>
-                    <th>
-                      default
-                    </th>
-                    <th>
-                      description
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>
-                      readable
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                  <tr>
-                    <td>
-                      flush
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                </tbody>
-              </table>
-            </div>
           </div>
         </div>
       </div>
@@ -14098,18 +14098,18 @@ exports[`Storyshots Select Inline 1`] = `
 
 exports[`Storyshots Select Validation 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
-      className="sc-gZMcBi ACLRk"
+      className="Container-oaggut-0 gFNCPI"
     >
       <div
-        className="sc-kpOJdX gKoYVx"
+        className="Select__Container-d3yd3r-0 kUdxgb"
         disabled={undefined}
       >
         <select
-          className="sc-jKJlTe bByPYL"
+          className="Select__Control-d3yd3r-3 cNntzh"
         >
           <option>
             Select your favourite super hero
@@ -14130,10 +14130,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="sc-dxgOiQ uvkDL"
+          className="Select__Accessory-d3yd3r-1 eVPuFM"
         >
           <svg
-            className="sc-ckVGcZ juyLlj"
+            className="Select__Chevron-d3yd3r-2 jzHEgu"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -14149,14 +14149,14 @@ exports[`Storyshots Select Validation 1`] = `
       </div>
     </div>
     <div
-      className="sc-gZMcBi ACLRk"
+      className="Container-oaggut-0 gFNCPI"
     >
       <div
-        className="sc-kpOJdX jzJuDH"
+        className="Select__Container-d3yd3r-0 LoKUI"
         disabled={undefined}
       >
         <select
-          className="sc-jKJlTe bByPYL"
+          className="Select__Control-d3yd3r-3 cNntzh"
         >
           <option>
             Select your favourite super hero
@@ -14175,10 +14175,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="sc-dxgOiQ uvkDL"
+          className="Select__Accessory-d3yd3r-1 eVPuFM"
         >
           <svg
-            className="sc-ckVGcZ juyLlj"
+            className="Select__Chevron-d3yd3r-2 jzHEgu"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -14199,7 +14199,7 @@ exports[`Storyshots Select Validation 1`] = `
 
 exports[`Storyshots Switch Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -14211,36 +14211,36 @@ exports[`Storyshots Switch Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi ACLRk"
+        className="Container-oaggut-0 gFNCPI"
       >
         <div
-          className="sc-iwsKbI iGpqNg"
+          className="Card-s14e64nw-0 eUamhN"
         >
           <p
-            className="sc-dnqmqq kOaTKw"
+            className="Paragraph-ahzkxl-0 bqylBN"
           >
             As a checkbox
           </p>
           <div
-            className="sc-gZMcBi ACLRk"
+            className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="sc-iAyFgw enBpOL"
+              className="Switch__Container-s1klwwtq-3 hplKzP"
             >
               <input
-                className="sc-kkGfuU jPvvpS"
+                className="Switch__Control-s1klwwtq-2 bLrwFi"
                 id="example"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="sc-kEYyzF bYcRth"
+                className="Switch__Label-s1klwwtq-1 iPYjNs"
               >
                 <div
-                  className="sc-hMqMXs fPdXhM"
+                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
                 />
                 <div
-                  className="sc-hSdWYo jqeBJH"
+                  className="Switch__Content-s1klwwtq-4 lduDel"
                 >
                   This can be toggled
                 </div>
@@ -14248,25 +14248,25 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi ACLRk"
+            className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="sc-iAyFgw enBpOL"
+              className="Switch__Container-s1klwwtq-3 hplKzP"
             >
               <input
-                className="sc-kkGfuU jPvvpS"
+                className="Switch__Control-s1klwwtq-2 bLrwFi"
                 id="example2"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="sc-kEYyzF bYcRth"
+                className="Switch__Label-s1klwwtq-1 iPYjNs"
               >
                 <div
-                  className="sc-hMqMXs fPdXhM"
+                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
                 />
                 <div
-                  className="sc-hSdWYo jqeBJH"
+                  className="Switch__Content-s1klwwtq-4 lduDel"
                 >
                   So can this one
                 </div>
@@ -14274,26 +14274,26 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi ACLRk"
+            className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="sc-iAyFgw enBpOL"
+              className="Switch__Container-s1klwwtq-3 hplKzP"
             >
               <input
-                className="sc-kkGfuU jPvvpS"
+                className="Switch__Control-s1klwwtq-2 bLrwFi"
                 disabled={true}
                 id="example3"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="sc-kEYyzF bYcRth"
+                className="Switch__Label-s1klwwtq-1 iPYjNs"
               >
                 <div
-                  className="sc-hMqMXs fPdXhM"
+                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
                 />
                 <div
-                  className="sc-hSdWYo jqeBJH"
+                  className="Switch__Content-s1klwwtq-4 lduDel"
                 >
                   But this one is disabled
                 </div>
@@ -14302,33 +14302,33 @@ exports[`Storyshots Switch Basic 1`] = `
           </div>
         </div>
         <div
-          className="sc-iwsKbI iGpqNg"
+          className="Card-s14e64nw-0 eUamhN"
         >
           <p
-            className="sc-dnqmqq kOaTKw"
+            className="Paragraph-ahzkxl-0 bqylBN"
           >
             As a radio
           </p>
           <div
-            className="sc-gZMcBi ACLRk"
+            className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="sc-iAyFgw enBpOL"
+              className="Switch__Container-s1klwwtq-3 hplKzP"
             >
               <input
-                className="sc-kkGfuU jPvvpS"
+                className="Switch__Control-s1klwwtq-2 bLrwFi"
                 id="example4"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="sc-kEYyzF bYcRth"
+                className="Switch__Label-s1klwwtq-1 iPYjNs"
               >
                 <div
-                  className="sc-hMqMXs fPdXhM"
+                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
                 />
                 <div
-                  className="sc-hSdWYo jqeBJH"
+                  className="Switch__Content-s1klwwtq-4 lduDel"
                 >
                   This can be selected
                 </div>
@@ -14336,25 +14336,25 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi ACLRk"
+            className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="sc-iAyFgw enBpOL"
+              className="Switch__Container-s1klwwtq-3 hplKzP"
             >
               <input
-                className="sc-kkGfuU jPvvpS"
+                className="Switch__Control-s1klwwtq-2 bLrwFi"
                 id="example5"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="sc-kEYyzF bYcRth"
+                className="Switch__Label-s1klwwtq-1 iPYjNs"
               >
                 <div
-                  className="sc-hMqMXs fPdXhM"
+                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
                 />
                 <div
-                  className="sc-hSdWYo jqeBJH"
+                  className="Switch__Content-s1klwwtq-4 lduDel"
                 >
                   So can this one
                 </div>
@@ -14362,26 +14362,26 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="sc-gZMcBi ACLRk"
+            className="Container-oaggut-0 gFNCPI"
           >
             <div
-              className="sc-iAyFgw enBpOL"
+              className="Switch__Container-s1klwwtq-3 hplKzP"
             >
               <input
-                className="sc-kkGfuU jPvvpS"
+                className="Switch__Control-s1klwwtq-2 bLrwFi"
                 disabled={true}
                 id="example6"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="sc-kEYyzF bYcRth"
+                className="Switch__Label-s1klwwtq-1 iPYjNs"
               >
                 <div
-                  className="sc-hMqMXs fPdXhM"
+                  className="Switch__Status-s1klwwtq-0 hNJFHQ"
                 />
                 <div
-                  className="sc-hSdWYo jqeBJH"
+                  className="Switch__Content-s1klwwtq-4 lduDel"
                 >
                   But this one is disabled
                 </div>
@@ -16373,7 +16373,7 @@ exports[`Storyshots Switch Basic 1`] = `
 
 exports[`Storyshots SystemFontStack Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -16385,7 +16385,7 @@ exports[`Storyshots SystemFontStack Basic 1`] = `
       }
     >
       <div
-        className="sc-bdVaJa eFICPR"
+        className="SystemFontStack-s1ohtoca-0 bNHfzB"
       >
         This text should be rendered using your system font
       </div>
@@ -16661,7 +16661,7 @@ exports[`Storyshots SystemFontStack Basic 1`] = `
 
 exports[`Storyshots Text Basic 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div>
     <div
@@ -16673,44 +16673,44 @@ exports[`Storyshots Text Basic 1`] = `
       }
     >
       <div
-        className="sc-gZMcBi ACLRk"
+        className="Container-oaggut-0 gFNCPI"
       >
         <span
-          className="sc-fjdhpX jqbaQw"
+          className="Text-s1io7kdp-0 fuMkGD"
         >
           Basic example
         </span>
         <br />
         <span
-          className="sc-fjdhpX kZGfMN"
+          className="Text-s1io7kdp-0 frizGa"
           color="primary"
         >
           Basic example (primary)
         </span>
         <br />
         <span
-          className="sc-fjdhpX bDdmNt"
+          className="Text-s1io7kdp-0 cUiCtO"
           color="secondary"
         >
           Basic example (secondary)
         </span>
         <br />
         <span
-          className="sc-fjdhpX gWZQpl"
+          className="Text-s1io7kdp-0 cCJFMH"
           color="success"
         >
           Basic example (success)
         </span>
         <br />
         <span
-          className="sc-fjdhpX lihSTy"
+          className="Text-s1io7kdp-0 ijFuRo"
           color="danger"
         >
           Basic example (danger)
         </span>
         <br />
         <span
-          className="sc-fjdhpX bpwrDY"
+          className="Text-s1io7kdp-0 gofLBD"
           color="muted"
         >
           Basic example (muted)
@@ -17787,33 +17787,33 @@ exports[`Storyshots Text Basic 1`] = `
 
 exports[`Storyshots Text Weights 1`] = `
 <div
-  className="sc-bdVaJa eFICPR"
+  className="SystemFontStack-s1ohtoca-0 bNHfzB"
 >
   <div
-    className="sc-gZMcBi ACLRk"
+    className="Container-oaggut-0 gFNCPI"
   >
     <span
-      className="sc-fjdhpX gUTTtU"
+      className="Text-s1io7kdp-0 jPwSMF"
     >
       Basic example
     </span>
     <br />
     <span
-      className="sc-fjdhpX jbDNgg"
+      className="Text-s1io7kdp-0 kQJaSc"
     >
       Basic example
     </span>
     <br />
     <br />
     <span
-      className="sc-fjdhpX kQwlwM"
+      className="Text-s1io7kdp-0 iVRceu"
       color="primary"
     >
       Basic example (primary)
     </span>
     <br />
     <span
-      className="sc-fjdhpX gMHZJp"
+      className="Text-s1io7kdp-0 jwmCYA"
       color="primary"
     >
       Basic example (primary)
@@ -17821,14 +17821,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-fjdhpX hRpdXm"
+      className="Text-s1io7kdp-0 iIKCUy"
       color="secondary"
     >
       Basic example (secondary)
     </span>
     <br />
     <span
-      className="sc-fjdhpX eqQxvX"
+      className="Text-s1io7kdp-0 btvrUr"
       color="secondary"
     >
       Basic example (secondary)
@@ -17836,14 +17836,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-fjdhpX bUvhim"
+      className="Text-s1io7kdp-0 hSXoGJ"
       color="success"
     >
       Basic example (success)
     </span>
     <br />
     <span
-      className="sc-fjdhpX dkCYlc"
+      className="Text-s1io7kdp-0 jCdIQt"
       color="success"
     >
       Basic example (success)
@@ -17851,14 +17851,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-fjdhpX yOcmz"
+      className="Text-s1io7kdp-0 bVhtZl"
       color="danger"
     >
       Basic example (danger)
     </span>
     <br />
     <span
-      className="sc-fjdhpX krdEiz"
+      className="Text-s1io7kdp-0 jdLiVv"
       color="danger"
     >
       Basic example (danger)
@@ -17866,14 +17866,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="sc-fjdhpX nfJSi"
+      className="Text-s1io7kdp-0 jEUWMM"
       color="muted"
     >
       Basic example (muted)
     </span>
     <br />
     <span
-      className="sc-fjdhpX dBuLze"
+      className="Text-s1io7kdp-0 jPQaiG"
       color="muted"
     >
       Basic example (muted)
