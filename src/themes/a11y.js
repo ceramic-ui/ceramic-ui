@@ -1,7 +1,7 @@
-import defaultTheme from "./default";
+import bold from "./bold";
 
 export default {
-  ...defaultTheme,
+  ...bold,
   linkColor: "#3344dd",
   linkVisitedColor: "#8859b6",
   brandPrimary: "#007FAA",
