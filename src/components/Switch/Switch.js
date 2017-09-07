@@ -8,7 +8,7 @@ const Status = styled.div`
   margin-right: ${props => props.theme.spacingBase(s => s / 2)};
   display: inline-block;
   border: ${props => props.theme.borderWidth()} solid currentColor;
-  border-radius: ${props => props.theme.fontSize(s => s * 1.4)};
+  border-radius: 100%;
   position: relative;
   &:after {
     content: "";
