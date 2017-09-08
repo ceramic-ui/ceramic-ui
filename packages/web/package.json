@@ -1,6 +1,6 @@
 {
   "name": "@ceramic-ui/web",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React UI Toolkit",
   "homepage": "https://github.com/ceramic-ui/ceramic-ui",
   "bugs": {
@@ -11,7 +11,11 @@
     "url": "git+https://github.com/ceramic-ui/ceramic-ui.git"
   },
   "license": "MIT",
-  "keywords": ["react", "ui", "styled-components"],
+  "keywords": [
+    "react",
+    "ui",
+    "styled-components"
+  ],
   "peerDependencies": {
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
