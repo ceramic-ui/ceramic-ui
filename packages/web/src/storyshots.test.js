@@ -5,7 +5,7 @@ import { ThemeProvider } from "styled-components";
 
 import reset from "./reset";
 import defaultTheme from "./themes/default";
-import SystemFontStack from "./components/SystemFontStack";
+import SystemFontStack from "./SystemFontStack";
 
 reset();
 
