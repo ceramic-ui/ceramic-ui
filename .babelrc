@@ -1,7 +1,14 @@
 {
   "presets": ["es2015", "react"],
   "plugins": [
-    "transform-object-rest-spread",
-    ["babel-plugin-styled-components", { "ssr": true }]
-  ]
+    ["transform-object-rest-spread", { "useBuiltIns": true }],
+    ["babel-plugin-styled-components", { "ssr": true }],
+    "transform-es2015-modules-umd"
+  ],
+  "env": {
+    "production": {
+      "presets": ["minify"]
+    }
+  },
+  "ignore": ["**/*.stories.js"]
 }
