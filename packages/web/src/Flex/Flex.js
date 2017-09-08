@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
+import { vrythm, vrythmPropTypes } from "../mixins/spacing";
 
 export const Item = styled.div.attrs({
   "data-flush": props => (props.flush ? true : undefined)

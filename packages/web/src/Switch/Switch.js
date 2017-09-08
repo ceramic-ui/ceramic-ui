@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { lighten } from "../../colors";
+import { lighten } from "../colors";
 
 const Status = styled.div`
   width: ${props => props.theme.fontSize(s => s * 1.4)};

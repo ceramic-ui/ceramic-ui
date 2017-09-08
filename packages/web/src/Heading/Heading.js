@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
+import { vrythm, vrythmPropTypes } from "../mixins/spacing";
 
 export const Heading1 = styled.h1`
   ${props => vrythm};

@@ -5,7 +5,7 @@ import { withKnobs, select } from "@storybook/addon-knobs";
 
 import reset from "../src/reset";
 import themes from "../src/themes";
-import SystemFontStack from "../src/components/SystemFontStack";
+import SystemFontStack from "../src/SystemFontStack";
 
 const req = require.context("../src", true, /.stories.js$/);
 

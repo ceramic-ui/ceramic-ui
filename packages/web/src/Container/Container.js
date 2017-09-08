@@ -2,8 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { minWidth } from "../../mixins/media";
-import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
+import { minWidth } from "../mixins/media";
+import { vrythm, vrythmPropTypes } from "../mixins/spacing";
 
 const Container = styled.div`
   ${props => vrythm};

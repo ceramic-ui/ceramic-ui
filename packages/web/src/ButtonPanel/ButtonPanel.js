@@ -2,8 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
-import { maxWidth, minWidth } from "../../mixins/media";
-import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
+import { maxWidth, minWidth } from "../mixins/media";
+import { vrythm, vrythmPropTypes } from "../mixins/spacing";
 
 export const justifyChoices = {
   start: "flex-start",

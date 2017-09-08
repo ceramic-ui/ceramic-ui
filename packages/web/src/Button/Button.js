@@ -2,8 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
-import { lighten, darken } from "../../colors";
-import { vrythm, vrythmPropTypes } from "../../mixins/spacing";
+import { lighten, darken } from "../colors";
+import { vrythm, vrythmPropTypes } from "../mixins/spacing";
 
 const appearanceMixin = colorName => css`
   border: ${props =>
