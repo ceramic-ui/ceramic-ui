@@ -6,13 +6,11 @@
   ],
   "env": {
     "production": {
-      "presets": ["minify"],
-      "ignore": ["**/*.stories.js"]
+      "presets": ["minify"]
     },
     "umd": {
       "presets": ["minify"],
-      "plugins": ["transform-es2015-modules-umd"],
-      "ignore": ["**/*.stories.js"]
+      "plugins": ["transform-es2015-modules-umd"]
     }
   }
 }
