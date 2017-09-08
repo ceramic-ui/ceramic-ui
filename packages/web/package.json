@@ -20,7 +20,7 @@
     "styled-components": "^2.1.2"
   },
   "scripts": {
-    "build:main": "BABEL_ENV=production babel src -d dist --source-maps",
+    "build:main": "BABEL_ENV=production babel src -d . --source-maps",
     "build:umd": "BABEL_ENV=umd babel src -d umd --source-maps",
     "build:docs": "build-storybook -o docs",
     "build": "npm-run-all build:main build:umd build:docs",
