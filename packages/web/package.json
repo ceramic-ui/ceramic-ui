@@ -24,6 +24,7 @@
     "build:umd": "BABEL_ENV=umd babel src -d umd --source-maps",
     "build:docs": "build-storybook -o docs",
     "build": "npm-run-all build:main build:umd build:docs",
+    "prepublish": "npm run build",
     "start": "start-storybook -p 9009",
     "test": "jest --watch --env=jsdom"
   },
