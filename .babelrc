@@ -2,13 +2,17 @@
   "presets": ["es2015", "react"],
   "plugins": [
     ["transform-object-rest-spread", { "useBuiltIns": true }],
-    ["babel-plugin-styled-components", { "ssr": true }],
-    "transform-es2015-modules-umd"
+    ["babel-plugin-styled-components", { "ssr": true }]
   ],
   "env": {
     "production": {
-      "presets": ["minify"]
+      "presets": ["minify"],
+      "ignore": ["**/*.stories.js"]
+    },
+    "umd": {
+      "presets": ["minify"],
+      "plugins": ["transform-es2015-modules-umd"],
+      "ignore": ["**/*.stories.js"]
     }
-  },
-  "ignore": ["**/*.stories.js"]
+  }
 }

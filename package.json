@@ -9,8 +9,10 @@
     "styled-components": "^2.1.2"
   },
   "scripts": {
-    "build": "BABEL_ENV=production babel src -d dist",
-    "build-docs": "build-storybook -o docs",
+    "build:main": "BABEL_ENV=production babel src -d dist --source-maps",
+    "build:umd": "BABEL_ENV=umd babel src -d umd --source-maps",
+    "build:docs": "build-storybook -o docs",
+    "build": "npm-run-all build:main build:umd build:docs",
     "start": "start-storybook -p 9009",
     "test": "jest --watch --env=jsdom"
   },
@@ -35,5 +37,8 @@
     "react-dom": "^15.6.1",
     "react-test-renderer": "^15.6.1",
     "styled-components": "^2.1.2"
+  },
+  "dependencies": {
+    "npm-run-all": "^4.1.1"
   }
 }
