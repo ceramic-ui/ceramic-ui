@@ -11,17 +11,17 @@ module.exports = function(plop) {
     actions: [
       {
         type: "add",
-        path: "src/components/{{name}}/{{name}}.js",
+        path: "src/{{name}}/{{name}}.js",
         templateFile: "plop-templates/component/Component.hbs"
       },
       {
         type: "add",
-        path: "src/components/{{name}}/{{name}}.stories.js",
+        path: "src/{{name}}/{{name}}.stories.js",
         templateFile: "plop-templates/component/Component.stories.hbs"
       },
       {
         type: "add",
-        path: "src/components/{{name}}/index.js",
+        path: "src/{{name}}/index.js",
         templateFile: "plop-templates/component/index.hbs"
       }
     ]
