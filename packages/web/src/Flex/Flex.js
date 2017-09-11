@@ -4,9 +4,6 @@ import styled from "styled-components";
 
 import { vrythm, vrythmPropTypes } from "../mixins/spacing";
 
-const columnDirections = ["column", "column-reverse"];
-const isVertical = props => columnDirections.indexOf(props.direction) >= 0;
-
 export const Item = styled.div.attrs({
   "data-flush": props => (props.flush ? true : undefined)
 })`

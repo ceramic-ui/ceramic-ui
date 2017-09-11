@@ -42,7 +42,7 @@ storiesOf("Flex", module).add(
       "wrap"
     );
     return (
-      <Container readable>
+      <Container readable disableGutter>
         <Flex
           wrap={wrap}
           alignItems={alignItems}
