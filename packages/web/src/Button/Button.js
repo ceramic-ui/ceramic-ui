@@ -37,6 +37,18 @@ const defaultMixin = css`
   }
 `;
 
+const darkMixin = css`
+  border: ${props => props.theme.borderWidth()} solid transparent;
+  color: ${props => props.theme.textColor};
+  background-color: transparent;
+`;
+
+const lightMixin = css`
+  border: ${props => props.theme.borderWidth()} solid transparent;
+  color: ${props => props.theme.white};
+  background-color: transparent;
+`;
+
 const linkMixin = css`
   border: 1px solid transparent;
   background: none;
@@ -51,6 +63,8 @@ const buttons = {
   secondary: appearanceMixin("brandSecondary"),
   success: appearanceMixin("brandSuccess"),
   danger: appearanceMixin("brandDanger"),
+  dark: darkMixin,
+  light: lightMixin,
   link: linkMixin
 };
 
@@ -88,6 +102,8 @@ Button.propTypes = {
     "secondary",
     "success",
     "danger",
+    "dark",
+    "light",
     "link"
   ]).isRequired,
   ...vrythmPropTypes
