@@ -11,6 +11,9 @@ const Field = styled.div`
   > * {
     margin-bottom: ${props => props.theme.spacingBase(s => s / 2)};
   }
+  > :last-child {
+    margin-bottom: 0;
+  }
 `;
 Field.displayName = "Field";
 Field.propTypes = {
