@@ -14,52 +14,52 @@ exports[`Storyshots Button Basic 1`] = `
       }
     >
       <div
-        className="ButtonPanel-m4scm1-0 ikiwGV"
+        className="ButtonPanel-s6nbaj3-0 elKTHm"
       >
         <button
-          className="Button-s1ufayp9-0 ensTNe"
+          className="Button-s86iitj-0 dzhESn"
           type="button"
         >
           Default
         </button>
         <button
-          className="Button-s1ufayp9-0 jabQVj"
+          className="Button-s86iitj-0 gmkfNo"
           type="button"
         >
           Primary
         </button>
         <button
-          className="Button-s1ufayp9-0 icfuJp"
+          className="Button-s86iitj-0 biaGJv"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="Button-s1ufayp9-0 cUACmM"
+          className="Button-s86iitj-0 WzuOO"
           type="button"
         >
           Success
         </button>
         <button
-          className="Button-s1ufayp9-0 CEFoU"
+          className="Button-s86iitj-0 xTQXe"
           type="button"
         >
           Danger
         </button>
         <button
-          className="Button-s1ufayp9-0 gYCTqe"
+          className="Button-s86iitj-0 gIELGD"
           type="button"
         >
           Light
         </button>
         <button
-          className="Button-s1ufayp9-0 kgFrPv"
+          className="Button-s86iitj-0 hKQjoi"
           type="button"
         >
           Dark
         </button>
         <button
-          className="Button-s1ufayp9-0 fEpCOJ"
+          className="Button-s86iitj-0 isCNFU"
           type="button"
         >
           Link
@@ -1194,7 +1194,7 @@ exports[`Storyshots Button Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      justify
+                      justifyContent
                     </td>
                     <td>
                       other
@@ -1249,52 +1249,52 @@ exports[`Storyshots Button Block-level 1`] = `
   className="SystemFontStack-s2iqb0b-0 eQIKXF"
 >
   <div
-    className="ButtonPanel-m4scm1-0 equcRa"
+    className="ButtonPanel-s6nbaj3-0 elKTHm"
   >
     <button
-      className="Button-s1ufayp9-0 cmZNES"
+      className="Button-s86iitj-0 gqJoUT"
       type="button"
     >
       Default
     </button>
     <button
-      className="Button-s1ufayp9-0 gKFbKV"
+      className="Button-s86iitj-0 eNVzTh"
       type="button"
     >
       Primary
     </button>
     <button
-      className="Button-s1ufayp9-0 EEVdw"
+      className="Button-s86iitj-0 ikmyzg"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="Button-s1ufayp9-0 jOPvyi"
+      className="Button-s86iitj-0 iukvbN"
       type="button"
     >
       Success
     </button>
     <button
-      className="Button-s1ufayp9-0 gorqCe"
+      className="Button-s86iitj-0 bcRNH"
       type="button"
     >
       Danger
     </button>
     <button
-      className="Button-s1ufayp9-0 hWLpuu"
+      className="Button-s86iitj-0 czOrTZ"
       type="button"
     >
       Light
     </button>
     <button
-      className="Button-s1ufayp9-0 gCrCSe"
+      className="Button-s86iitj-0 gXIEoL"
       type="button"
     >
       Dark
     </button>
     <button
-      className="Button-s1ufayp9-0 fYguGB"
+      className="Button-s86iitj-0 iZOFtL"
       type="button"
     >
       Link
@@ -1308,59 +1308,59 @@ exports[`Storyshots Button Disabled 1`] = `
   className="SystemFontStack-s2iqb0b-0 eQIKXF"
 >
   <div
-    className="ButtonPanel-m4scm1-0 ikiwGV"
+    className="ButtonPanel-s6nbaj3-0 elKTHm"
   >
     <button
-      className="Button-s1ufayp9-0 ensTNe"
+      className="Button-s86iitj-0 dzhESn"
       disabled={true}
       type="button"
     >
       Default
     </button>
     <button
-      className="Button-s1ufayp9-0 jabQVj"
+      className="Button-s86iitj-0 gmkfNo"
       disabled={true}
       type="button"
     >
       Primary
     </button>
     <button
-      className="Button-s1ufayp9-0 icfuJp"
+      className="Button-s86iitj-0 biaGJv"
       disabled={true}
       type="button"
     >
       Secondary
     </button>
     <button
-      className="Button-s1ufayp9-0 cUACmM"
+      className="Button-s86iitj-0 WzuOO"
       disabled={true}
       type="button"
     >
       Success
     </button>
     <button
-      className="Button-s1ufayp9-0 CEFoU"
+      className="Button-s86iitj-0 xTQXe"
       disabled={true}
       type="button"
     >
       Danger
     </button>
     <button
-      className="Button-s1ufayp9-0 gYCTqe"
+      className="Button-s86iitj-0 gIELGD"
       disabled={true}
       type="button"
     >
       Light
     </button>
     <button
-      className="Button-s1ufayp9-0 kgFrPv"
+      className="Button-s86iitj-0 hKQjoi"
       disabled={true}
       type="button"
     >
       Dark
     </button>
     <button
-      className="Button-s1ufayp9-0 fEpCOJ"
+      className="Button-s86iitj-0 isCNFU"
       disabled={true}
       onClick={[Function]}
       type="button"
@@ -1385,40 +1385,40 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
       }
     >
       <div
-        className="ButtonPanel-m4scm1-0 ikiwGV"
+        className="ButtonPanel-s6nbaj3-0 fYFyus"
       >
         <button
-          className="Button-s1ufayp9-0 ensTNe"
+          className="Button-s86iitj-0 dzhESn"
           type="button"
         >
           Default
         </button>
         <button
-          className="Button-s1ufayp9-0 jabQVj"
+          className="Button-s86iitj-0 gmkfNo"
           type="button"
         >
           Primary
         </button>
         <button
-          className="Button-s1ufayp9-0 icfuJp"
+          className="Button-s86iitj-0 biaGJv"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="Button-s1ufayp9-0 cUACmM"
+          className="Button-s86iitj-0 WzuOO"
           type="button"
         >
           Success
         </button>
         <button
-          className="Button-s1ufayp9-0 CEFoU"
+          className="Button-s86iitj-0 xTQXe"
           type="button"
         >
           Danger
         </button>
         <button
-          className="Button-s1ufayp9-0 fEpCOJ"
+          className="Button-s86iitj-0 isCNFU"
           type="button"
         >
           Link
@@ -1586,7 +1586,36 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
                     &lt;
                     ButtonPanel
                   </span>
-                  <span />
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        justifyContent
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#22a",
+                                "wordBreak": "break-word",
+                              }
+                            }
+                          >
+                            "
+                            flex-start
+                            "
+                          </span>
+                        </span>
+                      </span>
+                      
+                    </span>
+                  </span>
                   <span
                     style={
                       Object {
@@ -2357,7 +2386,7 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      justify
+                      justifyContent
                     </td>
                     <td>
                       other
@@ -5063,6 +5092,452 @@ exports[`Storyshots Error Basic 1`] = `
 </div>
 `;
 
+exports[`Storyshots Examples Form Validation 1`] = `
+<div
+  className="SystemFontStack-s2iqb0b-0 eQIKXF"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <div
+        className="Container-s11lsvlz-0 fbExza"
+      >
+        <form
+          className="Form-s15x3lo-0 jwZwZa"
+          onSubmit={[Function]}
+        >
+          <fieldset
+            className="Card-k3ocwk-0-fieldset ghMGyQ"
+          >
+            <div>
+              <legend
+                className="zrgb7n-3-WrappedLegend-Heading__Heading4-brhaBC fMOqLe"
+              >
+                Personal information
+              </legend>
+            </div>
+            <div
+              className="Flex-wxbnpn-1 gKKZMN"
+            >
+              <div
+                className="Flex__Item-wxbnpn-0 kcJskn"
+                data-flush={undefined}
+              >
+                <div
+                  className="Field-s1lintgu-0 bkyvKn"
+                >
+                  <label
+                    className="Label-s7mrb4s-0 frnYzn"
+                    htmlFor="givenNames"
+                  >
+                    Given names
+                  </label>
+                  <input
+                    aria-describedby="givenNamesErrors"
+                    className="Input-s1wl5gqo-0 hYIeqh"
+                    id="givenNames"
+                    name="givenNames"
+                    onChange={[Function]}
+                    value=""
+                  />
+                </div>
+              </div>
+              <div
+                className="Flex__Item-wxbnpn-0 kcJskn"
+                data-flush={undefined}
+              >
+                <div
+                  className="Field-s1lintgu-0 bkyvKn"
+                >
+                  <label
+                    className="Label-s7mrb4s-0 frnYzn"
+                    htmlFor="lastName"
+                  >
+                    Last name
+                  </label>
+                  <input
+                    aria-describedby="lastNameErrors"
+                    className="Input-s1wl5gqo-0 hYIeqh"
+                    id="lastName"
+                    name="lastName"
+                    onChange={[Function]}
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </fieldset>
+          <fieldset
+            className="Card-k3ocwk-0-fieldset ghMGyQ"
+          >
+            <div>
+              <legend
+                className="zrgb7n-3-WrappedLegend-Heading__Heading4-brhaBC fMOqLe"
+              >
+                Billing address
+              </legend>
+            </div>
+            <div
+              className="Field-s1lintgu-0 bBJNNO"
+            >
+              <label
+                className="Label-s7mrb4s-0 frnYzn"
+                htmlFor="addressLine1"
+              >
+                Street address
+              </label>
+              <input
+                aria-describedby="addressLine1Errors"
+                className="Input-s1wl5gqo-0 hYIeqh"
+                id="addressLine1"
+                name="addressLine1"
+                onChange={[Function]}
+                value=""
+              />
+              <input
+                aria-describedby="addressLine2Errors"
+                className="Input-s1wl5gqo-0 hYIeqh"
+                id="addressLine2"
+                name="addressLine2"
+                onChange={[Function]}
+                value=""
+              />
+            </div>
+            <div
+              className="Flex-wxbnpn-1 gKKZMN"
+            >
+              <div
+                className="Flex__Item-wxbnpn-0 kcJskn"
+                data-flush={undefined}
+              >
+                <div
+                  className="Field-s1lintgu-0 bBJNNO"
+                >
+                  <label
+                    className="Label-s7mrb4s-0 frnYzn"
+                    htmlFor="city"
+                  >
+                    Town or city
+                  </label>
+                  <input
+                    aria-describedby="cityErrors"
+                    className="Input-s1wl5gqo-0 hYIeqh"
+                    id="city"
+                    name="city"
+                    onChange={[Function]}
+                    value=""
+                  />
+                </div>
+              </div>
+              <div
+                className="Flex__Item-wxbnpn-0 ktcbRP"
+                data-flush={undefined}
+              >
+                <div
+                  className="Field-s1lintgu-0 bBJNNO"
+                >
+                  <label
+                    className="Label-s7mrb4s-0 frnYzn"
+                    htmlFor="postCode"
+                  >
+                    Postcode
+                  </label>
+                  <input
+                    aria-describedby="postCodeErrors"
+                    className="Input-s1wl5gqo-0 hYIeqh"
+                    id="postCode"
+                    name="postCode"
+                    onChange={[Function]}
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              className="Field-s1lintgu-0 bkyvKn"
+            >
+              <label
+                className="Label-s7mrb4s-0 frnYzn"
+                htmlFor="country"
+              >
+                Country
+              </label>
+              <input
+                aria-describedby="countryErrors"
+                className="Input-s1wl5gqo-0 hYIeqh"
+                id="country"
+                name="country"
+                onChange={[Function]}
+                value=""
+              />
+            </div>
+          </fieldset>
+          <div
+            className="Field-s1lintgu-0 bBJNNO"
+          >
+            <div
+              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+            >
+              <input
+                aria-describedby="marketingErrors"
+                checked={true}
+                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                name="marketing"
+                onChange={[Function]}
+                type="checkbox"
+              />
+              <label
+                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+              >
+                <div
+                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                />
+                <div
+                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                >
+                  Would you like to receive occasional emails with offers and product announcements?
+                </div>
+              </label>
+            </div>
+          </div>
+          <div
+            className="ButtonPanel-s6nbaj3-0 fCMliZ"
+          >
+            <button
+              className="Button-s86iitj-0 isCNFU"
+              onClick={[Function]}
+              type="button"
+            >
+              Reset
+            </button>
+            <button
+              className="Button-s86iitj-0 gmkfNo"
+              disabled={false}
+              onClick={[Function]}
+              type="submit"
+            >
+              Submit
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Examples
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Form Validation
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "paddingLeft": 18,
+                    "paddingRight": 3,
+                  }
+                }
+              >
+                <span
+                  style={
+                    Object {
+                      "color": "#777",
+                    }
+                  }
+                >
+                  &lt;
+                  App
+                </span>
+                <span />
+                <span
+                  style={
+                    Object {
+                      "color": "#777",
+                    }
+                  }
+                >
+                  /&gt;
+                </span>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                App
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Field Basic 1`] = `
 <div
   className="SystemFontStack-s2iqb0b-0 eQIKXF"
@@ -5080,7 +5555,7 @@ exports[`Storyshots Field Basic 1`] = `
         className="Container-s11lsvlz-0 egxyFm"
       >
         <div
-          className="Field-s1ruqmn4-0 hSDVBp"
+          className="Field-s1lintgu-0 bmHTlE"
         >
           <div>
             <label
@@ -5110,7 +5585,7 @@ exports[`Storyshots Field Basic 1`] = `
           </p>
         </div>
         <div
-          className="Field-s1ruqmn4-0 cScoDI"
+          className="Field-s1lintgu-0 krTcO"
         >
           <label
             className="Label-s7mrb4s-0 frnYzn"
@@ -8560,6 +9035,275 @@ exports[`Storyshots Flex Basic 1`] = `
 </div>
 `;
 
+exports[`Storyshots Form Basic 1`] = `
+<div
+  className="SystemFontStack-s2iqb0b-0 eQIKXF"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <form
+        className="Form-s15x3lo-0 jwZwZa"
+      >
+        Basic example
+      </form>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Form
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    Form
+                  </span>
+                  <span />
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    Basic example
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    Form
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Form
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Heading Basic 1`] = `
 <div
   className="SystemFontStack-s2iqb0b-0 eQIKXF"
@@ -10785,11 +11529,13 @@ exports[`Storyshots Legend Basic 1`] = `
         }
       }
     >
-      <legend
-        className="Heading__Heading4-zrgb7n-3-legend kUvdhP"
-      >
-        Basic example
-      </legend>
+      <div>
+        <legend
+          className="zrgb7n-3-WrappedLegend-Heading__Heading4-brhaBC fMOqLe"
+        >
+          Basic example
+        </legend>
+      </div>
     </div>
     <a
       onClick={[Function]}
@@ -15183,22 +15929,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-d8xz31-3 kfWzWL"
+              className="Switch__Container-s1sy9u7o-3 jvnewJ"
             >
               <input
-                className="Switch__Control-d8xz31-2 gbENef"
+                className="Switch__Control-s1sy9u7o-2 dEFxgD"
                 id="example"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-d8xz31-1 bNzYRr"
+                className="Switch__Label-s1sy9u7o-1 fYQJqj"
               >
                 <div
-                  className="Switch__Status-d8xz31-0 kMgnry"
+                  className="Switch__Status-s1sy9u7o-0 blaNQV"
                 />
                 <div
-                  className="Switch__Content-d8xz31-4 eBPJDy"
+                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
                 >
                   This can be toggled
                 </div>
@@ -15209,22 +15955,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-d8xz31-3 kfWzWL"
+              className="Switch__Container-s1sy9u7o-3 jvnewJ"
             >
               <input
-                className="Switch__Control-d8xz31-2 gbENef"
+                className="Switch__Control-s1sy9u7o-2 dEFxgD"
                 id="example2"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-d8xz31-1 bNzYRr"
+                className="Switch__Label-s1sy9u7o-1 fYQJqj"
               >
                 <div
-                  className="Switch__Status-d8xz31-0 kMgnry"
+                  className="Switch__Status-s1sy9u7o-0 blaNQV"
                 />
                 <div
-                  className="Switch__Content-d8xz31-4 eBPJDy"
+                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
                 >
                   So can this one
                 </div>
@@ -15235,23 +15981,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-d8xz31-3 kfWzWL"
+              className="Switch__Container-s1sy9u7o-3 jvnewJ"
             >
               <input
-                className="Switch__Control-d8xz31-2 gbENef"
+                className="Switch__Control-s1sy9u7o-2 dEFxgD"
                 disabled={true}
                 id="example3"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-d8xz31-1 bNzYRr"
+                className="Switch__Label-s1sy9u7o-1 fYQJqj"
               >
                 <div
-                  className="Switch__Status-d8xz31-0 kMgnry"
+                  className="Switch__Status-s1sy9u7o-0 blaNQV"
                 />
                 <div
-                  className="Switch__Content-d8xz31-4 eBPJDy"
+                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
                 >
                   But this one is disabled
                 </div>
@@ -15271,22 +16017,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-d8xz31-3 kfWzWL"
+              className="Switch__Container-s1sy9u7o-3 jvnewJ"
             >
               <input
-                className="Switch__Control-d8xz31-2 gbENef"
+                className="Switch__Control-s1sy9u7o-2 dEFxgD"
                 id="example4"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-d8xz31-1 bNzYRr"
+                className="Switch__Label-s1sy9u7o-1 fYQJqj"
               >
                 <div
-                  className="Switch__Status-d8xz31-0 kMgnry"
+                  className="Switch__Status-s1sy9u7o-0 blaNQV"
                 />
                 <div
-                  className="Switch__Content-d8xz31-4 eBPJDy"
+                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
                 >
                   This can be selected
                 </div>
@@ -15297,22 +16043,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-d8xz31-3 kfWzWL"
+              className="Switch__Container-s1sy9u7o-3 jvnewJ"
             >
               <input
-                className="Switch__Control-d8xz31-2 gbENef"
+                className="Switch__Control-s1sy9u7o-2 dEFxgD"
                 id="example5"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-d8xz31-1 bNzYRr"
+                className="Switch__Label-s1sy9u7o-1 fYQJqj"
               >
                 <div
-                  className="Switch__Status-d8xz31-0 kMgnry"
+                  className="Switch__Status-s1sy9u7o-0 blaNQV"
                 />
                 <div
-                  className="Switch__Content-d8xz31-4 eBPJDy"
+                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
                 >
                   So can this one
                 </div>
@@ -15323,23 +16069,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-d8xz31-3 kfWzWL"
+              className="Switch__Container-s1sy9u7o-3 jvnewJ"
             >
               <input
-                className="Switch__Control-d8xz31-2 gbENef"
+                className="Switch__Control-s1sy9u7o-2 dEFxgD"
                 disabled={true}
                 id="example6"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-d8xz31-1 bNzYRr"
+                className="Switch__Label-s1sy9u7o-1 fYQJqj"
               >
                 <div
-                  className="Switch__Status-d8xz31-0 kMgnry"
+                  className="Switch__Status-s1sy9u7o-0 blaNQV"
                 />
                 <div
-                  className="Switch__Content-d8xz31-4 eBPJDy"
+                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
                 >
                   But this one is disabled
                 </div>
