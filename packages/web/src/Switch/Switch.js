@@ -14,6 +14,7 @@ const Status = styled.div`
   border-radius: 100%;
   position: relative;
   transition: box-shadow 100ms ease-in;
+  flex-shrink: 0;
   &:after {
     content: "";
     width: ${props => props.theme.fontSize()};
