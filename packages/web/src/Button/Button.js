@@ -41,12 +41,20 @@ const darkMixin = css`
   border: ${props => props.theme.borderWidth()} solid transparent;
   color: ${props => props.theme.textColor};
   background-color: transparent;
+  &:hover,
+  &:focus {
+    background-color: ${props => darken(props.theme.white, 5)};
+  }
 `;
 
 const lightMixin = css`
   border: ${props => props.theme.borderWidth()} solid transparent;
   color: ${props => props.theme.white};
   background-color: transparent;
+  &:hover,
+  &:focus {
+    background-color: ${props => darken(props.theme.white, 5)};
+  }
 `;
 
 const linkMixin = css`
