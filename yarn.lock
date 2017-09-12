@@ -5727,9 +5727,9 @@ prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.6, prop-types@^15.5.7,
     fbjs "^0.8.9"
     loose-envify "^1.3.1"
 
-"prop-types@git+https://github.com/anti-gravity/prop-types.git":
+"prop-types@https://github.com/anti-gravity/prop-types":
   version "15.5.10"
-  resolved "git+https://github.com/anti-gravity/prop-types.git#8da97f48b68f3f0c30f19e6adee4448bcb2c8490"
+  resolved "https://github.com/anti-gravity/prop-types#8da97f48b68f3f0c30f19e6adee4448bcb2c8490"
   dependencies:
     fbjs "^0.8.9"
     loose-envify "^1.3.1"
