@@ -9,7 +9,9 @@ import ButtonPanel, { justifyChoices } from "./ButtonPanel";
 storiesOf("ButtonPanel", module).add(
   "Basic",
   withInfo()(() => (
-    <ButtonPanel justify={select("Justify content", justifyChoices, "start")}>
+    <ButtonPanel
+      justifyContent={select("Justify content", justifyChoices, "flex-start")}
+    >
       <Button>Default</Button>
       <Button appearance="primary">Primary</Button>
       <Button appearance="secondary">Secondary</Button>

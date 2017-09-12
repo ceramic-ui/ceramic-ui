@@ -5,14 +5,14 @@ import styled, { css } from "styled-components";
 import { maxWidth, minWidth } from "../mixins/media";
 import { vrythm, vrythmPropTypes } from "../mixins/spacing";
 
-export const justifyChoices = {
-  start: "flex-start",
-  end: "flex-end",
-  center: "center",
-  around: "space-around",
-  between: "space-between",
-  none: "flex-start"
-};
+export const justifyChoices = [
+  "flex-start",
+  "flex-end",
+  "center",
+  "space-around",
+  "space-between",
+  "flex-start"
+];
 
 const pullLeft = css`
   margin-left: ${props => props.theme.spacingBase(s => -s / 4)};
@@ -26,18 +26,18 @@ const pullBoth = css`
 `;
 
 const margins = {
-  start: pullLeft,
-  end: pullRight,
+  "flex-start": pullLeft,
+  "flex-end": pullRight,
   center: pullBoth,
-  around: pullBoth,
-  between: pullBoth,
+  "space-around": pullBoth,
+  "space-between": pullBoth,
   none: ""
 };
 
 const ButtonPanel = styled.div`
-  display: ${props => (props.justify === "none" ? "block" : "flex")};
+  display: ${props => (props.justifyContent === "none" ? "block" : "flex")};
   flex-direction: column;
-  justify-content: ${props => justifyChoices[props.justify]};
+  justify-content: ${props => props.justifyContent};
   align-items: center;
   ${props => vrythm};
 
@@ -47,25 +47,29 @@ const ButtonPanel = styled.div`
 
   ${minWidth.medium`
     flex-direction: row;
-    ${props => margins[props.justify]};
+    ${props => margins[props.justifyContent]};
 
     & > * {
       margin-left:
         ${props =>
-          props.justify === "none" ? "0" : props.theme.spacingBase(s => s / 4)};
+          props.justifyContent === "none"
+            ? "0"
+            : props.theme.spacingBase(s => s / 4)};
       margin-right:
         ${props =>
-          props.justify === "none" ? "0" : props.theme.spacingBase(s => s / 4)};
+          props.justifyContent === "none"
+            ? "0"
+            : props.theme.spacingBase(s => s / 4)};
     }
   `};
 `;
 ButtonPanel.displayName = "ButtonPanel";
 ButtonPanel.propTypes = {
-  justify: PropTypes.oneOf(Object.keys(justifyChoices)).isRequired,
+  justifyContent: PropTypes.oneOf(justifyChoices).isRequired,
   ...vrythmPropTypes
 };
 ButtonPanel.defaultProps = {
-  justify: "start"
+  justifyContent: "start"
 };
 
 export default ButtonPanel;
