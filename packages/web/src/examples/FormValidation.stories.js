@@ -178,7 +178,7 @@ class App extends React.Component {
                     name="postCode"
                     aria-describedby="postCodeErrors"
                     onChange={this.handleChange}
-                    value={form.city}
+                    value={form.postCode}
                     invalid={!!errors.postCode}
                   />
                   {!!errors.postCode && (
