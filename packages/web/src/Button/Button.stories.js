@@ -25,7 +25,7 @@ storiesOf("Button", module)
   )
   .add("Block-level", () => {
     return (
-      <ButtonPanel justify="none">
+      <ButtonPanel justifyContent="none">
         <Button block>Default</Button>
         <Button block appearance="primary">
           Primary
