@@ -36,7 +36,7 @@ storiesOf("BackgroundColor", module).add(
           "white",
           "black"
         ],
-        "transparent"
+        "brandPrimary"
       )}
     >
       <Hero>
