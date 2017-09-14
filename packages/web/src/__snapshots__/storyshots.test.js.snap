@@ -6253,24 +6253,24 @@ exports[`Storyshots Examples Form Validation 1`] = `
             className="Field-s1lintgu-0 bBJNNO"
           >
             <div
-              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+              className="Switch__Container-s1vcwhzt-3 eqaBuv"
             >
               <input
                 aria-describedby="marketingErrors"
                 checked={true}
-                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                className="Switch__Control-s1vcwhzt-2 dFgnnu"
                 name="marketing"
                 onChange={[Function]}
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+                className="Switch__Label-s1vcwhzt-1 dKbxav"
               >
                 <div
-                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                  className="Switch__Status-s1vcwhzt-0 BPzXD"
                 />
                 <div
-                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                  className="Switch__Content-s1vcwhzt-4 bPYsKa"
                 >
                   Would you like to receive occasional emails with offers and product announcements?
                 </div>
@@ -16509,11 +16509,11 @@ exports[`Storyshots Select Basic 1`] = `
         className="Container-s11lsvlz-0 egxyFm"
       >
         <div
-          className="Select__Container-gya7z3-0 dSTDXv"
+          className="Select__Container-mubtra-0 bbPykO"
           disabled={undefined}
         >
           <select
-            className="Select__Control-gya7z3-3 fWKHKK"
+            className="Select__Control-mubtra-3 CkjKp"
           >
             <option>
               Select your favourite super hero
@@ -16532,10 +16532,10 @@ exports[`Storyshots Select Basic 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-gya7z3-1 dxBcTA"
+            className="Select__Accessory-mubtra-1 jVnSjS"
           >
             <svg
-              className="Select__Chevron-gya7z3-2 hFDbea"
+              className="Select__Chevron-mubtra-2 llNShW"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -17391,11 +17391,11 @@ exports[`Storyshots Select Disabled 1`] = `
       className="Container-s11lsvlz-0 egxyFm"
     >
       <div
-        className="Select__Container-gya7z3-0 dbHFEj"
+        className="Select__Container-mubtra-0 eVQAeU"
         disabled={true}
       >
         <select
-          className="Select__Control-gya7z3-3 fWKHKK"
+          className="Select__Control-mubtra-3 CkjKp"
           disabled={true}
         >
           <option>
@@ -17415,10 +17415,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-gya7z3-1 dxBcTA"
+          className="Select__Accessory-mubtra-1 jVnSjS"
         >
           <svg
-            className="Select__Chevron-gya7z3-2 hFDbea"
+            className="Select__Chevron-mubtra-2 llNShW"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -17437,11 +17437,11 @@ exports[`Storyshots Select Disabled 1`] = `
       className="s11lsvlz-0-Container-gATNmD jelrZP"
     >
       <div
-        className="Select__Container-gya7z3-0 bboQIJ"
+        className="Select__Container-mubtra-0 AgOCl"
         disabled={true}
       >
         <select
-          className="Select__Control-gya7z3-3 DIrXJ"
+          className="Select__Control-mubtra-3 diSFbH"
           disabled={true}
         >
           <option>
@@ -17461,10 +17461,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-gya7z3-1 dxBcTA"
+          className="Select__Accessory-mubtra-1 jVnSjS"
         >
           <svg
-            className="Select__Chevron-gya7z3-2 hFDbea"
+            className="Select__Chevron-mubtra-2 llNShW"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -17479,11 +17479,11 @@ exports[`Storyshots Select Disabled 1`] = `
         </div>
       </div>
       <div
-        className="Select__Container-gya7z3-0 bboQIJ"
+        className="Select__Container-mubtra-0 AgOCl"
         disabled={true}
       >
         <select
-          className="Select__Control-gya7z3-3 DIrXJ"
+          className="Select__Control-mubtra-3 diSFbH"
           disabled={true}
         >
           <option>
@@ -17503,10 +17503,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-gya7z3-1 dxBcTA"
+          className="Select__Accessory-mubtra-1 jVnSjS"
         >
           <svg
-            className="Select__Chevron-gya7z3-2 hFDbea"
+            className="Select__Chevron-mubtra-2 llNShW"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -17542,11 +17542,11 @@ exports[`Storyshots Select Inline 1`] = `
         className="s11lsvlz-0-Container-gATNmD jelrZP"
       >
         <div
-          className="Select__Container-gya7z3-0 bxraVr"
+          className="Select__Container-mubtra-0 dZUhht"
           disabled={undefined}
         >
           <select
-            className="Select__Control-gya7z3-3 DIrXJ"
+            className="Select__Control-mubtra-3 diSFbH"
           >
             <option>
               Select your favourite super hero
@@ -17565,10 +17565,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-gya7z3-1 dxBcTA"
+            className="Select__Accessory-mubtra-1 jVnSjS"
           >
             <svg
-              className="Select__Chevron-gya7z3-2 hFDbea"
+              className="Select__Chevron-mubtra-2 llNShW"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -17583,11 +17583,11 @@ exports[`Storyshots Select Inline 1`] = `
           </div>
         </div>
         <div
-          className="Select__Container-gya7z3-0 bxraVr"
+          className="Select__Container-mubtra-0 dZUhht"
           disabled={undefined}
         >
           <select
-            className="Select__Control-gya7z3-3 DIrXJ"
+            className="Select__Control-mubtra-3 diSFbH"
           >
             <option>
               Select your favourite food
@@ -17606,10 +17606,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-gya7z3-1 dxBcTA"
+            className="Select__Accessory-mubtra-1 jVnSjS"
           >
             <svg
-              className="Select__Chevron-gya7z3-2 hFDbea"
+              className="Select__Chevron-mubtra-2 llNShW"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -18881,11 +18881,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Container-s11lsvlz-0 jqcxdM"
     >
       <div
-        className="Select__Container-gya7z3-0 skOHA"
+        className="Select__Container-mubtra-0 bpKeSW"
         disabled={undefined}
       >
         <select
-          className="Select__Control-gya7z3-3 fWKHKK"
+          className="Select__Control-mubtra-3 CkjKp"
         >
           <option>
             Select your favourite super hero
@@ -18906,10 +18906,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-gya7z3-1 dxBcTA"
+          className="Select__Accessory-mubtra-1 jVnSjS"
         >
           <svg
-            className="Select__Chevron-gya7z3-2 hFDbea"
+            className="Select__Chevron-mubtra-2 llNShW"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -18928,11 +18928,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Container-s11lsvlz-0 jqcxdM"
     >
       <div
-        className="Select__Container-gya7z3-0 fAVBKj"
+        className="Select__Container-mubtra-0 bEERYD"
         disabled={undefined}
       >
         <select
-          className="Select__Control-gya7z3-3 fWKHKK"
+          className="Select__Control-mubtra-3 CkjKp"
         >
           <option>
             Select your favourite super hero
@@ -18951,10 +18951,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-gya7z3-1 dxBcTA"
+          className="Select__Accessory-mubtra-1 jVnSjS"
         >
           <svg
-            className="Select__Chevron-gya7z3-2 hFDbea"
+            className="Select__Chevron-mubtra-2 llNShW"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -19001,22 +19001,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+              className="Switch__Container-s1vcwhzt-3 eqaBuv"
             >
               <input
-                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                className="Switch__Control-s1vcwhzt-2 dFgnnu"
                 id="example"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+                className="Switch__Label-s1vcwhzt-1 dKbxav"
               >
                 <div
-                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                  className="Switch__Status-s1vcwhzt-0 BPzXD"
                 />
                 <div
-                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                  className="Switch__Content-s1vcwhzt-4 bPYsKa"
                 >
                   This can be toggled
                 </div>
@@ -19027,22 +19027,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+              className="Switch__Container-s1vcwhzt-3 eqaBuv"
             >
               <input
-                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                className="Switch__Control-s1vcwhzt-2 dFgnnu"
                 id="example2"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+                className="Switch__Label-s1vcwhzt-1 dKbxav"
               >
                 <div
-                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                  className="Switch__Status-s1vcwhzt-0 BPzXD"
                 />
                 <div
-                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                  className="Switch__Content-s1vcwhzt-4 bPYsKa"
                 >
                   So can this one
                 </div>
@@ -19053,23 +19053,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+              className="Switch__Container-s1vcwhzt-3 eqaBuv"
             >
               <input
-                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                className="Switch__Control-s1vcwhzt-2 dFgnnu"
                 disabled={true}
                 id="example3"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+                className="Switch__Label-s1vcwhzt-1 dKbxav"
               >
                 <div
-                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                  className="Switch__Status-s1vcwhzt-0 BPzXD"
                 />
                 <div
-                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                  className="Switch__Content-s1vcwhzt-4 bPYsKa"
                 >
                   But this one is disabled
                 </div>
@@ -19089,22 +19089,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+              className="Switch__Container-s1vcwhzt-3 eqaBuv"
             >
               <input
-                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                className="Switch__Control-s1vcwhzt-2 dFgnnu"
                 id="example4"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+                className="Switch__Label-s1vcwhzt-1 dKbxav"
               >
                 <div
-                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                  className="Switch__Status-s1vcwhzt-0 BPzXD"
                 />
                 <div
-                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                  className="Switch__Content-s1vcwhzt-4 bPYsKa"
                 >
                   This can be selected
                 </div>
@@ -19115,22 +19115,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+              className="Switch__Container-s1vcwhzt-3 eqaBuv"
             >
               <input
-                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                className="Switch__Control-s1vcwhzt-2 dFgnnu"
                 id="example5"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+                className="Switch__Label-s1vcwhzt-1 dKbxav"
               >
                 <div
-                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                  className="Switch__Status-s1vcwhzt-0 BPzXD"
                 />
                 <div
-                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                  className="Switch__Content-s1vcwhzt-4 bPYsKa"
                 >
                   So can this one
                 </div>
@@ -19141,23 +19141,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Container-s11lsvlz-0 jqcxdM"
           >
             <div
-              className="Switch__Container-s1sy9u7o-3 jvnewJ"
+              className="Switch__Container-s1vcwhzt-3 eqaBuv"
             >
               <input
-                className="Switch__Control-s1sy9u7o-2 dEFxgD"
+                className="Switch__Control-s1vcwhzt-2 dFgnnu"
                 disabled={true}
                 id="example6"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1sy9u7o-1 fYQJqj"
+                className="Switch__Label-s1vcwhzt-1 dKbxav"
               >
                 <div
-                  className="Switch__Status-s1sy9u7o-0 blaNQV"
+                  className="Switch__Status-s1vcwhzt-0 BPzXD"
                 />
                 <div
-                  className="Switch__Content-s1sy9u7o-4 fiHSfK"
+                  className="Switch__Content-s1vcwhzt-4 bPYsKa"
                 >
                   But this one is disabled
                 </div>

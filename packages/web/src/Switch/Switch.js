@@ -10,7 +10,7 @@ const Status = styled.div`
   margin-right: ${props => props.theme.spacingBase(s => s / 2)};
   display: inline-block;
   border: ${props => props.theme.borderWidth()} solid currentColor;
-  box-shadow: 0 2px 4px 0 ${props => lighten(props.theme.textColor, 75)};
+  box-shadow: 0 2px 4px 0 ${props => props.theme.dropShadow};
   border-radius: 100%;
   position: relative;
   transition: box-shadow 100ms ease-in;
