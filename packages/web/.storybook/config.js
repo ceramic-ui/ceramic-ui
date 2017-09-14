@@ -15,14 +15,23 @@ function loadStories() {
 
 reset();
 
-const Stage = styled.div`padding: ${props => props.theme.spacingBase()};`;
+const Stage = styled.div`
+  background-color: ${props => props.bg};
+  padding: ${props => props.theme.spacingBase()};
+`;
 Stage.displayName = "Stage";
 
 addDecorator(story => {
   const selectedTheme = select("Theme", Object.keys(themes), "default");
   return (
     <ThemeProvider theme={themes[selectedTheme]}>
-      <Stage>
+      <Stage
+        bg={select(
+          "Stage background",
+          { "#767676": "dark", white: "light" },
+          "white"
+        )}
+      >
         <SystemFontStack>{story()}</SystemFontStack>
       </Stage>
     </ThemeProvider>
