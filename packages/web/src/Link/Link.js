@@ -1,7 +1,13 @@
 import React from "react";
-import styled from "styled-components";
+import PropTypes from "prop-types";
+import styled, { css } from "styled-components";
 
-const Link = styled.a`
+import { appearances, buttonMixin, buttonPropTypes } from "../mixins/buttons";
+import { blockMixin, blockPropTypes } from "../mixins/spacing";
+
+const linkMixin = css`
+  box-sizing: border-box;
+  text-align: center;
   &,
   &:hover,
   &:focus {
@@ -11,6 +17,16 @@ const Link = styled.a`
     color: ${props => props.theme.linkVisitedColor};
   }
 `;
+
+const Link = styled.a`
+  ${props => (props.appearance ? buttonMixin : linkMixin)};
+  ${props => blockMixin};
+`;
 Link.displayName = "Link";
+Link.propTypes = {
+  href: PropTypes.string.isRequired,
+  ...buttonPropTypes,
+  ...blockPropTypes
+};
 
 export default Link;
