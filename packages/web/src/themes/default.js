@@ -26,6 +26,7 @@ export default {
   spacingBase: size(1.25),
   fontSize: size(1),
   readableWidth: size(38),
+  dropShadow: "rgba(0,0,0,0.2)",
   borderColor: "#dee2e6",
   textColor: black,
   focusColor: "#fcc419",

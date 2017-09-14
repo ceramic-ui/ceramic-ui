@@ -9,3 +9,12 @@ export const vrythm = css`
 export const vrythmPropTypes = {
   flush: PropTypes.bool
 };
+
+export const blockMixin = css`
+  ${props => props.block && "width: 100%"};
+  display: ${props => (props.block ? "block" : "inline-block")};
+  ${props => props.block && vrythm};
+`;
+export const blockPropTypes = {
+  block: PropTypes.bool
+};
