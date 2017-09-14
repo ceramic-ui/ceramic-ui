@@ -89,7 +89,11 @@ class App extends React.Component {
       <Container readable disableGutter>
         <Form onSubmit={this.handleSubmit}>
           <FieldSet>
-            <Legend>Personal information</Legend>
+            <Flex>
+              <Flex.Item>
+                <Legend>Personal information</Legend>
+              </Flex.Item>
+            </Flex>
             <Flex>
               <Flex.Item grow={1}>
                 <Field flush>
@@ -126,7 +130,11 @@ class App extends React.Component {
             </Flex>
           </FieldSet>
           <FieldSet>
-            <Legend>Billing address</Legend>
+            <Flex>
+              <Flex.Item>
+                <Legend>Billing address</Legend>
+              </Flex.Item>
+            </Flex>
             <Field>
               <Label htmlFor="addressLine1">Street address</Label>
               <Input
