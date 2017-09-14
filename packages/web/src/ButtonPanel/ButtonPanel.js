@@ -10,8 +10,7 @@ export const justifyChoices = [
   "flex-end",
   "center",
   "space-around",
-  "space-between",
-  "flex-start"
+  "space-between"
 ];
 
 const pullLeft = css`
@@ -30,12 +29,11 @@ const margins = {
   "flex-end": pullRight,
   center: pullBoth,
   "space-around": pullBoth,
-  "space-between": pullBoth,
-  none: ""
+  "space-between": pullBoth
 };
 
 const ButtonPanel = styled.div`
-  display: ${props => (props.justifyContent === "none" ? "block" : "flex")};
+  display: ${props => (props.justifyContent ? "flex" : "block")};
   flex-direction: column;
   justify-content: ${props => props.justifyContent};
   align-items: center;
@@ -47,29 +45,21 @@ const ButtonPanel = styled.div`
 
   ${minWidth.medium`
     flex-direction: row;
-    ${props => margins[props.justifyContent]};
+    ${props =>
+      props.justifyContent ? margins[props.justifyContent] : pullLeft};
 
     & > * {
       margin-left:
-        ${props =>
-          props.justifyContent === "none"
-            ? "0"
-            : props.theme.spacingBase(s => s / 4)};
+        ${props => props.theme.spacingBase(s => s / 4)};
       margin-right:
-        ${props =>
-          props.justifyContent === "none"
-            ? "0"
-            : props.theme.spacingBase(s => s / 4)};
+        ${props => props.theme.spacingBase(s => s / 4)};
     }
   `};
 `;
 ButtonPanel.displayName = "ButtonPanel";
 ButtonPanel.propTypes = {
-  justifyContent: PropTypes.oneOf(justifyChoices).isRequired,
+  justifyContent: PropTypes.oneOf(justifyChoices),
   ...vrythmPropTypes
-};
-ButtonPanel.defaultProps = {
-  justifyContent: "start"
 };
 
 export default ButtonPanel;
