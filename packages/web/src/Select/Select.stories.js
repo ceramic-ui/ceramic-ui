@@ -17,11 +17,11 @@ storiesOf("Select", module)
     withInfo()(() => (
       <Container readable>
         <Select>
-          <Option>Select your favourite super hero</Option>
-          <Option>Wonder woman</Option>
-          <Option>Batman</Option>
-          <Option>Superman</Option>
-          <Option>Iron man</Option>
+          <Option value="">Select your favourite super hero</Option>
+          <Option value="wonder-woman">Wonder woman</Option>
+          <Option value="batman">Batman</Option>
+          <Option value="superman">Superman</Option>
+          <Option value="iron-man">Iron man</Option>
         </Select>
       </Container>
     ))
@@ -31,18 +31,18 @@ storiesOf("Select", module)
     withInfo()(() => (
       <SpacedContainer readable>
         <Select inline>
-          <Option>Select your favourite super hero</Option>
-          <Option>Wonder woman</Option>
-          <Option>Batman</Option>
-          <Option>Superman</Option>
-          <Option>Iron man</Option>
+          <Option value="">Select your favourite super hero</Option>
+          <Option value="wonder-woman">Wonder woman</Option>
+          <Option value="batman">Batman</Option>
+          <Option value="superman">Superman</Option>
+          <Option value="iron-man">Iron man</Option>
         </Select>
         <Select inline>
-          <Option>Select your favourite food</Option>
-          <Option>Pizza</Option>
-          <Option>Pasta</Option>
-          <Option>Salad</Option>
-          <Option>Steak</Option>
+          <Option value="">Select your favourite food</Option>
+          <Option value="pizza">Pizza</Option>
+          <Option value="pasta">Pasta</Option>
+          <Option value="salad">Salad</Option>
+          <Option value="steak">Steak</Option>
         </Select>
       </SpacedContainer>
     ))
@@ -51,27 +51,27 @@ storiesOf("Select", module)
     <div>
       <Container readable>
         <Select disabled>
-          <Option>You can't open me!</Option>
-          <Option>Wonder woman</Option>
-          <Option>Batman</Option>
-          <Option>Superman</Option>
-          <Option>Iron man</Option>
+          <Option value="">You can't open me!</Option>
+          <Option value="wonder-woman">Wonder woman</Option>
+          <Option value="batman">Batman</Option>
+          <Option value="superman">Superman</Option>
+          <Option value="iron-man">Iron man</Option>
         </Select>
       </Container>
       <SpacedContainer readable>
         <Select inline disabled>
-          <Option>Select your favourite super hero</Option>
-          <Option>Wonder woman</Option>
-          <Option>Batman</Option>
-          <Option>Superman</Option>
-          <Option>Iron man</Option>
+          <Option value="">Select your favourite super hero</Option>
+          <Option value="wonder-woman">Wonder woman</Option>
+          <Option value="batman">Batman</Option>
+          <Option value="superman">Superman</Option>
+          <Option value="iron-man">Iron man</Option>
         </Select>
         <Select inline disabled>
-          <Option>Select your favourite food</Option>
-          <Option>Pizza</Option>
-          <Option>Pasta</Option>
-          <Option>Salad</Option>
-          <Option>Steak</Option>
+          <Option value="">Select your favourite food</Option>
+          <Option value="pizza">Pizza</Option>
+          <Option value="pasta">Pasta</Option>
+          <Option value="salad">Salad</Option>
+          <Option value="steak">Steak</Option>
         </Select>
       </SpacedContainer>
     </div>
@@ -80,20 +80,20 @@ storiesOf("Select", module)
     <div>
       <Container>
         <Select valid>
-          <Option>Select your favourite super hero</Option>
-          <Option selected>Wonder woman</Option>
-          <Option>Batman</Option>
-          <Option>Superman</Option>
-          <Option>Iron man</Option>
+          <Option value="">Select your favourite super hero</Option>
+          <Option value="wonder-woman">Wonder woman</Option>
+          <Option value="batman">Batman</Option>
+          <Option value="superman">Superman</Option>
+          <Option value="iron-man">Iron man</Option>
         </Select>
       </Container>
       <Container>
         <Select invalid>
-          <Option>Select your favourite super hero</Option>
-          <Option>Wonder woman</Option>
-          <Option>Batman</Option>
-          <Option>Superman</Option>
-          <Option>Iron man</Option>
+          <Option value="">Select your favourite super hero</Option>
+          <Option value="wonder-woman">Wonder woman</Option>
+          <Option value="batman">Batman</Option>
+          <Option value="superman">Superman</Option>
+          <Option value="iron-man">Iron man</Option>
         </Select>
       </Container>
     </div>

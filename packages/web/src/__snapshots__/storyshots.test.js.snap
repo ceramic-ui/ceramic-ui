@@ -6509,6 +6509,201 @@ exports[`Storyshots Examples Form Validation 1`] = `
 </div>
 `;
 
+exports[`Storyshots Examples Using with downshift 1`] = `
+<div
+  className="SystemFontStack-s2iqb0b-0 eQIKXF"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <div />
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Examples
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Using with downshift
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "paddingLeft": 18,
+                    "paddingRight": 3,
+                  }
+                }
+              >
+                <span
+                  style={
+                    Object {
+                      "color": "#777",
+                    }
+                  }
+                >
+                  &lt;
+                  div
+                </span>
+                <span />
+                <span
+                  style={
+                    Object {
+                      "color": "#777",
+                    }
+                  }
+                >
+                  /&gt;
+                </span>
+              </div>
+            </pre>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Field Basic 1`] = `
 <div
   className="SystemFontStack-s2iqb0b-0 eQIKXF"
@@ -16515,19 +16710,29 @@ exports[`Storyshots Select Basic 1`] = `
           <select
             className="Select__Control-mubtra-3 CkjKp"
           >
-            <option>
+            <option
+              value=""
+            >
               Select your favourite super hero
             </option>
-            <option>
+            <option
+              value="wonder-woman"
+            >
               Wonder woman
             </option>
-            <option>
+            <option
+              value="batman"
+            >
               Batman
             </option>
-            <option>
+            <option
+              value="superman"
+            >
               Superman
             </option>
-            <option>
+            <option
+              value="iron-man"
+            >
               Iron man
             </option>
           </select>
@@ -16782,7 +16987,36 @@ exports[`Storyshots Select Basic 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -16851,7 +17085,36 @@ exports[`Storyshots Select Basic 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                wonder-woman
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -16920,7 +17183,36 @@ exports[`Storyshots Select Basic 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                batman
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -16989,7 +17281,36 @@ exports[`Storyshots Select Basic 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                superman
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -17058,7 +17379,36 @@ exports[`Storyshots Select Basic 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                iron-man
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -17398,19 +17748,29 @@ exports[`Storyshots Select Disabled 1`] = `
           className="Select__Control-mubtra-3 CkjKp"
           disabled={true}
         >
-          <option>
+          <option
+            value=""
+          >
             You can't open me!
           </option>
-          <option>
+          <option
+            value="wonder-woman"
+          >
             Wonder woman
           </option>
-          <option>
+          <option
+            value="batman"
+          >
             Batman
           </option>
-          <option>
+          <option
+            value="superman"
+          >
             Superman
           </option>
-          <option>
+          <option
+            value="iron-man"
+          >
             Iron man
           </option>
         </select>
@@ -17444,19 +17804,29 @@ exports[`Storyshots Select Disabled 1`] = `
           className="Select__Control-mubtra-3 diSFbH"
           disabled={true}
         >
-          <option>
+          <option
+            value=""
+          >
             Select your favourite super hero
           </option>
-          <option>
+          <option
+            value="wonder-woman"
+          >
             Wonder woman
           </option>
-          <option>
+          <option
+            value="batman"
+          >
             Batman
           </option>
-          <option>
+          <option
+            value="superman"
+          >
             Superman
           </option>
-          <option>
+          <option
+            value="iron-man"
+          >
             Iron man
           </option>
         </select>
@@ -17486,19 +17856,29 @@ exports[`Storyshots Select Disabled 1`] = `
           className="Select__Control-mubtra-3 diSFbH"
           disabled={true}
         >
-          <option>
+          <option
+            value=""
+          >
             Select your favourite food
           </option>
-          <option>
+          <option
+            value="pizza"
+          >
             Pizza
           </option>
-          <option>
+          <option
+            value="pasta"
+          >
             Pasta
           </option>
-          <option>
+          <option
+            value="salad"
+          >
             Salad
           </option>
-          <option>
+          <option
+            value="steak"
+          >
             Steak
           </option>
         </select>
@@ -17548,19 +17928,29 @@ exports[`Storyshots Select Inline 1`] = `
           <select
             className="Select__Control-mubtra-3 diSFbH"
           >
-            <option>
+            <option
+              value=""
+            >
               Select your favourite super hero
             </option>
-            <option>
+            <option
+              value="wonder-woman"
+            >
               Wonder woman
             </option>
-            <option>
+            <option
+              value="batman"
+            >
               Batman
             </option>
-            <option>
+            <option
+              value="superman"
+            >
               Superman
             </option>
-            <option>
+            <option
+              value="iron-man"
+            >
               Iron man
             </option>
           </select>
@@ -17589,19 +17979,29 @@ exports[`Storyshots Select Inline 1`] = `
           <select
             className="Select__Control-mubtra-3 diSFbH"
           >
-            <option>
+            <option
+              value=""
+            >
               Select your favourite food
             </option>
-            <option>
+            <option
+              value="pizza"
+            >
               Pizza
             </option>
-            <option>
+            <option
+              value="pasta"
+            >
               Pasta
             </option>
-            <option>
+            <option
+              value="salad"
+            >
               Salad
             </option>
-            <option>
+            <option
+              value="steak"
+            >
               Steak
             </option>
           </select>
@@ -17866,7 +18266,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -17935,7 +18364,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                wonder-woman
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18004,7 +18462,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                batman
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18073,7 +18560,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                superman
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18142,7 +18658,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                iron-man
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18272,7 +18817,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18341,7 +18915,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                pizza
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18410,7 +19013,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                pasta
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18479,7 +19111,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                salad
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18548,7 +19209,36 @@ exports[`Storyshots Select Inline 1`] = `
                         &lt;
                         Option
                       </span>
-                      <span />
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            value
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                steak
+                                "
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
                       <span
                         style={
                           Object {
@@ -18887,21 +19577,29 @@ exports[`Storyshots Select Validation 1`] = `
         <select
           className="Select__Control-mubtra-3 CkjKp"
         >
-          <option>
+          <option
+            value=""
+          >
             Select your favourite super hero
           </option>
           <option
-            selected={true}
+            value="wonder-woman"
           >
             Wonder woman
           </option>
-          <option>
+          <option
+            value="batman"
+          >
             Batman
           </option>
-          <option>
+          <option
+            value="superman"
+          >
             Superman
           </option>
-          <option>
+          <option
+            value="iron-man"
+          >
             Iron man
           </option>
         </select>
@@ -18934,19 +19632,29 @@ exports[`Storyshots Select Validation 1`] = `
         <select
           className="Select__Control-mubtra-3 CkjKp"
         >
-          <option>
+          <option
+            value=""
+          >
             Select your favourite super hero
           </option>
-          <option>
+          <option
+            value="wonder-woman"
+          >
             Wonder woman
           </option>
-          <option>
+          <option
+            value="batman"
+          >
             Batman
           </option>
-          <option>
+          <option
+            value="superman"
+          >
             Superman
           </option>
-          <option>
+          <option
+            value="iron-man"
+          >
             Iron man
           </option>
         </select>
