@@ -7,7 +7,7 @@ import { lighten } from "../colors";
 const Status = styled.div`
   width: ${props => props.theme.fontSize(s => s * 1.4)};
   height: ${props => props.theme.fontSize(s => s * 1.4)};
-  margin-right: ${props => props.theme.spacingBase(s => s / 2)};
+  margin-right: ${props => props.theme.spacingSmallest()};
   display: inline-block;
   border: ${props => props.theme.borderWidth()} solid currentColor;
   box-shadow: 0 2px 4px 0 ${props => props.theme.dropShadow};
