@@ -6104,7 +6104,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="givenNamesErrors"
-                    className="Input-s1wl5gqo-0 hYIeqh"
+                    className="Input-kymet2-0 iaSZdZ"
                     id="givenNames"
                     name="givenNames"
                     onChange={[Function]}
@@ -6127,7 +6127,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="lastNameErrors"
-                    className="Input-s1wl5gqo-0 hYIeqh"
+                    className="Input-kymet2-0 iaSZdZ"
                     id="lastName"
                     name="lastName"
                     onChange={[Function]}
@@ -6165,7 +6165,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
               </label>
               <input
                 aria-describedby="addressLine1Errors"
-                className="Input-s1wl5gqo-0 hYIeqh"
+                className="Input-kymet2-0 iaSZdZ"
                 id="addressLine1"
                 name="addressLine1"
                 onChange={[Function]}
@@ -6173,7 +6173,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
               />
               <input
                 aria-describedby="addressLine2Errors"
-                className="Input-s1wl5gqo-0 hYIeqh"
+                className="Input-kymet2-0 iaSZdZ"
                 id="addressLine2"
                 name="addressLine2"
                 onChange={[Function]}
@@ -6198,7 +6198,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="cityErrors"
-                    className="Input-s1wl5gqo-0 hYIeqh"
+                    className="Input-kymet2-0 iaSZdZ"
                     id="city"
                     name="city"
                     onChange={[Function]}
@@ -6221,7 +6221,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="postCodeErrors"
-                    className="Input-s1wl5gqo-0 hYIeqh"
+                    className="Input-kymet2-0 iaSZdZ"
                     id="postCode"
                     name="postCode"
                     onChange={[Function]}
@@ -6241,7 +6241,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
               </label>
               <input
                 aria-describedby="countryErrors"
-                className="Input-s1wl5gqo-0 hYIeqh"
+                className="Input-kymet2-0 iaSZdZ"
                 id="country"
                 name="country"
                 onChange={[Function]}
@@ -6522,7 +6522,7 @@ exports[`Storyshots Examples Using with downshift 1`] = `
       aria-autocomplete="list"
       aria-expanded={false}
       autoComplete="off"
-      className="s1wl5gqo-0-Input-eXLwAq ddFSoe"
+      className="kymet2-0-Input-eXLwAq juNaYv"
       id="downshift-input-2"
       onBlur={[Function]}
       onChange={[Function]}
@@ -6568,11 +6568,11 @@ exports[`Storyshots Field Basic 1`] = `
             </span>
           </div>
           <input
-            className="Input-s1wl5gqo-0 hYIeqh"
+            className="Input-kymet2-0 iaSZdZ"
             defaultValue="742 Evergreen Terrace"
           />
           <input
-            className="Input-s1wl5gqo-0 hYIeqh"
+            className="Input-kymet2-0 iaSZdZ"
             defaultValue=""
           />
           <p
@@ -6590,7 +6590,7 @@ exports[`Storyshots Field Basic 1`] = `
             Town or suburb
           </label>
           <input
-            className="Input-s1wl5gqo-0 hYIeqh"
+            className="Input-kymet2-0 iaSZdZ"
             defaultValue="Springfield"
           />
         </div>
@@ -11237,7 +11237,7 @@ exports[`Storyshots Input Basic 1`] = `
         className="Container-s11lsvlz-0 egxyFm"
       >
         <input
-          className="Input-s1wl5gqo-0 hYIeqh"
+          className="Input-kymet2-0 iaSZdZ"
         />
       </div>
     </div>
@@ -11683,7 +11683,7 @@ exports[`Storyshots Input Disabled 1`] = `
       className="Container-s11lsvlz-0 egxyFm"
     >
       <input
-        className="Input-s1wl5gqo-0 WijSd"
+        className="Input-kymet2-0 hyMUXP"
         disabled={true}
         value="cannot edit me!"
       />
@@ -11692,11 +11692,11 @@ exports[`Storyshots Input Disabled 1`] = `
       className="s11lsvlz-0-Container-klzlrk hBlHjC"
     >
       <input
-        className="Input-s1wl5gqo-0 HeczN"
+        className="Input-kymet2-0 bDmHzh"
         disabled={true}
       />
       <input
-        className="Input-s1wl5gqo-0 HeczN"
+        className="Input-kymet2-0 bDmHzh"
         disabled={true}
       />
     </div>
@@ -11721,10 +11721,10 @@ exports[`Storyshots Input Inline 1`] = `
         className="s11lsvlz-0-Container-klzlrk hBlHjC"
       >
         <input
-          className="Input-s1wl5gqo-0 kSLpRP"
+          className="Input-kymet2-0 bfaTYP"
         />
         <input
-          className="Input-s1wl5gqo-0 kSLpRP"
+          className="Input-kymet2-0 bfaTYP"
         />
       </div>
     </div>
@@ -12219,7 +12219,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-s11lsvlz-0 egxyFm"
     >
       <input
-        className="Input-s1wl5gqo-0 dDfMZw"
+        className="Input-kymet2-0 jnFAgY"
         defaultValue="I am valid"
       />
     </div>
@@ -12227,7 +12227,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-s11lsvlz-0 egxyFm"
     >
       <input
-        className="Input-s1wl5gqo-0 htZyen"
+        className="Input-kymet2-0 hCPYSC"
         defaultValue="I am invalid"
       />
     </div>
@@ -12235,7 +12235,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-s11lsvlz-0 egxyFm"
     >
       <input
-        className="Input-s1wl5gqo-0 lalwOr"
+        className="Input-kymet2-0 dzBTCK"
         defaultValue="I am disabled. Validation not shown."
         disabled={true}
       />
