@@ -3,12 +3,12 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 
 import { zero, identity } from "../utils";
-import { vrythm, vrythmPropTypes } from "../mixins/spacing";
+import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
-const Paragraph = styled.p`${props => vrythm};`;
+const Paragraph = styled.p`${props => spacingMixin};`;
 Paragraph.displayName = "Paragraph";
 Paragraph.propTypes = {
-  ...vrythmPropTypes
+  ...spacingPropTypes
 };
 
 export default Paragraph;

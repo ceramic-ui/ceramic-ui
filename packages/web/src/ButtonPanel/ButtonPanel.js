@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
 import { maxWidth, minWidth } from "../mixins/media";
-import { vrythm, vrythmPropTypes } from "../mixins/spacing";
+import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
 export const justifyChoices = [
   "flex-start",
@@ -37,7 +37,7 @@ const ButtonPanel = styled.div`
   flex-direction: column;
   justify-content: ${props => props.justifyContent};
   align-items: center;
-  ${props => vrythm};
+  ${props => spacingMixin};
 
   ${maxWidth.medium`
     & > * { width: 100%; margin-bottom: ${props => props.theme.spacingBase()}; }
@@ -59,7 +59,7 @@ const ButtonPanel = styled.div`
 ButtonPanel.displayName = "ButtonPanel";
 ButtonPanel.propTypes = {
   justifyContent: PropTypes.oneOf(justifyChoices),
-  ...vrythmPropTypes
+  ...spacingPropTypes
 };
 
 export default ButtonPanel;

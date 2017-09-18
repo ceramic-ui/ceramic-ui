@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
 import { lighten } from "../colors";
-import { vrythm, vrythmPropTypes } from "../mixins/spacing";
+import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
 const calloutMixin = colourName => css`
   border-color: ${props => props.theme[colourName]};
@@ -18,7 +18,7 @@ const appearances = {
 };
 
 const Card = styled.div`
-  ${props => vrythm};
+  ${props => spacingMixin};
   padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
   border: ${props =>
     `${props.theme.borderWidth()} solid ${props.theme.borderColor}`};
@@ -30,7 +30,7 @@ const Card = styled.div`
 Card.displayName = "Card";
 Card.propTypes = {
   appearance: PropTypes.oneOf(Object.keys(appearances)),
-  ...vrythmPropTypes
+  ...spacingPropTypes
 };
 
 export default Card;

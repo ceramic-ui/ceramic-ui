@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { vrythm, vrythmPropTypes } from "../mixins/spacing";
+import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
 export const appearances = {
   primary: "brandPrimary",
@@ -20,7 +20,7 @@ const ProgressBar = styled.div.attrs({
   "aria-valuemin": ({ min }) => min,
   "aria-valuemax": ({ max }) => max
 })`
-  ${props => vrythm};
+  ${props => spacingMixin};
   width: 100%;
   height: ${props => props.theme.fontSize()};
   background-color: ${props => props.theme.borderColor};
@@ -39,7 +39,7 @@ ProgressBar.propTypes = {
   min: PropTypes.number.isRequired,
   max: PropTypes.number.isRequired,
   value: PropTypes.number.isRequired,
-  ...vrythmPropTypes
+  ...spacingPropTypes
 };
 ProgressBar.defaultProps = {
   appearance: "primary",

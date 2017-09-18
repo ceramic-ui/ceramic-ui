@@ -2,10 +2,10 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { vrythm, vrythmPropTypes } from "../mixins/spacing";
+import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
 export const Heading1 = styled.h1`
-  ${props => vrythm};
+  ${props => spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 2.074)};
   line-height: 1.25;
@@ -13,7 +13,7 @@ export const Heading1 = styled.h1`
 Heading1.displayName = "Heading1";
 
 export const Heading2 = styled.h2`
-  ${props => vrythm};
+  ${props => spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.728)};
   line-height: 1.25;
@@ -21,7 +21,7 @@ export const Heading2 = styled.h2`
 Heading2.displayName = "Heading2";
 
 export const Heading3 = styled.h3`
-  ${props => vrythm};
+  ${props => spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.44)};
   line-height: 1.25;
@@ -29,7 +29,7 @@ export const Heading3 = styled.h3`
 Heading3.displayName = "Heading3";
 
 export const Heading4 = styled.h4`
-  ${props => vrythm};
+  ${props => spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.2)};
   line-height: 1.25;
@@ -37,14 +37,14 @@ export const Heading4 = styled.h4`
 Heading4.displayName = "Heading4";
 
 export const Heading5 = styled.h5`
-  ${props => vrythm};
+  ${props => spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize()};
 `;
 Heading5.displayName = "Heading5";
 
 export const Heading6 = styled.h6`
-  ${props => vrythm};
+  ${props => spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 0.833)};
 `;
@@ -67,7 +67,7 @@ const Heading = ({ level, ...rest }) => {
 
 Heading.propTypes = {
   level: PropTypes.oneOf([1, 2, 3, 4, 5, 6]).isRequired,
-  ...vrythmPropTypes
+  ...spacingPropTypes
 };
 
 Heading.defaultProps = {

@@ -135,7 +135,7 @@ class App extends React.Component {
                 <Legend>Billing address</Legend>
               </Flex.Item>
             </Flex>
-            <Field>
+            <Field spacing="smaller">
               <Label htmlFor="addressLine1">Street address</Label>
               <Input
                 id="addressLine1"
@@ -148,7 +148,9 @@ class App extends React.Component {
               {!!errors.addressLine1 && (
                 <Error id="addressLine1Errors">{errors.addressLine1}</Error>
               )}
+            </Field>
 
+            <Field>
               <Input
                 id="addressLine2"
                 name="addressLine2"
