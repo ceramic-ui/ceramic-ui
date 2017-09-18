@@ -7,7 +7,10 @@ const Input = styled.input`
   width: ${props => (props.inline ? "auto" : "100%")};
   display: ${props => (props.inline ? "inline-block" : "block")};
   padding: ${prop => `${prop.theme.paddingY()} ${prop.theme.paddingX()}`};
-  margin: 0;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
   font-size: ${props => props.theme.fontSize()};
   border: ${props => props.theme.borderWidth()} solid currentColor;
   border-radius: ${props => props.theme.borderRadius()};
