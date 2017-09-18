@@ -13,15 +13,13 @@ export const justifyChoices = [
   "space-between"
 ];
 
-const pullLeft = css`
-  margin-left: ${props => props.theme.spacingBase(s => -s / 4)};
-`;
-const pullRight = css`
-  margin-right: ${props => props.theme.spacingBase(s => -s / 4)};
-`;
+const negativeSpacing = ({ theme }) => theme.spacingSmallest(s => s * -1);
+
+const pullLeft = css`margin-left: ${props => negativeSpacing(props)};`;
+const pullRight = css`margin-right: ${props => negativeSpacing(props)};`;
 const pullBoth = css`
-  margin-left: ${props => props.theme.spacingBase(s => -s / 4)};
-  margin-right: ${props => props.theme.spacingBase(s => -s / 4)};
+  margin-left: ${props => negativeSpacing(props)};
+  margin-right: ${props => negativeSpacing(props)};
 `;
 
 const margins = {
@@ -50,9 +48,9 @@ const ButtonPanel = styled.div`
 
     & > * {
       margin-left:
-        ${props => props.theme.spacingBase(s => s / 4)};
+        ${props => props.theme.spacingSmallest()};
       margin-right:
-        ${props => props.theme.spacingBase(s => s / 4)};
+        ${props => props.theme.spacingSmallest()};
     }
   `};
 `;
