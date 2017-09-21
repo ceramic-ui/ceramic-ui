@@ -11,11 +11,7 @@
     "url": "git+https://github.com/ceramic-ui/ceramic-ui.git"
   },
   "license": "MIT",
-  "keywords": [
-    "react",
-    "ui",
-    "styled-components"
-  ],
+  "keywords": ["react", "ui", "styled-components"],
   "publishConfig": {
     "access": "public"
   },
@@ -29,8 +25,8 @@
     "build:main": "BABEL_ENV=production babel src -d . --source-maps",
     "build:umd": "BABEL_ENV=umd babel src -d umd --source-maps",
     "build:docs": "build-storybook -o docs",
-    "build": "npm-run-all build:main build:umd build:docs",
-    "prepublish": "npm run test && npm run build",
+    "build": "run-p build:main build:umd build:docs",
+    "prepublish": "run-s lint test build",
     "start": "start-storybook -p 9009",
     "test": "jest --env=jsdom",
     "test:watch": "npm run test -- --watch",
