@@ -1,13 +1,7 @@
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-const colors = {
-  primary: "brandPrimary",
-  secondary: "brandSecondary",
-  danger: "brandDanger",
-  success: "brandSuccess",
-  muted: "brandMuted"
-};
+import { resolveColor } from "../colors";
 
 const weights = {
   normal: "normal",
@@ -15,12 +9,12 @@ const weights = {
 };
 
 const Text = styled.span`
-  ${props => !!props.color && `color: ${props.theme[colors[props.color]]}`};
+  ${props => !!props.color && `color: ${resolveColor(props, "color")}`};
   ${props => !!props.weight && `font-weight: ${weights[props.weight]}`};
 `;
 Text.displayName = "Text";
 Text.propTypes = {
-  color: PropTypes.oneOf(Object.keys(colors)),
+  color: PropTypes.string,
   weight: PropTypes.oneOf(Object.keys(weights))
 };
 

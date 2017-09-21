@@ -10,7 +10,7 @@ const Container = styled.div`
   border: ${props => props.theme.borderWidth()} solid currentColor;
   border-radius: ${props => props.theme.borderRadius()};
   background-color: ${props =>
-    props.disabled ? props.theme.brandDisabled : props.theme.white};
+    props.disabled ? props.theme.brandDisabled : props.theme.brandLight};
   box-shadow: 0 2px 4px 0 ${props => props.theme.dropShadow};
   display: ${props => (props.inline ? "inline-flex" : "flex")};
   align-items: center;

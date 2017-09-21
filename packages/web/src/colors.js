@@ -39,3 +39,21 @@ const darkenLighten = (hex, percent) => {
 
 export const darken = (hex, amount) => darkenLighten(hex, -1 * amount);
 export const lighten = darkenLighten;
+
+/**
+ * Given `props` and a key to look for in props, attempt to resolve the value of
+ * a colour defined in themes. So for example:
+ * `resolveColor(props, 'background')` will get the value `props.background`
+ * which will be a brand color short name such as "primary" and then returns
+ * `props.theme.brandPrimary`
+ *
+ * @param {object} props
+ * @param {string} propKey
+ *
+ * @returns {string}
+ */
+export const resolveColor = (props, propKey) => {
+  const value = props[propKey];
+  const themeProp = `brand${value.charAt(0).toUpperCase()}${value.slice(1)}`;
+  return props.theme[themeProp] || "";
+};

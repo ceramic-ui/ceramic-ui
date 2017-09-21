@@ -18,20 +18,20 @@ storiesOf("Box", module)
   ))
   .add("Backgrounds", () => (
     <Container>
-      <Box background="brandPrimary">
-        With <code>background="brandPrimary"</code>
+      <Box background="primary">
+        With <code>background="primary"</code>
       </Box>
-      <Box background="brandSecondary">
-        With <code>background="brandSecondary"</code>
+      <Box background="secondary">
+        With <code>background="secondary"</code>
       </Box>
-      <Box background="brandSuccess">
-        With <code>background="brandSuccess"</code>
+      <Box background="success">
+        With <code>background="success"</code>
       </Box>
-      <Box background="brandDanger">
-        With <code>background="brandDanger"</code>
+      <Box background="danger">
+        With <code>background="danger"</code>
       </Box>
-      <Box background="brandMuted">
-        With <code>background="brandMuted"</code>
+      <Box background="muted">
+        With <code>background="muted"</code>
       </Box>
     </Container>
   ));

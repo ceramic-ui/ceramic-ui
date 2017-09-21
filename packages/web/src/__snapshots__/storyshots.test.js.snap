@@ -8,43 +8,43 @@ exports[`Storyshots Box Backgrounds 1`] = `
     className="Container-j48z18-0 htUAcB"
   >
     <div
-      className="Box-s15t6sxk-0 iHyTGo"
+      className="Box-s1c7qjo5-0 eYjEYO"
     >
       With 
       <code>
-        background="brandPrimary"
+        background="primary"
       </code>
     </div>
     <div
-      className="Box-s15t6sxk-0 kzGHHH"
+      className="Box-s1c7qjo5-0 hlXjcO"
     >
       With 
       <code>
-        background="brandSecondary"
+        background="secondary"
       </code>
     </div>
     <div
-      className="Box-s15t6sxk-0 heNyWH"
+      className="Box-s1c7qjo5-0 kTFeyf"
     >
       With 
       <code>
-        background="brandSuccess"
+        background="success"
       </code>
     </div>
     <div
-      className="Box-s15t6sxk-0 cCrttj"
+      className="Box-s1c7qjo5-0 cduWFV"
     >
       With 
       <code>
-        background="brandDanger"
+        background="danger"
       </code>
     </div>
     <div
-      className="Box-s15t6sxk-0 nChpM"
+      className="Box-s1c7qjo5-0 eIZfPY"
     >
       With 
       <code>
-        background="brandMuted"
+        background="muted"
       </code>
     </div>
   </div>
@@ -59,12 +59,12 @@ exports[`Storyshots Box Basic 1`] = `
     className="Container-j48z18-0 htUAcB"
   >
     <div
-      className="Box-s15t6sxk-0 llhNse"
+      className="Box-s1c7qjo5-0 eiffIw"
     >
       Basic example
     </div>
     <div
-      className="Box-s15t6sxk-0 dtpgk"
+      className="Box-s1c7qjo5-0 izXQYu"
     >
       With 
       <code>
@@ -72,7 +72,7 @@ exports[`Storyshots Box Basic 1`] = `
       </code>
     </div>
     <div
-      className="Box-s15t6sxk-0 kICvtS"
+      className="Box-s1c7qjo5-0 dZxbaK"
     >
       With 
       <code>
@@ -109,25 +109,25 @@ exports[`Storyshots Button Basic 1`] = `
             Default
           </button>
           <button
-            className="Button-s1srdffo-0 dlZOAd"
+            className="Button-s1srdffo-0 cLgDaV"
             type="button"
           >
             Primary
           </button>
           <button
-            className="Button-s1srdffo-0 dyauxC"
+            className="Button-s1srdffo-0 gVkBJZ"
             type="button"
           >
             Secondary
           </button>
           <button
-            className="Button-s1srdffo-0 LpnKa"
+            className="Button-s1srdffo-0 jJQubz"
             type="button"
           >
             Success
           </button>
           <button
-            className="Button-s1srdffo-0 iPdtoX"
+            className="Button-s1srdffo-0 cWgVmd"
             type="button"
           >
             Danger
@@ -1613,25 +1613,25 @@ exports[`Storyshots Button Block-level 1`] = `
         Default
       </button>
       <button
-        className="Button-s1srdffo-0 gfucaZ"
+        className="Button-s1srdffo-0 cBJoRZ"
         type="button"
       >
         Primary
       </button>
       <button
-        className="Button-s1srdffo-0 jPfema"
+        className="Button-s1srdffo-0 eghIyR"
         type="button"
       >
         Secondary
       </button>
       <button
-        className="Button-s1srdffo-0 eAjNmD"
+        className="Button-s1srdffo-0 hBQfFZ"
         type="button"
       >
         Success
       </button>
       <button
-        className="Button-s1srdffo-0 fNvHKI"
+        className="Button-s1srdffo-0 ehVjDo"
         type="button"
       >
         Danger
@@ -1682,28 +1682,28 @@ exports[`Storyshots Button Disabled 1`] = `
         Default
       </button>
       <button
-        className="Button-s1srdffo-0 dlZOAd"
+        className="Button-s1srdffo-0 cLgDaV"
         disabled={true}
         type="button"
       >
         Primary
       </button>
       <button
-        className="Button-s1srdffo-0 dyauxC"
+        className="Button-s1srdffo-0 gVkBJZ"
         disabled={true}
         type="button"
       >
         Secondary
       </button>
       <button
-        className="Button-s1srdffo-0 LpnKa"
+        className="Button-s1srdffo-0 jJQubz"
         disabled={true}
         type="button"
       >
         Success
       </button>
       <button
-        className="Button-s1srdffo-0 iPdtoX"
+        className="Button-s1srdffo-0 cWgVmd"
         disabled={true}
         type="button"
       >
@@ -1764,25 +1764,25 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
           Default
         </button>
         <button
-          className="Button-s1srdffo-0 dlZOAd"
+          className="Button-s1srdffo-0 cLgDaV"
           type="button"
         >
           Primary
         </button>
         <button
-          className="Button-s1srdffo-0 dyauxC"
+          className="Button-s1srdffo-0 gVkBJZ"
           type="button"
         >
           Secondary
         </button>
         <button
-          className="Button-s1srdffo-0 LpnKa"
+          className="Button-s1srdffo-0 jJQubz"
           type="button"
         >
           Success
         </button>
         <button
-          className="Button-s1srdffo-0 iPdtoX"
+          className="Button-s1srdffo-0 cWgVmd"
           type="button"
         >
           Danger
@@ -2797,12 +2797,12 @@ exports[`Storyshots Callout Basic 1`] = `
         className="Container-j48z18-0 gTCrFR"
       >
         <div
-          className="Callout-s7ejvq3-0 jQLEDy"
+          className="Callout-mttm4f-0 cjZjiw"
         >
           <h2
             className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
           >
-            A callout - Primary style
+            Callout - Primary style
           </h2>
           <p
             className="Paragraph-s14fatmx-0 jwJiHK"
@@ -2816,12 +2816,12 @@ exports[`Storyshots Callout Basic 1`] = `
           </p>
         </div>
         <div
-          className="Callout-s7ejvq3-0 cPoiyx"
+          className="Callout-mttm4f-0 ciiRGt"
         >
           <h2
             className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
           >
-            A callout - Danger style
+            Callout - Primary style
           </h2>
           <p
             className="Paragraph-s14fatmx-0 jwJiHK"
@@ -2835,12 +2835,50 @@ exports[`Storyshots Callout Basic 1`] = `
           </p>
         </div>
         <div
-          className="Callout-s7ejvq3-0 gBlEYI"
+          className="Callout-mttm4f-0 errkXl"
         >
           <h2
             className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
           >
-            A callout - Success style
+            Callout - Danger style
+          </h2>
+          <p
+            className="Paragraph-s14fatmx-0 jwJiHK"
+          >
+            This is some example content
+          </p>
+          <p
+            className="Paragraph-s14fatmx-0 iqjeOy"
+          >
+            It draws some attention to it relative to surrounding content
+          </p>
+        </div>
+        <div
+          className="Callout-mttm4f-0 fzfdHp"
+        >
+          <h2
+            className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+          >
+            Callout - Success style
+          </h2>
+          <p
+            className="Paragraph-s14fatmx-0 jwJiHK"
+          >
+            This is some example content
+          </p>
+          <p
+            className="Paragraph-s14fatmx-0 iqjeOy"
+          >
+            It draws some attention to it relative to surrounding content
+          </p>
+        </div>
+        <div
+          className="Callout-mttm4f-0 xPFjl"
+        >
+          <h2
+            className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+          >
+            Callout - Dark style
           </h2>
           <p
             className="Paragraph-s14fatmx-0 jwJiHK"
@@ -3075,6 +3113,302 @@ exports[`Storyshots Callout Basic 1`] = `
                       &lt;
                       Callout
                     </span>
+                    <span />
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &gt;
+                    </span>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Heading
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            level
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  2
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        Callout - Primary style
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Heading
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        This is some example content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            flush
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        It draws some attention to it relative to surrounding content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;/
+                      Callout
+                      &gt;
+                    </span>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Callout
+                    </span>
                     <span>
                       <span>
                          
@@ -3097,7 +3431,7 @@ exports[`Storyshots Callout Basic 1`] = `
                               }
                             >
                               "
-                              primary
+                              secondary
                               "
                             </span>
                           </span>
@@ -3188,7 +3522,7 @@ exports[`Storyshots Callout Basic 1`] = `
                           }
                         }
                       >
-                        A callout - Primary style
+                        Callout - Primary style
                       </span>
                     </div>
                     <div
@@ -3513,7 +3847,7 @@ exports[`Storyshots Callout Basic 1`] = `
                           }
                         }
                       >
-                        A callout - Danger style
+                        Callout - Danger style
                       </span>
                     </div>
                     <div
@@ -3838,7 +4172,332 @@ exports[`Storyshots Callout Basic 1`] = `
                           }
                         }
                       >
-                        A callout - Success style
+                        Callout - Success style
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Heading
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span />
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        This is some example content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Paragraph
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            flush
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        It draws some attention to it relative to surrounding content
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;/
+                        Paragraph
+                        &gt;
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;/
+                      Callout
+                      &gt;
+                    </span>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    style={
+                      Object {
+                        "paddingLeft": 33,
+                        "paddingRight": 3,
+                      }
+                    }
+                  >
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &lt;
+                      Callout
+                    </span>
+                    <span>
+                      <span>
+                         
+                        <span
+                          style={Object {}}
+                        >
+                          appearance
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span
+                              style={
+                                Object {
+                                  "color": "#22a",
+                                  "wordBreak": "break-word",
+                                }
+                              }
+                            >
+                              "
+                              dark
+                              "
+                            </span>
+                          </span>
+                        </span>
+                        
+                      </span>
+                    </span>
+                    <span
+                      style={
+                        Object {
+                          "color": "#777",
+                        }
+                      }
+                    >
+                      &gt;
+                    </span>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 48,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Heading
+                      </span>
+                      <span>
+                        <span>
+                           
+                          <span
+                            style={Object {}}
+                          >
+                            level
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  2
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                          
+                        </span>
+                      </span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <div
+                      style={
+                        Object {
+                          "paddingLeft": 63,
+                          "paddingRight": 3,
+                        }
+                      }
+                    >
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        Callout - Dark style
                       </span>
                     </div>
                     <div
@@ -4113,13 +4772,24 @@ exports[`Storyshots Callout Basic 1`] = `
                       appearance
                     </td>
                     <td>
-                      other
+                      string
                     </td>
                     <td>
                       yes
                     </td>
                     <td>
-                      -
+                      <span
+                        style={
+                          Object {
+                            "color": "#22a",
+                            "wordBreak": "break-word",
+                          }
+                        }
+                      >
+                        "
+                        primary
+                        "
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -5243,7 +5913,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
           onSubmit={[Function]}
         >
           <fieldset
-            className="Box-s15t6sxk-0-fieldset kNCQfq"
+            className="Box-s1c7qjo5-0-fieldset fdZxqh"
           >
             <div
               className="Flex-s1q8d755-1 faTcBz"
@@ -5277,7 +5947,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="givenNamesErrors"
-                    className="Input-s1y0vxtz-0 dsTjgm"
+                    className="Input-s1j0sozl-0 kXoTHM"
                     id="givenNames"
                     name="givenNames"
                     onChange={[Function]}
@@ -5300,7 +5970,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="lastNameErrors"
-                    className="Input-s1y0vxtz-0 dsTjgm"
+                    className="Input-s1j0sozl-0 kXoTHM"
                     id="lastName"
                     name="lastName"
                     onChange={[Function]}
@@ -5311,7 +5981,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             </div>
           </fieldset>
           <fieldset
-            className="Box-s15t6sxk-0-fieldset kNCQfq"
+            className="Box-s1c7qjo5-0-fieldset fdZxqh"
           >
             <div
               className="Flex-s1q8d755-1 faTcBz"
@@ -5339,7 +6009,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
               </label>
               <input
                 aria-describedby="addressLine1Errors"
-                className="Input-s1y0vxtz-0 dsTjgm"
+                className="Input-s1j0sozl-0 kXoTHM"
                 id="addressLine1"
                 name="addressLine1"
                 onChange={[Function]}
@@ -5351,7 +6021,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             >
               <input
                 aria-describedby="addressLine2Errors"
-                className="Input-s1y0vxtz-0 dsTjgm"
+                className="Input-s1j0sozl-0 kXoTHM"
                 id="addressLine2"
                 name="addressLine2"
                 onChange={[Function]}
@@ -5376,7 +6046,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="cityErrors"
-                    className="Input-s1y0vxtz-0 dsTjgm"
+                    className="Input-s1j0sozl-0 kXoTHM"
                     id="city"
                     name="city"
                     onChange={[Function]}
@@ -5399,7 +6069,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                   </label>
                   <input
                     aria-describedby="postCodeErrors"
-                    className="Input-s1y0vxtz-0 dsTjgm"
+                    className="Input-s1j0sozl-0 kXoTHM"
                     id="postCode"
                     name="postCode"
                     onChange={[Function]}
@@ -5419,7 +6089,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
               </label>
               <input
                 aria-describedby="countryErrors"
-                className="Input-s1y0vxtz-0 dsTjgm"
+                className="Input-s1j0sozl-0 kXoTHM"
                 id="country"
                 name="country"
                 onChange={[Function]}
@@ -5466,7 +6136,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
               Reset
             </button>
             <button
-              className="Button-s1srdffo-0 dlZOAd"
+              className="Button-s1srdffo-0 cLgDaV"
               disabled={false}
               onClick={[Function]}
               type="submit"
@@ -5700,7 +6370,7 @@ exports[`Storyshots Examples Using with downshift 1`] = `
       aria-autocomplete="list"
       aria-expanded={false}
       autoComplete="off"
-      className="s1y0vxtz-0-Input-eXLwAq iEjLpP"
+      className="s1j0sozl-0-Input-eXLwAq gakcYW"
       id="downshift-input-2"
       onBlur={[Function]}
       onChange={[Function]}
@@ -5739,18 +6409,18 @@ exports[`Storyshots Field Basic 1`] = `
               Street
             </label>
             <span
-              className="Text-qb0zjq-0 huPhGO"
+              className="Text-s14udbl0-0 kSJujU"
               color="muted"
             >
               Must be a U.S. address
             </span>
           </div>
           <input
-            className="Input-s1y0vxtz-0 dsTjgm"
+            className="Input-s1j0sozl-0 kXoTHM"
             defaultValue="742 Evergreen Terrace"
           />
           <input
-            className="Input-s1y0vxtz-0 dsTjgm"
+            className="Input-s1j0sozl-0 kXoTHM"
             defaultValue=""
           />
           <p
@@ -5768,7 +6438,7 @@ exports[`Storyshots Field Basic 1`] = `
             Town or suburb
           </label>
           <input
-            className="Input-s1y0vxtz-0 dsTjgm"
+            className="Input-s1j0sozl-0 kXoTHM"
             defaultValue="Springfield"
           />
         </div>
@@ -6989,7 +7659,7 @@ exports[`Storyshots Field Basic 1`] = `
                       color
                     </td>
                     <td>
-                      other
+                      string
                     </td>
                     <td>
                       no
@@ -7039,7 +7709,7 @@ exports[`Storyshots FieldSet Basic 1`] = `
       }
     >
       <fieldset
-        className="Box-s15t6sxk-0-fieldset kNCQfq"
+        className="Box-s1c7qjo5-0-fieldset fdZxqh"
       >
         Basic example
       </fieldset>
@@ -10456,7 +11126,7 @@ exports[`Storyshots Input Basic 1`] = `
         className="Container-j48z18-0 jXCJT"
       >
         <input
-          className="Input-s1y0vxtz-0 dsTjgm"
+          className="Input-s1j0sozl-0 kXoTHM"
         />
       </div>
     </div>
@@ -10902,7 +11572,7 @@ exports[`Storyshots Input Disabled 1`] = `
       className="Container-j48z18-0 jXCJT"
     >
       <input
-        className="Input-s1y0vxtz-0 fjkMTR"
+        className="Input-s1j0sozl-0 hkqqXQ"
         disabled={true}
         value="cannot edit me!"
       />
@@ -10911,11 +11581,11 @@ exports[`Storyshots Input Disabled 1`] = `
       className="j48z18-0-Container-klzlrk demiI"
     >
       <input
-        className="Input-s1y0vxtz-0 gxHwgR"
+        className="Input-s1j0sozl-0 knlRKb"
         disabled={true}
       />
       <input
-        className="Input-s1y0vxtz-0 gxHwgR"
+        className="Input-s1j0sozl-0 knlRKb"
         disabled={true}
       />
     </div>
@@ -10940,10 +11610,10 @@ exports[`Storyshots Input Inline 1`] = `
         className="j48z18-0-Container-klzlrk demiI"
       >
         <input
-          className="Input-s1y0vxtz-0 jLASZO"
+          className="Input-s1j0sozl-0 exdyCQ"
         />
         <input
-          className="Input-s1y0vxtz-0 jLASZO"
+          className="Input-s1j0sozl-0 exdyCQ"
         />
       </div>
     </div>
@@ -11438,7 +12108,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-j48z18-0 jXCJT"
     >
       <input
-        className="Input-s1y0vxtz-0 kedkYp"
+        className="Input-s1j0sozl-0 jRZpZk"
         defaultValue="I am valid"
       />
     </div>
@@ -11446,7 +12116,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-j48z18-0 jXCJT"
     >
       <input
-        className="Input-s1y0vxtz-0 eoRGci"
+        className="Input-s1j0sozl-0 bfuwXq"
         defaultValue="I am invalid"
       />
     </div>
@@ -11454,7 +12124,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Container-j48z18-0 jXCJT"
     >
       <input
-        className="Input-s1y0vxtz-0 fNJUzp"
+        className="Input-s1j0sozl-0 kaKCt"
         defaultValue="I am disabled. Validation not shown."
         disabled={true}
       />
@@ -12044,7 +12714,7 @@ exports[`Storyshots Link Basic 1`] = `
           data-flush={undefined}
         >
           <a
-            className="Link-s1mfj9j3-0 hHjfJX"
+            className="Link-s1mfj9j3-0 cHzbQE"
             href="#"
           >
             Primary
@@ -12055,7 +12725,7 @@ exports[`Storyshots Link Basic 1`] = `
           data-flush={undefined}
         >
           <a
-            className="Link-s1mfj9j3-0 isSdsf"
+            className="Link-s1mfj9j3-0 bfMrYA"
             href="#"
           >
             Secondary
@@ -12066,7 +12736,7 @@ exports[`Storyshots Link Basic 1`] = `
           data-flush={undefined}
         >
           <a
-            className="Link-s1mfj9j3-0 dCZSjm"
+            className="Link-s1mfj9j3-0 iEeHxe"
             href="#"
           >
             Success
@@ -12077,7 +12747,7 @@ exports[`Storyshots Link Basic 1`] = `
           data-flush={undefined}
         >
           <a
-            className="Link-s1mfj9j3-0 dCjWTT"
+            className="Link-s1mfj9j3-0 fDzeWY"
             href="#"
           >
             Danger
@@ -14297,7 +14967,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 cHEWnw"
+        className="Link-s1mfj9j3-0 jopaZk"
         href="#"
       >
         Primary
@@ -14308,7 +14978,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 byXmUi"
+        className="Link-s1mfj9j3-0 cEVgSx"
         href="#"
       >
         Secondary
@@ -14319,7 +14989,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 BpCDU"
+        className="Link-s1mfj9j3-0 ccxFDC"
         href="#"
       >
         Success
@@ -14330,7 +15000,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 eaxMhQ"
+        className="Link-s1mfj9j3-0 iMHfpI"
         href="#"
       >
         Danger
@@ -14935,7 +15605,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-s3x2ous-0 eXLkeM"
+          className="ProgressBar-cxqey5-0 dGtlSk"
           max={100}
           min={0}
           role="progressbar"
@@ -14945,7 +15615,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-s3x2ous-0 jaQSJX"
+          className="ProgressBar-cxqey5-0 gKyUoE"
           max={100}
           min={0}
           role="progressbar"
@@ -14955,7 +15625,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-s3x2ous-0 kSeYDU"
+          className="ProgressBar-cxqey5-0 hJsltP"
           max={100}
           min={0}
           role="progressbar"
@@ -14965,7 +15635,17 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-s3x2ous-0 gYGTUb"
+          className="ProgressBar-cxqey5-0 ecvumM"
+          max={100}
+          min={0}
+          role="progressbar"
+          value={42}
+        />
+        <div
+          aria-valuemax={100}
+          aria-valuemin={0}
+          aria-valuenow={42}
+          className="ProgressBar-cxqey5-0 kCjtUK"
           max={100}
           min={0}
           role="progressbar"
@@ -15457,6 +16137,90 @@ exports[`Storyshots ProgressBar Basic 1`] = `
                 <div
                   style={
                     Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    ProgressBar
+                  </span>
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        appearance
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#22a",
+                                "wordBreak": "break-word",
+                              }
+                            }
+                          >
+                            "
+                            black
+                            "
+                          </span>
+                        </span>
+                      </span>
+                    </span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        value
+                      </span>
+                      <span>
+                        =
+                        <span
+                          style={Object {}}
+                        >
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#a11",
+                                }
+                              }
+                            >
+                              42
+                            </span>
+                          </span>
+                        </span>
+                      </span>
+                       
+                    </span>
+                  </span>
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    /&gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
                       "paddingLeft": 18,
                       "paddingRight": 3,
                     }
@@ -15625,7 +16389,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
                       appearance
                     </td>
                     <td>
-                      other
+                      string
                     </td>
                     <td>
                       yes
@@ -15754,11 +16518,11 @@ exports[`Storyshots Select Basic 1`] = `
         className="Container-j48z18-0 jXCJT"
       >
         <div
-          className="Select__Container-s1pbm61i-0 fofEWo"
+          className="Select__Container-euw34d-0 fSURji"
           disabled={undefined}
         >
           <select
-            className="Select__Control-s1pbm61i-3 cIBQco"
+            className="Select__Control-euw34d-3 bCGiQb"
           >
             <option
               value=""
@@ -15787,10 +16551,10 @@ exports[`Storyshots Select Basic 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-s1pbm61i-1 ktxEoc"
+            className="Select__Accessory-euw34d-1 gTcPUp"
           >
             <svg
-              className="Select__Chevron-s1pbm61i-2 wSvUf"
+              className="Select__Chevron-euw34d-2 bgkxUJ"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -16791,11 +17555,11 @@ exports[`Storyshots Select Disabled 1`] = `
       className="Container-j48z18-0 jXCJT"
     >
       <div
-        className="Select__Container-s1pbm61i-0 lpnkAP"
+        className="Select__Container-euw34d-0 dYBxRi"
         disabled={true}
       >
         <select
-          className="Select__Control-s1pbm61i-3 cIBQco"
+          className="Select__Control-euw34d-3 bCGiQb"
           disabled={true}
         >
           <option
@@ -16825,10 +17589,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1pbm61i-1 ktxEoc"
+          className="Select__Accessory-euw34d-1 gTcPUp"
         >
           <svg
-            className="Select__Chevron-s1pbm61i-2 wSvUf"
+            className="Select__Chevron-euw34d-2 bgkxUJ"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -16847,11 +17611,11 @@ exports[`Storyshots Select Disabled 1`] = `
       className="j48z18-0-Container-gATNmD iTTjwX"
     >
       <div
-        className="Select__Container-s1pbm61i-0 eXrcvx"
+        className="Select__Container-euw34d-0 iZWlcj"
         disabled={true}
       >
         <select
-          className="Select__Control-s1pbm61i-3 dRuqwn"
+          className="Select__Control-euw34d-3 bcIHQv"
           disabled={true}
         >
           <option
@@ -16881,10 +17645,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1pbm61i-1 ktxEoc"
+          className="Select__Accessory-euw34d-1 gTcPUp"
         >
           <svg
-            className="Select__Chevron-s1pbm61i-2 wSvUf"
+            className="Select__Chevron-euw34d-2 bgkxUJ"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -16899,11 +17663,11 @@ exports[`Storyshots Select Disabled 1`] = `
         </div>
       </div>
       <div
-        className="Select__Container-s1pbm61i-0 eXrcvx"
+        className="Select__Container-euw34d-0 iZWlcj"
         disabled={true}
       >
         <select
-          className="Select__Control-s1pbm61i-3 dRuqwn"
+          className="Select__Control-euw34d-3 bcIHQv"
           disabled={true}
         >
           <option
@@ -16933,10 +17697,10 @@ exports[`Storyshots Select Disabled 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1pbm61i-1 ktxEoc"
+          className="Select__Accessory-euw34d-1 gTcPUp"
         >
           <svg
-            className="Select__Chevron-s1pbm61i-2 wSvUf"
+            className="Select__Chevron-euw34d-2 bgkxUJ"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -16972,11 +17736,11 @@ exports[`Storyshots Select Inline 1`] = `
         className="j48z18-0-Container-gATNmD iTTjwX"
       >
         <div
-          className="Select__Container-s1pbm61i-0 dCfYJp"
+          className="Select__Container-euw34d-0 cwkVuY"
           disabled={undefined}
         >
           <select
-            className="Select__Control-s1pbm61i-3 dRuqwn"
+            className="Select__Control-euw34d-3 bcIHQv"
           >
             <option
               value=""
@@ -17005,10 +17769,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-s1pbm61i-1 ktxEoc"
+            className="Select__Accessory-euw34d-1 gTcPUp"
           >
             <svg
-              className="Select__Chevron-s1pbm61i-2 wSvUf"
+              className="Select__Chevron-euw34d-2 bgkxUJ"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -17023,11 +17787,11 @@ exports[`Storyshots Select Inline 1`] = `
           </div>
         </div>
         <div
-          className="Select__Container-s1pbm61i-0 dCfYJp"
+          className="Select__Container-euw34d-0 cwkVuY"
           disabled={undefined}
         >
           <select
-            className="Select__Control-s1pbm61i-3 dRuqwn"
+            className="Select__Control-euw34d-3 bcIHQv"
           >
             <option
               value=""
@@ -17056,10 +17820,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-s1pbm61i-1 ktxEoc"
+            className="Select__Accessory-euw34d-1 gTcPUp"
           >
             <svg
-              className="Select__Chevron-s1pbm61i-2 wSvUf"
+              className="Select__Chevron-euw34d-2 bgkxUJ"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -18621,11 +19385,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Container-j48z18-0 htUAcB"
     >
       <div
-        className="Select__Container-s1pbm61i-0 cvrvKP"
+        className="Select__Container-euw34d-0 kNwxjY"
         disabled={undefined}
       >
         <select
-          className="Select__Control-s1pbm61i-3 cIBQco"
+          className="Select__Control-euw34d-3 bCGiQb"
         >
           <option
             value=""
@@ -18654,10 +19418,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1pbm61i-1 ktxEoc"
+          className="Select__Accessory-euw34d-1 gTcPUp"
         >
           <svg
-            className="Select__Chevron-s1pbm61i-2 wSvUf"
+            className="Select__Chevron-euw34d-2 bgkxUJ"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -18676,11 +19440,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Container-j48z18-0 htUAcB"
     >
       <div
-        className="Select__Container-s1pbm61i-0 bKtQsX"
+        className="Select__Container-euw34d-0 hYINGq"
         disabled={undefined}
       >
         <select
-          className="Select__Control-s1pbm61i-3 cIBQco"
+          className="Select__Control-euw34d-3 bCGiQb"
         >
           <option
             value=""
@@ -18709,10 +19473,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1pbm61i-1 ktxEoc"
+          className="Select__Accessory-euw34d-1 gTcPUp"
         >
           <svg
-            className="Select__Chevron-s1pbm61i-2 wSvUf"
+            className="Select__Chevron-euw34d-2 bgkxUJ"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -18748,7 +19512,7 @@ exports[`Storyshots Switch Basic 1`] = `
         className="Container-j48z18-0 htUAcB"
       >
         <div
-          className="Box-s15t6sxk-0 llhNse"
+          className="Box-s1c7qjo5-0 eiffIw"
         >
           <p
             className="Paragraph-s14fatmx-0 jwJiHK"
@@ -18836,7 +19600,7 @@ exports[`Storyshots Switch Basic 1`] = `
           </div>
         </div>
         <div
-          className="Box-s15t6sxk-0 llhNse"
+          className="Box-s1c7qjo5-0 eiffIw"
         >
           <p
             className="Paragraph-s14fatmx-0 jwJiHK"
@@ -21365,41 +22129,41 @@ exports[`Storyshots Text Basic 1`] = `
         className="Container-j48z18-0 htUAcB"
       >
         <span
-          className="Text-qb0zjq-0 sVcSs"
+          className="Text-s14udbl0-0 fEefOv"
         >
           Basic example
         </span>
         <br />
         <span
-          className="Text-qb0zjq-0 djuPBD"
+          className="Text-s14udbl0-0 caTMLn"
           color="primary"
         >
           Basic example (primary)
         </span>
         <br />
         <span
-          className="Text-qb0zjq-0 dLolKL"
+          className="Text-s14udbl0-0 elFyqG"
           color="secondary"
         >
           Basic example (secondary)
         </span>
         <br />
         <span
-          className="Text-qb0zjq-0 eXewbI"
+          className="Text-s14udbl0-0 dPbJXX"
           color="success"
         >
           Basic example (success)
         </span>
         <br />
         <span
-          className="Text-qb0zjq-0 kOSxeX"
+          className="Text-s14udbl0-0 faOBeQ"
           color="danger"
         >
           Basic example (danger)
         </span>
         <br />
         <span
-          className="Text-qb0zjq-0 huPhGO"
+          className="Text-s14udbl0-0 kSJujU"
           color="muted"
         >
           Basic example (muted)
@@ -22453,7 +23217,7 @@ exports[`Storyshots Text Basic 1`] = `
                       color
                     </td>
                     <td>
-                      other
+                      string
                     </td>
                     <td>
                       no
@@ -22497,27 +23261,27 @@ exports[`Storyshots Text Weights 1`] = `
     className="Container-j48z18-0 htUAcB"
   >
     <span
-      className="Text-qb0zjq-0 jytScc"
+      className="Text-s14udbl0-0 fsUGAH"
     >
       Basic example
     </span>
     <br />
     <span
-      className="Text-qb0zjq-0 CapIs"
+      className="Text-s14udbl0-0 cjdsFr"
     >
       Basic example
     </span>
     <br />
     <br />
     <span
-      className="Text-qb0zjq-0 hbdCGN"
+      className="Text-s14udbl0-0 eQwzEW"
       color="primary"
     >
       Basic example (primary)
     </span>
     <br />
     <span
-      className="Text-qb0zjq-0 dyvFfQ"
+      className="Text-s14udbl0-0 eVzHnO"
       color="primary"
     >
       Basic example (primary)
@@ -22525,14 +23289,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="Text-qb0zjq-0 jybfJT"
+      className="Text-s14udbl0-0 omMWE"
       color="secondary"
     >
       Basic example (secondary)
     </span>
     <br />
     <span
-      className="Text-qb0zjq-0 iEeOHB"
+      className="Text-s14udbl0-0 icuQXv"
       color="secondary"
     >
       Basic example (secondary)
@@ -22540,14 +23304,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="Text-qb0zjq-0 dptOeK"
+      className="Text-s14udbl0-0 DPJJD"
       color="success"
     >
       Basic example (success)
     </span>
     <br />
     <span
-      className="Text-qb0zjq-0 hLZMsB"
+      className="Text-s14udbl0-0 fZtAUk"
       color="success"
     >
       Basic example (success)
@@ -22555,14 +23319,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="Text-qb0zjq-0 faiSIu"
+      className="Text-s14udbl0-0 ipgdPB"
       color="danger"
     >
       Basic example (danger)
     </span>
     <br />
     <span
-      className="Text-qb0zjq-0 byiPRg"
+      className="Text-s14udbl0-0 fXlBTO"
       color="danger"
     >
       Basic example (danger)
@@ -22570,14 +23334,14 @@ exports[`Storyshots Text Weights 1`] = `
     <br />
     <br />
     <span
-      className="Text-qb0zjq-0 iVYsxi"
+      className="Text-s14udbl0-0 gSrlBb"
       color="muted"
     >
       Basic example (muted)
     </span>
     <br />
     <span
-      className="Text-qb0zjq-0 xwEzC"
+      className="Text-s14udbl0-0 eRwcuD"
       color="muted"
     >
       Basic example (muted)

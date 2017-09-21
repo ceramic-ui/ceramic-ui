@@ -16,6 +16,7 @@ storiesOf("ProgressBar", module).add(
         <ProgressBar appearance="secondary" value={value} />
         <ProgressBar appearance="danger" value={value} />
         <ProgressBar appearance="success" value={value} />
+        <ProgressBar appearance="black" value={value} />
       </Container>
     );
   })

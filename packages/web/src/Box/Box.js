@@ -2,6 +2,7 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 
 import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
+import { resolveColor } from "../colors";
 
 const defaultColor = "transparent";
 
@@ -14,7 +15,7 @@ const Box = styled.div`
     ${!props.disableGutter && `padding: ${props.theme.spacingBase()}`};
     ${!props.disableBorder &&
       `border: ${props.theme.borderWidth()} solid ${props.theme.borderColor}`};
-      background-color: ${props.theme[props.background] || defaultColor};
+      background-color: ${resolveColor(props, "background") || defaultColor};
       border-radius: ${props.theme.borderRadius()};
     `};
 `;

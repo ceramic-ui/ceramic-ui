@@ -15,7 +15,7 @@ const Input = styled.input`
   border: ${props => props.theme.borderWidth()} solid currentColor;
   border-radius: ${props => props.theme.borderRadius()};
   touch-action: manipulation;
-  background-color: ${props => props.theme.white};
+  background-color: ${props => props.theme.brandLight};
   color: inherit;
   ${props => !!props.valid && `color: ${props.theme.brandSuccess}`};
   ${props => !!props.invalid && `color: ${props.theme.brandDanger}`};

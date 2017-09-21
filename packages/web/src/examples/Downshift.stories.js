@@ -13,8 +13,8 @@ const DownButton = Button.extend`
   text-align: left;
   text-transform: none;
   &[data-focused] {
-    background-color: ${props => darken(props.theme.white, 5)};
-    border-color: ${props => darken(props.theme.white, 5)};
+    background-color: ${props => darken(props.theme.brandLight, 5)};
+    border-color: ${props => darken(props.theme.brandLight, 5)};
   }
 `;
 

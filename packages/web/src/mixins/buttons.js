@@ -1,22 +1,27 @@
 import PropTypes from "prop-types";
 import { css } from "styled-components";
 
-import { darken } from "../colors";
+import { darken, resolveColor } from "../colors";
 
-export const brandMixin = colorName => css`
-  border: ${props =>
-    `${props.theme.borderWidth()} solid ${props.theme[colorName]}`};
-  box-shadow: 0 2px 4px 0 ${props => props.theme.dropShadow}};
-  background-color: ${props => props.theme[colorName]};
-  &,
-  &:visited {
-    color: ${props => props.theme.white};
-  }
-  &:hover,
-  &:focus {
-    background-color: ${props => darken(props.theme[colorName], 5)};
-    border-color: ${props => darken(props.theme[colorName], 5)};
-  }
+export const brandMixin = css`
+  ${props => {
+    const color = resolveColor(props, "appearance");
+    return `
+      border: ${props.theme.borderWidth()} solid ${color};
+      box-shadow: 0 2px 4px 0 ${props.theme.dropShadow}};
+      background-color: ${color};
+      &,
+      &:visited {
+        color: ${props.theme.brandLight};
+      }
+      &:hover,
+      &:focus {
+        background-color: ${darken(color, 5)};
+        border-color: ${darken(color, 5)};
+      }
+      `;
+  }};
+
   &:active {
     box-shadow: none;
   }
@@ -26,14 +31,14 @@ export const defaultMixin = css`
   border: ${props =>
     `${props.theme.borderWidth()} solid ${props.theme.brandPrimary}`};
   box-shadow: 0 2px 4px 0 ${props => props.theme.dropShadow}};
-  background-color: ${props => props.theme.white};
+  background-color: ${props => props.theme.brandLight};
   &,
   &:visited {
     color: ${props => props.theme.brandPrimary};
   }
   &:hover,
   &:focus {
-    background-color: ${props => darken(props.theme.white, 5)};
+    background-color: ${props => darken(props.theme.brandLight, 5)};
     border-color: ${props => darken(props.theme.brandPrimary, 5)};
   }
   &:active {
@@ -50,7 +55,7 @@ export const darkMixin = css`
   }
   &:hover,
   &:focus {
-    background-color: ${props => darken(props.theme.white, 5)};
+    background-color: ${props => darken(props.theme.brandLight, 5)};
   }
 `;
 
@@ -59,11 +64,11 @@ export const lightMixin = css`
   background-color: transparent;
   &,
   &:visited {
-    color: ${props => props.theme.white};
+    color: ${props => props.theme.brandLight};
   }
   &:hover,
   &:focus {
-    background-color: ${props => darken(props.theme.white, 5)};
+    background-color: ${props => darken(props.theme.brandLight, 5)};
   }
 `;
 
@@ -81,10 +86,10 @@ export const linkMixin = css`
 
 export const appearances = {
   default: defaultMixin,
-  primary: brandMixin("brandPrimary"),
-  secondary: brandMixin("brandSecondary"),
-  success: brandMixin("brandSuccess"),
-  danger: brandMixin("brandDanger"),
+  primary: brandMixin,
+  secondary: brandMixin,
+  success: brandMixin,
+  danger: brandMixin,
   dark: darkMixin,
   light: lightMixin,
   link: linkMixin
@@ -109,7 +114,7 @@ export const buttonMixin = css`
     background-color: ${props => props.theme.brandDisabled};
     border-color: ${props => props.theme.brandDisabled};
     box-shadow: none;
-    color: ${props => props.theme.black};
+    color: ${props => props.theme.brandDark};
     text-decoration: none;
     font-weight: 400;
     cursor: not-allowed;
