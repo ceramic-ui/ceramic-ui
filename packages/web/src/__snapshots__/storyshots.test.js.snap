@@ -152,7 +152,8 @@ exports[`Storyshots Button Basic 1`] = `
           </button>
         </div>
         <p
-          className="Paragraph-s14fatmx-0 jwJiHK"
+          className="Paragraph-s1qmbsem-0 hiwcSy"
+          spacing="smallest"
         >
           Set "Stage background" to dark knob to see light variations
         </p>
@@ -1585,6 +1586,28 @@ exports[`Storyshots Button Basic 1`] = `
                     </td>
                     <td />
                   </tr>
+                  <tr>
+                    <td>
+                      spacing
+                    </td>
+                    <td />
+                    <td />
+                    <td>
+                      <span
+                        style={
+                          Object {
+                            "color": "#22a",
+                            "wordBreak": "break-word",
+                          }
+                        }
+                      >
+                        "
+                        smallest
+                        "
+                      </span>
+                    </td>
+                    <td />
+                  </tr>
                 </tbody>
               </table>
             </div>
@@ -1656,7 +1679,8 @@ exports[`Storyshots Button Block-level 1`] = `
       </button>
     </div>
     <p
-      className="Paragraph-s14fatmx-0 jwJiHK"
+      className="Paragraph-s1qmbsem-0 hiwcSy"
+      spacing="smallest"
     >
       Set "Stage background" to dark knob to see light variations
     </p>
@@ -1733,7 +1757,8 @@ exports[`Storyshots Button Disabled 1`] = `
       </button>
     </div>
     <p
-      className="Paragraph-s14fatmx-0 jwJiHK"
+      className="Paragraph-s1qmbsem-0 hiwcSy"
+      spacing="smallest"
     >
       Set "Stage background" to dark knob to see light variations
     </p>
@@ -2805,12 +2830,14 @@ exports[`Storyshots Callout Basic 1`] = `
             Callout - Primary style
           </h2>
           <p
-            className="Paragraph-s14fatmx-0 jwJiHK"
+            className="Paragraph-s1qmbsem-0 hiwcSy"
+            spacing="smallest"
           >
             This is some example content
           </p>
           <p
-            className="Paragraph-s14fatmx-0 iqjeOy"
+            className="Paragraph-s1qmbsem-0 dGiWwC"
+            spacing="smallest"
           >
             It draws some attention to it relative to surrounding content
           </p>
@@ -2824,12 +2851,14 @@ exports[`Storyshots Callout Basic 1`] = `
             Callout - Primary style
           </h2>
           <p
-            className="Paragraph-s14fatmx-0 jwJiHK"
+            className="Paragraph-s1qmbsem-0 hiwcSy"
+            spacing="smallest"
           >
             This is some example content
           </p>
           <p
-            className="Paragraph-s14fatmx-0 iqjeOy"
+            className="Paragraph-s1qmbsem-0 dGiWwC"
+            spacing="smallest"
           >
             It draws some attention to it relative to surrounding content
           </p>
@@ -2843,12 +2872,14 @@ exports[`Storyshots Callout Basic 1`] = `
             Callout - Danger style
           </h2>
           <p
-            className="Paragraph-s14fatmx-0 jwJiHK"
+            className="Paragraph-s1qmbsem-0 hiwcSy"
+            spacing="smallest"
           >
             This is some example content
           </p>
           <p
-            className="Paragraph-s14fatmx-0 iqjeOy"
+            className="Paragraph-s1qmbsem-0 dGiWwC"
+            spacing="smallest"
           >
             It draws some attention to it relative to surrounding content
           </p>
@@ -2862,12 +2893,14 @@ exports[`Storyshots Callout Basic 1`] = `
             Callout - Success style
           </h2>
           <p
-            className="Paragraph-s14fatmx-0 jwJiHK"
+            className="Paragraph-s1qmbsem-0 hiwcSy"
+            spacing="smallest"
           >
             This is some example content
           </p>
           <p
-            className="Paragraph-s14fatmx-0 iqjeOy"
+            className="Paragraph-s1qmbsem-0 dGiWwC"
+            spacing="smallest"
           >
             It draws some attention to it relative to surrounding content
           </p>
@@ -2881,12 +2914,14 @@ exports[`Storyshots Callout Basic 1`] = `
             Callout - Dark style
           </h2>
           <p
-            className="Paragraph-s14fatmx-0 jwJiHK"
+            className="Paragraph-s1qmbsem-0 hiwcSy"
+            spacing="smallest"
           >
             This is some example content
           </p>
           <p
-            className="Paragraph-s14fatmx-0 iqjeOy"
+            className="Paragraph-s1qmbsem-0 dGiWwC"
+            spacing="smallest"
           >
             It draws some attention to it relative to surrounding content
           </p>
@@ -5037,6 +5072,28 @@ exports[`Storyshots Callout Basic 1`] = `
                     </td>
                     <td>
                       -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      spacing
+                    </td>
+                    <td />
+                    <td />
+                    <td>
+                      <span
+                        style={
+                          Object {
+                            "color": "#22a",
+                            "wordBreak": "break-word",
+                          }
+                        }
+                      >
+                        "
+                        smallest
+                        "
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -8089,7 +8146,8 @@ exports[`Storyshots Flex Basic 1`] = `
             data-flush={undefined}
           >
             <p
-              className="Paragraph-s14fatmx-0 jwJiHK"
+              className="Paragraph-s1qmbsem-0 hiwcSy"
+              spacing="smallest"
             >
               First example
               <br />
@@ -8101,7 +8159,8 @@ exports[`Storyshots Flex Basic 1`] = `
             data-flush={true}
           >
             <p
-              className="Paragraph-s14fatmx-0 jwJiHK"
+              className="Paragraph-s1qmbsem-0 hiwcSy"
+              spacing="smallest"
             >
               Second example
             </p>
@@ -8111,7 +8170,8 @@ exports[`Storyshots Flex Basic 1`] = `
             data-flush={undefined}
           >
             <p
-              className="Paragraph-s14fatmx-0 jwJiHK"
+              className="Paragraph-s1qmbsem-0 hiwcSy"
+              spacing="smallest"
             >
               Third example
             </p>
@@ -8122,7 +8182,8 @@ exports[`Storyshots Flex Basic 1`] = `
             order={-1}
           >
             <p
-              className="Paragraph-s14fatmx-0 jwJiHK"
+              className="Paragraph-s1qmbsem-0 hiwcSy"
+              spacing="smallest"
             >
               Fourth example
             </p>
@@ -8132,7 +8193,8 @@ exports[`Storyshots Flex Basic 1`] = `
             data-flush={undefined}
           >
             <p
-              className="Paragraph-s14fatmx-0 jwJiHK"
+              className="Paragraph-s1qmbsem-0 hiwcSy"
+              spacing="smallest"
             >
               Fifth example
             </p>
@@ -8142,7 +8204,8 @@ exports[`Storyshots Flex Basic 1`] = `
             data-flush={undefined}
           >
             <p
-              className="Paragraph-s14fatmx-0 jwJiHK"
+              className="Paragraph-s1qmbsem-0 hiwcSy"
+              spacing="smallest"
             >
               Sixth example
             </p>
@@ -8152,7 +8215,8 @@ exports[`Storyshots Flex Basic 1`] = `
             data-flush={undefined}
           >
             <p
-              className="Paragraph-s14fatmx-0 jwJiHK"
+              className="Paragraph-s1qmbsem-0 hiwcSy"
+              spacing="smallest"
             >
               Seventh example
             </p>
@@ -9907,6 +9971,28 @@ exports[`Storyshots Flex Basic 1`] = `
                     </td>
                     <td>
                       -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      spacing
+                    </td>
+                    <td />
+                    <td />
+                    <td>
+                      <span
+                        style={
+                          Object {
+                            "color": "#22a",
+                            "wordBreak": "break-word",
+                          }
+                        }
+                      >
+                        "
+                        smallest
+                        "
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -15058,17 +15144,20 @@ exports[`Storyshots Paragraph Basic 1`] = `
     >
       <div>
         <p
-          className="Paragraph-s14fatmx-0 jwJiHK"
+          className="Paragraph-s1qmbsem-0 hiwcSy"
+          spacing="smallest"
         >
           This is sample text in a paragraph
         </p>
         <p
-          className="Paragraph-s14fatmx-0 iqjeOy"
+          className="Paragraph-s1qmbsem-0 dGiWwC"
+          spacing="smallest"
         >
           This is a flush paragraph that has no margin
         </p>
         <p
-          className="Paragraph-s14fatmx-0 jwJiHK"
+          className="Paragraph-s1qmbsem-0 hiwcSy"
+          spacing="smallest"
         >
           This is another paragraph
         </p>
@@ -15571,6 +15660,28 @@ exports[`Storyshots Paragraph Basic 1`] = `
                     </td>
                     <td>
                       -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      spacing
+                    </td>
+                    <td />
+                    <td />
+                    <td>
+                      <span
+                        style={
+                          Object {
+                            "color": "#22a",
+                            "wordBreak": "break-word",
+                          }
+                        }
+                      >
+                        "
+                        smallest
+                        "
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -19515,7 +19626,8 @@ exports[`Storyshots Switch Basic 1`] = `
           className="Box-s1c7qjo5-0 eiffIw"
         >
           <p
-            className="Paragraph-s14fatmx-0 jwJiHK"
+            className="Paragraph-s1qmbsem-0 hiwcSy"
+            spacing="smallest"
           >
             As a checkbox
           </p>
@@ -19603,7 +19715,8 @@ exports[`Storyshots Switch Basic 1`] = `
           className="Box-s1c7qjo5-0 eiffIw"
         >
           <p
-            className="Paragraph-s14fatmx-0 jwJiHK"
+            className="Paragraph-s1qmbsem-0 hiwcSy"
+            spacing="smallest"
           >
             As a radio
           </p>
@@ -21751,6 +21864,28 @@ exports[`Storyshots Switch Basic 1`] = `
                     </td>
                     <td>
                       -
+                    </td>
+                    <td />
+                  </tr>
+                  <tr>
+                    <td>
+                      spacing
+                    </td>
+                    <td />
+                    <td />
+                    <td>
+                      <span
+                        style={
+                          Object {
+                            "color": "#22a",
+                            "wordBreak": "break-word",
+                          }
+                        }
+                      >
+                        "
+                        smallest
+                        "
+                      </span>
                     </td>
                     <td />
                   </tr>
