@@ -91,8 +91,7 @@ export const appearances = {
 };
 
 export const buttonMixin = css`
-  box-sizing: border-box;
-  padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
+  padding: ${props => props.theme.spacingSmallest()};
   border-radius: ${props => props.theme.borderRadius()};
   font-size: 1rem;
   font-weight: 500;
@@ -100,6 +99,7 @@ export const buttonMixin = css`
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
+  line-height: inherit;
   &:focus {
     outline: 2px solid ${props => props.theme.focusColor};
     outline-offset: 2px;

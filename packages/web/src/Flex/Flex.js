@@ -1,8 +1,7 @@
-import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
+import { spacingPropTypes } from "../mixins/spacing";
 
 export const Item = styled.div.attrs({
   "data-flush": props => (props.flush ? true : undefined)

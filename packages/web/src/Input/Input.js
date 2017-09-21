@@ -1,17 +1,17 @@
-import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
 const Input = styled.input`
-  box-sizing: border-box;
   width: ${props => (props.inline ? "auto" : "100%")};
   display: ${props => (props.inline ? "inline-block" : "block")};
-  padding: ${prop => `${prop.theme.paddingY()} ${prop.theme.paddingX()}`};
+  padding: ${prop => prop.theme.spacingSmallest()};
   margin-top: 0;
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
   font-size: ${props => props.theme.fontSize()};
+  line-height: inherit;
+  box-sizing: border-box;
   border: ${props => props.theme.borderWidth()} solid currentColor;
   border-radius: ${props => props.theme.borderRadius()};
   touch-action: manipulation;

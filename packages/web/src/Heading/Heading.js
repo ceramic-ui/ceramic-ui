@@ -5,7 +5,7 @@ import styled from "styled-components";
 import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
 export const Heading1 = styled.h1`
-  ${props => spacingMixin};
+  ${spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 2.074)};
   line-height: 1.25;
@@ -13,7 +13,7 @@ export const Heading1 = styled.h1`
 Heading1.displayName = "Heading1";
 
 export const Heading2 = styled.h2`
-  ${props => spacingMixin};
+  ${spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.728)};
   line-height: 1.25;
@@ -21,7 +21,7 @@ export const Heading2 = styled.h2`
 Heading2.displayName = "Heading2";
 
 export const Heading3 = styled.h3`
-  ${props => spacingMixin};
+  ${spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.44)};
   line-height: 1.25;
@@ -29,7 +29,7 @@ export const Heading3 = styled.h3`
 Heading3.displayName = "Heading3";
 
 export const Heading4 = styled.h4`
-  ${props => spacingMixin};
+  ${spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 1.2)};
   line-height: 1.25;
@@ -37,14 +37,14 @@ export const Heading4 = styled.h4`
 Heading4.displayName = "Heading4";
 
 export const Heading5 = styled.h5`
-  ${props => spacingMixin};
+  ${spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize()};
 `;
 Heading5.displayName = "Heading5";
 
 export const Heading6 = styled.h6`
-  ${props => spacingMixin};
+  ${spacingMixin};
   font-family: ${props => props.theme.headingFontFamily};
   font-size: ${props => props.theme.fontSize(s => s * 0.833)};
 `;

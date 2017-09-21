@@ -2,7 +2,6 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
-import P from "../Paragraph";
 import Container from "./Container";
 
 storiesOf("Container", module).add(

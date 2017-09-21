@@ -1,5 +1,3 @@
-import React from "react";
-import PropTypes from "prop-types";
 import styled from "styled-components";
 
 const Error = styled.p`
@@ -7,6 +5,5 @@ const Error = styled.p`
   color: ${props => props.theme.brandDanger};
 `;
 Error.displayName = "Error";
-Error.propTypes = {};
 
 export default Error;

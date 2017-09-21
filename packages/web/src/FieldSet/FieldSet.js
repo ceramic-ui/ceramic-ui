@@ -1,10 +1,6 @@
-import React from "react";
-import PropTypes from "prop-types";
-import styled from "styled-components";
+import Box from "../Box";
 
-import Card from "../Card";
-
-const FieldSet = Card.withComponent("fieldset");
+const FieldSet = Box.withComponent("fieldset");
 FieldSet.displayName = "FieldSet";
 
 export default FieldSet;

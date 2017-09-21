@@ -6,6 +6,7 @@ export const Option = props => <option {...props} />;
 export const OptionGroup = props => <optgroup {...props} />;
 
 const Container = styled.div`
+  box-sizing: border-box;
   border: ${props => props.theme.borderWidth()} solid currentColor;
   border-radius: ${props => props.theme.borderRadius()};
   background-color: ${props =>
@@ -21,9 +22,8 @@ const Container = styled.div`
 Container.displayName = "Select.Container";
 
 const Accessory = styled.div`
-  width: ${props => props.theme.paddingX(s => s * 2)};
+  width: ${props => props.theme.spacingSmallest(s => s * 4)};
   display: inline-block;
-  margin-left: ${props => props.theme.paddingX(s => -2 * s)};
   text-align: center;
 `;
 Accessory.displayName = "Select.Accessory";
@@ -43,8 +43,9 @@ const ChevronSVG = ({ className }) => (
 );
 
 const Chevron = styled(ChevronSVG)`
-  width: ${props => props.theme.paddingX()};
-  height: ${props => props.theme.paddingY()};
+  width: 1em;
+  height: 1em;
+  font-size: ${props => props.theme.fontSize()};
   display: block;
   margin: 0 auto;
 `;
@@ -58,8 +59,9 @@ const Control = styled.select`
   border: none;
   border-radius: 0;
   color: currentColor;
-  ${props => `padding: ${props.theme.paddingY()} ${props.theme.paddingX()}`};
-  padding-right: ${props => props.theme.paddingX(s => s * 2)};
+  ${props =>
+    `padding: ${props.theme.spacingSmallest()} ${props.theme.spacingSmallest()}`};
+  padding-right: ${props => props.theme.spacingSmallest()};
   font-size: ${props => props.theme.fontSize()};
   line-height: inherit;
   cursor: pointer;

@@ -19,8 +19,6 @@ const black = "#212529";
 export default {
   fontFamily: systemFontStack,
   headingFontFamily: systemFontStack,
-  paddingX: size(0.625),
-  paddingY: size(0.625),
   borderWidth: size(1, "px"),
   borderRadius: size(3, "px"),
   spacingSmallest: size(0.482),
@@ -29,6 +27,7 @@ export default {
   spacingLarger: size(1.44),
   spacingLargest: size(2.074),
   fontSize: size(1),
+  lineHeight: size(1.5, ""),
   readableWidth: size(38),
   dropShadow: "rgba(0,0,0,0.2)",
   borderColor: "#dee2e6",

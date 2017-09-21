@@ -1,12 +1,11 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import { withInfo } from "@storybook/addon-info";
 import { action } from "@storybook/addon-actions";
 import Downshift from "downshift";
 
 import { darken } from "../colors";
 import Button from "../Button";
-import Card from "../Card";
+import Box from "../Box";
 import Container from "../Container";
 import Input from "../Input";
 
@@ -19,7 +18,7 @@ const DownButton = Button.extend`
   }
 `;
 
-const DownCard = Card.extend`
+const DownBox = Box.extend`
   ${props =>
     props.isOpen &&
     `
@@ -67,9 +66,9 @@ storiesOf("Examples", module).add("Using with downshift", () => (
             isOpen={isOpen}
           />
           {isOpen && (
-            <DownCard isOpen>
+            <DownBox isOpen>
               {renderItems(filterItems(inputValue), childProps)}
-            </DownCard>
+            </DownBox>
           )}
         </Container>
       );

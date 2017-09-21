@@ -2,13 +2,12 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import { lighten } from "../colors";
-
 const Status = styled.div`
   width: ${props => props.theme.fontSize(s => s * 1.4)};
   height: ${props => props.theme.fontSize(s => s * 1.4)};
   margin-right: ${props => props.theme.spacingSmallest()};
   display: inline-block;
+  box-sizing: border-box;
   border: ${props => props.theme.borderWidth()} solid currentColor;
   box-shadow: 0 2px 4px 0 ${props => props.theme.dropShadow};
   border-radius: 100%;

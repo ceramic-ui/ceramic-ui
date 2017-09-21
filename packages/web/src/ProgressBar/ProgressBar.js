@@ -1,4 +1,3 @@
-import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
@@ -20,7 +19,7 @@ const ProgressBar = styled.div.attrs({
   "aria-valuemin": ({ min }) => min,
   "aria-valuemax": ({ max }) => max
 })`
-  ${props => spacingMixin};
+  ${spacingMixin};
   width: 100%;
   height: ${props => props.theme.fontSize()};
   background-color: ${props => props.theme.borderColor};

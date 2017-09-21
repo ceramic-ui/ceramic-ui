@@ -1,8 +1,6 @@
-import React from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
-import { lighten } from "../colors";
 import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
 const calloutMixin = colourName => css`
@@ -12,14 +10,15 @@ const calloutMixin = colourName => css`
 `;
 
 const appearances = {
-  "callout-primary": calloutMixin("brandPrimary"),
-  "callout-danger": calloutMixin("brandDanger"),
-  "callout-success": calloutMixin("brandSuccess")
+  primary: calloutMixin("brandPrimary"),
+  danger: calloutMixin("brandDanger"),
+  success: calloutMixin("brandSuccess")
 };
 
-const Card = styled.div`
-  ${props => spacingMixin};
-  padding: ${props => props.theme.paddingY()} ${props => props.theme.paddingX()};
+const Callout = styled.div`
+  ${spacingMixin};
+  padding: ${props => props.theme.spacingBase()};
+  box-sizing: border-box;
   border: ${props =>
     `${props.theme.borderWidth()} solid ${props.theme.borderColor}`};
   border-radius: ${props => props.theme.borderRadius()};
@@ -27,10 +26,10 @@ const Card = styled.div`
 
   ${props => appearances[props.appearance]};
 `;
-Card.displayName = "Card";
-Card.propTypes = {
-  appearance: PropTypes.oneOf(Object.keys(appearances)),
+Callout.displayName = "Callout";
+Callout.propTypes = {
+  appearance: PropTypes.oneOf(Object.keys(appearances)).isRequired,
   ...spacingPropTypes
 };
 
-export default Card;
+export default Callout;

@@ -2,34 +2,35 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
-import P from "../Paragraph";
-import Card from "../Card";
+import Box from "../Box";
 import Container from "../Container";
+import Field from "../Field";
+import P from "../Paragraph";
 import Switch from "./Switch";
 
 storiesOf("Switch", module).add(
   "Basic",
   withInfo()(() => (
     <Container>
-      <Card>
+      <Box>
         <P>As a checkbox</P>
-        <Container>
+        <Field>
           <Switch id="example" name="check1" type="checkbox">
             This can be toggled
           </Switch>
-        </Container>
-        <Container>
+        </Field>
+        <Field>
           <Switch id="example2" name="check1" type="checkbox">
             So can this one
           </Switch>
-        </Container>
-        <Container>
+        </Field>
+        <Field flush>
           <Switch id="example3" name="check1" type="checkbox" disabled>
             But this one is disabled
           </Switch>
-        </Container>
-      </Card>
-      <Card>
+        </Field>
+      </Box>
+      <Box>
         <P>As a radio</P>
         <Container>
           <Switch id="example4" name="radio1" type="radio">
@@ -46,7 +47,7 @@ storiesOf("Switch", module).add(
             But this one is disabled
           </Switch>
         </Container>
-      </Card>
+      </Box>
     </Container>
   ))
 );

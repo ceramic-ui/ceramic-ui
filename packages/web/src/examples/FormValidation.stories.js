@@ -51,7 +51,7 @@ class App extends React.Component {
       }
     });
   }
-  handleReset(e) {
+  handleReset() {
     this.setState({ edited: false, form: this.initialForm });
   }
   handleSubmit(e) {

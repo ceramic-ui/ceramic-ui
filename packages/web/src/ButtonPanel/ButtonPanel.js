@@ -1,4 +1,3 @@
-import React from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
@@ -31,11 +30,12 @@ const margins = {
 };
 
 const ButtonPanel = styled.div`
+  ${spacingMixin};
+
   display: ${props => (props.justifyContent ? "flex" : "block")};
   flex-direction: column;
   justify-content: ${props => props.justifyContent};
   align-items: center;
-  ${props => spacingMixin};
 
   ${maxWidth.medium`
     & > * { width: 100%; margin-bottom: ${props => props.theme.spacingBase()}; }

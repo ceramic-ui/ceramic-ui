@@ -1,8 +1,7 @@
-import React from "react";
 import PropTypes from "prop-types";
 import styled, { css } from "styled-components";
 
-import { appearances, buttonMixin, buttonPropTypes } from "../mixins/buttons";
+import { buttonMixin, buttonPropTypes } from "../mixins/buttons";
 import { blockMixin, blockPropTypes } from "../mixins/spacing";
 
 const linkMixin = css`
@@ -20,7 +19,7 @@ const linkMixin = css`
 
 const Link = styled.a`
   ${props => (props.appearance ? buttonMixin : linkMixin)};
-  ${props => blockMixin};
+  ${blockMixin};
 `;
 Link.displayName = "Link";
 Link.propTypes = {

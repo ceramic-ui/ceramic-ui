@@ -1,5 +1,3 @@
-import React from "react";
-import PropTypes from "prop-types";
 import styled from "styled-components";
 
 const Label = styled.label`
@@ -9,6 +7,5 @@ const Label = styled.label`
   color: ${props => props.theme.textColor};
 `;
 Label.displayName = "Label";
-Label.propTypes = {};
 
 export default Label;

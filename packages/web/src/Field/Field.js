@@ -1,11 +1,10 @@
-import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
 import { spacingMixin, spacingPropTypes } from "../mixins/spacing";
 
 const Field = styled.div`
-  ${props => spacingMixin};
+  ${spacingMixin};
   ${props => !!props.valid && `color: ${props.theme.brandSuccess}`};
   ${props => !!props.invalid && `color: ${props.theme.brandDanger}`};
   > * {
