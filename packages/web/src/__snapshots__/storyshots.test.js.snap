@@ -5,10 +5,10 @@ exports[`Storyshots Box Backgrounds 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 htUAcB"
+    className="Container-j48z18-0 dNtKMy"
   >
     <div
-      className="Box-s1c7qjo5-0 eYjEYO"
+      className="Box-s1c7qjo5-0 cJOikH"
     >
       With 
       <code>
@@ -16,7 +16,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 hlXjcO"
+      className="Box-s1c7qjo5-0 jEOcBg"
     >
       With 
       <code>
@@ -24,7 +24,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 kTFeyf"
+      className="Box-s1c7qjo5-0 jPmOWW"
     >
       With 
       <code>
@@ -32,7 +32,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 cduWFV"
+      className="Box-s1c7qjo5-0 htcLMn"
     >
       With 
       <code>
@@ -40,7 +40,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 eIZfPY"
+      className="Box-s1c7qjo5-0 bqUsDu"
     >
       With 
       <code>
@@ -56,15 +56,15 @@ exports[`Storyshots Box Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 htUAcB"
+    className="Container-j48z18-0 dNtKMy"
   >
     <div
-      className="Box-s1c7qjo5-0 eiffIw"
+      className="Box-s1c7qjo5-0 jicxdx"
     >
       Basic example
     </div>
     <div
-      className="Box-s1c7qjo5-0 izXQYu"
+      className="Box-s1c7qjo5-0 dmvKNm"
     >
       With 
       <code>
@@ -72,7 +72,7 @@ exports[`Storyshots Box Basic 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 dZxbaK"
+      className="Box-s1c7qjo5-0 cRzeFe"
     >
       With 
       <code>
@@ -100,7 +100,7 @@ exports[`Storyshots Button Basic 1`] = `
         className="Container-j48z18-0 bFqOuv"
       >
         <div
-          className="ButtonPanel-ovkzl-0 llzGya"
+          className="ButtonPanel-ovkzl-0 ejpSHT"
         >
           <button
             className="Button-s1srdffo-0 hUxorT"
@@ -1627,52 +1627,52 @@ exports[`Storyshots Button Block-level 1`] = `
     className="Container-j48z18-0 bFqOuv"
   >
     <div
-      className="ButtonPanel-ovkzl-0 llzGya"
+      className="ButtonPanel-ovkzl-0 ejpSHT"
     >
       <button
-        className="Button-s1srdffo-0 pdTWb"
+        className="Button-s1srdffo-0 fKKYbd"
         type="button"
       >
         Default
       </button>
       <button
-        className="Button-s1srdffo-0 cBJoRZ"
+        className="Button-s1srdffo-0 gsTopv"
         type="button"
       >
         Primary
       </button>
       <button
-        className="Button-s1srdffo-0 eghIyR"
+        className="Button-s1srdffo-0 lyhkl"
         type="button"
       >
         Secondary
       </button>
       <button
-        className="Button-s1srdffo-0 hBQfFZ"
+        className="Button-s1srdffo-0 csdKDi"
         type="button"
       >
         Success
       </button>
       <button
-        className="Button-s1srdffo-0 ehVjDo"
+        className="Button-s1srdffo-0 dHNYyx"
         type="button"
       >
         Danger
       </button>
       <button
-        className="Button-s1srdffo-0 dWBSJQ"
+        className="Button-s1srdffo-0 emXGXy"
         type="button"
       >
         Light
       </button>
       <button
-        className="Button-s1srdffo-0 ceXFLt"
+        className="Button-s1srdffo-0 jwUWVU"
         type="button"
       >
         Dark
       </button>
       <button
-        className="Button-s1srdffo-0 iESYfM"
+        className="Button-s1srdffo-0 dcTAcy"
         type="button"
       >
         Link
@@ -1696,7 +1696,7 @@ exports[`Storyshots Button Disabled 1`] = `
     className="Container-j48z18-0 bFqOuv"
   >
     <div
-      className="ButtonPanel-ovkzl-0 llzGya"
+      className="ButtonPanel-ovkzl-0 ejpSHT"
     >
       <button
         className="Button-s1srdffo-0 hUxorT"
@@ -1780,7 +1780,7 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
       }
     >
       <div
-        className="ButtonPanel-ovkzl-0 fpTkpB"
+        className="ButtonPanel-ovkzl-0 hQjWpQ"
       >
         <button
           className="Button-s1srdffo-0 hUxorT"
@@ -2819,13 +2819,13 @@ exports[`Storyshots Callout Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 gTCrFR"
+        className="Container-j48z18-0 kInJPc"
       >
         <div
-          className="Callout-mttm4f-0 cjZjiw"
+          className="Callout-mttm4f-0 ZhdNC"
         >
           <h2
-            className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+            className="Heading__Heading2-s1dfzcz4-1 kizYdH"
           >
             Callout - Primary style
           </h2>
@@ -2843,10 +2843,10 @@ exports[`Storyshots Callout Basic 1`] = `
           </p>
         </div>
         <div
-          className="Callout-mttm4f-0 ciiRGt"
+          className="Callout-mttm4f-0 hKbcnT"
         >
           <h2
-            className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+            className="Heading__Heading2-s1dfzcz4-1 kizYdH"
           >
             Callout - Primary style
           </h2>
@@ -2864,10 +2864,10 @@ exports[`Storyshots Callout Basic 1`] = `
           </p>
         </div>
         <div
-          className="Callout-mttm4f-0 errkXl"
+          className="Callout-mttm4f-0 WuoUl"
         >
           <h2
-            className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+            className="Heading__Heading2-s1dfzcz4-1 kizYdH"
           >
             Callout - Danger style
           </h2>
@@ -2885,10 +2885,10 @@ exports[`Storyshots Callout Basic 1`] = `
           </p>
         </div>
         <div
-          className="Callout-mttm4f-0 fzfdHp"
+          className="Callout-mttm4f-0 dHRhPe"
         >
           <h2
-            className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+            className="Heading__Heading2-s1dfzcz4-1 kizYdH"
           >
             Callout - Success style
           </h2>
@@ -2906,10 +2906,10 @@ exports[`Storyshots Callout Basic 1`] = `
           </p>
         </div>
         <div
-          className="Callout-mttm4f-0 xPFjl"
+          className="Callout-mttm4f-0 bqAedm"
         >
           <h2
-            className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+            className="Heading__Heading2-s1dfzcz4-1 kizYdH"
           >
             Callout - Dark style
           </h2>
@@ -5123,17 +5123,17 @@ exports[`Storyshots Container Basic 1`] = `
     >
       <div>
         <div
-          className="Container-j48z18-0 htUAcB"
+          className="Container-j48z18-0 dNtKMy"
         >
           Hello Container 1
         </div>
         <div
-          className="Container-j48z18-0 htUAcB"
+          className="Container-j48z18-0 dNtKMy"
         >
           Hello Container 2
         </div>
         <div
-          className="Container-j48z18-0 jXCJT"
+          className="Container-j48z18-0 eCwBnd"
         >
           This container has its width limited for readability on tablet and larger screens. On mobile screens, it still takes up 100% width. Try resizing your window to see the effect.
         </div>
@@ -5963,31 +5963,31 @@ exports[`Storyshots Examples Form Validation 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 bkaSvr"
+        className="Container-j48z18-0 FtTuT"
       >
         <form
           className="Form-s152rqk0-0 jCBAIU"
           onSubmit={[Function]}
         >
           <fieldset
-            className="Box-s1c7qjo5-0-fieldset fdZxqh"
+            className="Box-s1c7qjo5-0-fieldset gCfFWk"
           >
             <div
-              className="Flex-s1q8d755-1 faTcBz"
+              className="Flex-s1q8d755-1 gsXFbh"
             >
               <div
                 className="Flex__Item-s1q8d755-0 fVdOjE"
                 data-flush={undefined}
               >
                 <legend
-                  className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC jcFJWW"
+                  className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC fHONcX"
                 >
                   Personal information
                 </legend>
               </div>
             </div>
             <div
-              className="Flex-s1q8d755-1 faTcBz"
+              className="Flex-s1q8d755-1 gsXFbh"
             >
               <div
                 className="Flex__Item-s1q8d755-0 kHkiYL"
@@ -6038,17 +6038,17 @@ exports[`Storyshots Examples Form Validation 1`] = `
             </div>
           </fieldset>
           <fieldset
-            className="Box-s1c7qjo5-0-fieldset fdZxqh"
+            className="Box-s1c7qjo5-0-fieldset gCfFWk"
           >
             <div
-              className="Flex-s1q8d755-1 faTcBz"
+              className="Flex-s1q8d755-1 gsXFbh"
             >
               <div
                 className="Flex__Item-s1q8d755-0 fVdOjE"
                 data-flush={undefined}
               >
                 <legend
-                  className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC jcFJWW"
+                  className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC fHONcX"
                 >
                   Billing address
                 </legend>
@@ -6074,7 +6074,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
               />
             </div>
             <div
-              className="Field-w8gztl-0 dVEzzR"
+              className="Field-w8gztl-0 dOdphz"
             >
               <input
                 aria-describedby="addressLine2Errors"
@@ -6086,14 +6086,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
               />
             </div>
             <div
-              className="Flex-s1q8d755-1 faTcBz"
+              className="Flex-s1q8d755-1 gsXFbh"
             >
               <div
                 className="Flex__Item-s1q8d755-0 kHkiYL"
                 data-flush={undefined}
               >
                 <div
-                  className="Field-w8gztl-0 dVEzzR"
+                  className="Field-w8gztl-0 dOdphz"
                 >
                   <label
                     className="Label-s13jfhe8-0 cVjxDI"
@@ -6116,7 +6116,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
                 data-flush={undefined}
               >
                 <div
-                  className="Field-w8gztl-0 dVEzzR"
+                  className="Field-w8gztl-0 dOdphz"
                 >
                   <label
                     className="Label-s13jfhe8-0 cVjxDI"
@@ -6155,7 +6155,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             </div>
           </fieldset>
           <div
-            className="Field-w8gztl-0 dVEzzR"
+            className="Field-w8gztl-0 dOdphz"
           >
             <div
               className="Switch__Container-s1qdbane-3 dTqXkj"
@@ -6183,7 +6183,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             </div>
           </div>
           <div
-            className="ButtonPanel-ovkzl-0 eKgZQa"
+            className="ButtonPanel-ovkzl-0 jOmgch"
           >
             <button
               className="Button-s1srdffo-0 hFNdAJ"
@@ -6419,7 +6419,7 @@ exports[`Storyshots Examples Using with downshift 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 jXCJT"
+    className="Container-j48z18-0 eCwBnd"
     onClick={[Function]}
   >
     <input
@@ -6454,10 +6454,10 @@ exports[`Storyshots Field Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 jXCJT"
+        className="Container-j48z18-0 eCwBnd"
       >
         <div
-          className="Field-w8gztl-0 cExjvO"
+          className="Field-w8gztl-0 rOvtQ"
         >
           <div>
             <label
@@ -6487,7 +6487,7 @@ exports[`Storyshots Field Basic 1`] = `
           </p>
         </div>
         <div
-          className="Field-w8gztl-0 hwNWPu"
+          className="Field-w8gztl-0 brSsWP"
         >
           <label
             className="Label-s13jfhe8-0 cVjxDI"
@@ -7766,7 +7766,7 @@ exports[`Storyshots FieldSet Basic 1`] = `
       }
     >
       <fieldset
-        className="Box-s1c7qjo5-0-fieldset fdZxqh"
+        className="Box-s1c7qjo5-0-fieldset gCfFWk"
       >
         Basic example
       </fieldset>
@@ -8134,10 +8134,10 @@ exports[`Storyshots Flex Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 bkaSvr"
+        className="Container-j48z18-0 FtTuT"
       >
         <div
-          className="Flex-s1q8d755-1 inEezs"
+          className="Flex-s1q8d755-1 juJjjy"
           direction="row"
           wrap="wrap"
         >
@@ -10291,32 +10291,32 @@ exports[`Storyshots Heading Basic 1`] = `
     >
       <div>
         <h1
-          className="Heading__Heading1-s1dfzcz4-0 iISGUr"
+          className="Heading__Heading1-s1dfzcz4-0 gpmoUp"
         >
           The quick brown fox jumps over the lazy dog
         </h1>
         <h2
-          className="Heading__Heading2-s1dfzcz4-1 kXbCBR"
+          className="Heading__Heading2-s1dfzcz4-1 kizYdH"
         >
           The quick brown fox jumps over the lazy dog
         </h2>
         <h3
-          className="Heading__Heading3-s1dfzcz4-2 LJFT"
+          className="Heading__Heading3-s1dfzcz4-2 dNQuKf"
         >
           The quick brown fox jumps over the lazy dog
         </h3>
         <h4
-          className="Heading__Heading4-s1dfzcz4-3 hEWgUb"
+          className="Heading__Heading4-s1dfzcz4-3 cMUzaM"
         >
           The quick brown fox jumps over the lazy dog
         </h4>
         <h5
-          className="Heading__Heading5-s1dfzcz4-4 clFzEG"
+          className="Heading__Heading5-s1dfzcz4-4 fLokKf"
         >
           The quick brown fox jumps over the lazy dog
         </h5>
         <h6
-          className="Heading__Heading6-s1dfzcz4-5 hmeiFx"
+          className="Heading__Heading6-s1dfzcz4-5 fhvBsk"
         >
           The quick brown fox jumps over the lazy dog
         </h6>
@@ -11209,7 +11209,7 @@ exports[`Storyshots Input Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 jXCJT"
+        className="Container-j48z18-0 eCwBnd"
       >
         <input
           className="Input-s1j0sozl-0 kXoTHM"
@@ -11655,7 +11655,7 @@ exports[`Storyshots Input Disabled 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 jXCJT"
+      className="Container-j48z18-0 eCwBnd"
     >
       <input
         className="Input-s1j0sozl-0 hkqqXQ"
@@ -11664,7 +11664,7 @@ exports[`Storyshots Input Disabled 1`] = `
       />
     </div>
     <div
-      className="j48z18-0-Container-klzlrk demiI"
+      className="j48z18-0-Container-klzlrk dEbckB"
     >
       <input
         className="Input-s1j0sozl-0 knlRKb"
@@ -11693,7 +11693,7 @@ exports[`Storyshots Input Inline 1`] = `
       }
     >
       <div
-        className="j48z18-0-Container-klzlrk demiI"
+        className="j48z18-0-Container-klzlrk dEbckB"
       >
         <input
           className="Input-s1j0sozl-0 exdyCQ"
@@ -12191,7 +12191,7 @@ exports[`Storyshots Input Validation 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 jXCJT"
+      className="Container-j48z18-0 eCwBnd"
     >
       <input
         className="Input-s1j0sozl-0 jRZpZk"
@@ -12199,7 +12199,7 @@ exports[`Storyshots Input Validation 1`] = `
       />
     </div>
     <div
-      className="Container-j48z18-0 jXCJT"
+      className="Container-j48z18-0 eCwBnd"
     >
       <input
         className="Input-s1j0sozl-0 bfuwXq"
@@ -12207,7 +12207,7 @@ exports[`Storyshots Input Validation 1`] = `
       />
     </div>
     <div
-      className="Container-j48z18-0 jXCJT"
+      className="Container-j48z18-0 eCwBnd"
     >
       <input
         className="Input-s1j0sozl-0 kaKCt"
@@ -12502,7 +12502,7 @@ exports[`Storyshots Legend Basic 1`] = `
       }
     >
       <legend
-        className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC jcFJWW"
+        className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC fHONcX"
       >
         Basic example
       </legend>
@@ -12771,7 +12771,7 @@ exports[`Storyshots Link Basic 1`] = `
       }
     >
       <div
-        className="Flex-s1q8d755-1 fYSoRA"
+        className="Flex-s1q8d755-1 hYlKZx"
       >
         <div
           className="Flex__Item-s1q8d755-0 fVdOjE"
@@ -15023,7 +15023,7 @@ exports[`Storyshots Link Block-level 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Flex-s1q8d755-1 ikpGPE"
+    className="Flex-s1q8d755-1 jXszGx"
     direction="column"
   >
     <div
@@ -15031,7 +15031,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 gkeRue"
+        className="Link-s1mfj9j3-0 BqjIt"
         href="#"
       >
         No appearance
@@ -15042,7 +15042,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 jUmijm"
+        className="Link-s1mfj9j3-0 kuvIka"
         href="#"
       >
         Default
@@ -15053,7 +15053,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 jopaZk"
+        className="Link-s1mfj9j3-0 gguRWB"
         href="#"
       >
         Primary
@@ -15064,7 +15064,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 cEVgSx"
+        className="Link-s1mfj9j3-0 dksWnv"
         href="#"
       >
         Secondary
@@ -15075,7 +15075,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 ccxFDC"
+        className="Link-s1mfj9j3-0 hCkinq"
         href="#"
       >
         Success
@@ -15086,7 +15086,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 iMHfpI"
+        className="Link-s1mfj9j3-0 kULvTI"
         href="#"
       >
         Danger
@@ -15097,7 +15097,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 blzsjl"
+        className="Link-s1mfj9j3-0 IbGR"
         href="#"
       >
         Light
@@ -15108,7 +15108,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 cmwhHU"
+        className="Link-s1mfj9j3-0 ckaRKj"
         href="#"
       >
         Dark
@@ -15119,7 +15119,7 @@ exports[`Storyshots Link Block-level 1`] = `
       data-flush={undefined}
     >
       <a
-        className="Link-s1mfj9j3-0 hKOUvV"
+        className="Link-s1mfj9j3-0 kNhoJw"
         href="#"
       >
         Link
@@ -15710,13 +15710,13 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 htUAcB"
+        className="Container-j48z18-0 dNtKMy"
       >
         <div
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-cxqey5-0 dGtlSk"
+          className="ProgressBar-cxqey5-0 FapRJ"
           max={100}
           min={0}
           role="progressbar"
@@ -15726,7 +15726,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-cxqey5-0 gKyUoE"
+          className="ProgressBar-cxqey5-0 heVjpj"
           max={100}
           min={0}
           role="progressbar"
@@ -15736,7 +15736,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-cxqey5-0 hJsltP"
+          className="ProgressBar-cxqey5-0 dXrtOQ"
           max={100}
           min={0}
           role="progressbar"
@@ -15746,7 +15746,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-cxqey5-0 ecvumM"
+          className="ProgressBar-cxqey5-0 hsayfM"
           max={100}
           min={0}
           role="progressbar"
@@ -15756,7 +15756,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
           aria-valuemax={100}
           aria-valuemin={0}
           aria-valuenow={42}
-          className="ProgressBar-cxqey5-0 kCjtUK"
+          className="ProgressBar-cxqey5-0 hCygmx"
           max={100}
           min={0}
           role="progressbar"
@@ -16626,7 +16626,7 @@ exports[`Storyshots Select Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 jXCJT"
+        className="Container-j48z18-0 eCwBnd"
       >
         <div
           className="Select__Container-euw34d-0 fSURji"
@@ -17663,7 +17663,7 @@ exports[`Storyshots Select Disabled 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 jXCJT"
+      className="Container-j48z18-0 eCwBnd"
     >
       <div
         className="Select__Container-euw34d-0 dYBxRi"
@@ -17719,7 +17719,7 @@ exports[`Storyshots Select Disabled 1`] = `
       </div>
     </div>
     <div
-      className="j48z18-0-Container-gATNmD iTTjwX"
+      className="j48z18-0-Container-gATNmD hSjwVg"
     >
       <div
         className="Select__Container-euw34d-0 iZWlcj"
@@ -17844,7 +17844,7 @@ exports[`Storyshots Select Inline 1`] = `
       }
     >
       <div
-        className="j48z18-0-Container-gATNmD iTTjwX"
+        className="j48z18-0-Container-gATNmD hSjwVg"
       >
         <div
           className="Select__Container-euw34d-0 cwkVuY"
@@ -19493,7 +19493,7 @@ exports[`Storyshots Select Validation 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 htUAcB"
+      className="Container-j48z18-0 dNtKMy"
     >
       <div
         className="Select__Container-euw34d-0 kNwxjY"
@@ -19548,7 +19548,7 @@ exports[`Storyshots Select Validation 1`] = `
       </div>
     </div>
     <div
-      className="Container-j48z18-0 htUAcB"
+      className="Container-j48z18-0 dNtKMy"
     >
       <div
         className="Select__Container-euw34d-0 hYINGq"
@@ -19620,10 +19620,10 @@ exports[`Storyshots Switch Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 htUAcB"
+        className="Container-j48z18-0 dNtKMy"
       >
         <div
-          className="Box-s1c7qjo5-0 eiffIw"
+          className="Box-s1c7qjo5-0 jicxdx"
         >
           <p
             className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -19632,7 +19632,7 @@ exports[`Storyshots Switch Basic 1`] = `
             As a checkbox
           </p>
           <div
-            className="Field-w8gztl-0 dVEzzR"
+            className="Field-w8gztl-0 dOdphz"
           >
             <div
               className="Switch__Container-s1qdbane-3 dTqXkj"
@@ -19658,7 +19658,7 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="Field-w8gztl-0 dVEzzR"
+            className="Field-w8gztl-0 dOdphz"
           >
             <div
               className="Switch__Container-s1qdbane-3 dTqXkj"
@@ -19712,7 +19712,7 @@ exports[`Storyshots Switch Basic 1`] = `
           </div>
         </div>
         <div
-          className="Box-s1c7qjo5-0 eiffIw"
+          className="Box-s1c7qjo5-0 jicxdx"
         >
           <p
             className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -19721,7 +19721,7 @@ exports[`Storyshots Switch Basic 1`] = `
             As a radio
           </p>
           <div
-            className="Container-j48z18-0 htUAcB"
+            className="Container-j48z18-0 dNtKMy"
           >
             <div
               className="Switch__Container-s1qdbane-3 dTqXkj"
@@ -19747,7 +19747,7 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="Container-j48z18-0 htUAcB"
+            className="Container-j48z18-0 dNtKMy"
           >
             <div
               className="Switch__Container-s1qdbane-3 dTqXkj"
@@ -19773,7 +19773,7 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="Container-j48z18-0 htUAcB"
+            className="Container-j48z18-0 dNtKMy"
           >
             <div
               className="Switch__Container-s1qdbane-3 dTqXkj"
@@ -22261,7 +22261,7 @@ exports[`Storyshots Text Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 htUAcB"
+        className="Container-j48z18-0 dNtKMy"
       >
         <span
           className="Text-s14udbl0-0 fEefOv"
@@ -23393,7 +23393,7 @@ exports[`Storyshots Text Weights 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 htUAcB"
+    className="Container-j48z18-0 dNtKMy"
   >
     <span
       className="Text-s14udbl0-0 fsUGAH"

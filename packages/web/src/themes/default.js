@@ -23,7 +23,7 @@ export default {
   borderRadius: size(3, "px"),
   spacingSmallest: size(0.482),
   spacingSmaller: size(0.694),
-  spacingBase: size(1.25),
+  spacingBase: size(1),
   spacingLarger: size(1.44),
   spacingLargest: size(2.074),
   fontSize: size(1),
