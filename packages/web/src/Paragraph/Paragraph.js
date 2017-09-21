@@ -7,5 +7,8 @@ Paragraph.displayName = "Paragraph";
 Paragraph.propTypes = {
   ...spacingPropTypes
 };
+Paragraph.defaultProps = {
+  spacing: "smallest"
+};
 
 export default Paragraph;
