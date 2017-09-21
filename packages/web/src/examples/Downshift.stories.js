@@ -66,7 +66,7 @@ storiesOf("Examples", module).add("Using with downshift", () => (
             isOpen={isOpen}
           />
           {isOpen && (
-            <DownBox isOpen>
+            <DownBox disableGutter isOpen>
               {renderItems(filterItems(inputValue), childProps)}
             </DownBox>
           )}
