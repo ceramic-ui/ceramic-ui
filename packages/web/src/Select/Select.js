@@ -16,8 +16,17 @@ const Container = styled.div`
   align-items: center;
   white-space: nowrap;
   position: relative;
-  ${props => !!props.valid && `color: ${props.theme.brandSuccess}`};
-  ${props => !!props.invalid && `color: ${props.theme.brandDanger}`};
+  ${props => {
+    if (props.disabled) {
+      return;
+    }
+    if (props.invalid) {
+      return `color: ${props.theme.brandDanger}`;
+    }
+    if (props.valid) {
+      return `color: ${props.theme.brandSuccess}`;
+    }
+  }};
 `;
 Container.displayName = "Select.Container";
 
