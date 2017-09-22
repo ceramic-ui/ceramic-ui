@@ -2,58 +2,39 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
-import Container from "../Container";
+import Flex, { Item } from "../Flex";
 import Input from "./Input";
 
-const SpacedContainer = Container.extend`
-  > * {
-    margin-right: 8px;
-  }
-`;
-
 storiesOf("Input", module)
-  .add(
-    "Basic",
-    withInfo()(() => (
-      <Container>
-        <Input />
-      </Container>
-    ))
-  )
+  .add("Basic", withInfo()(() => <Input />))
   .add(
     "Inline",
     withInfo()(() => (
-      <SpacedContainer>
-        <Input inline />
-        <Input inline />
-      </SpacedContainer>
+      <Flex>
+        <Item>
+          <Input inline />
+        </Item>
+        <Item>
+          <Input inline />
+        </Item>
+      </Flex>
     ))
   )
-  .add("Disabled", () => (
-    <div>
-      <Container>
-        <Input disabled value="cannot edit me!" />
-      </Container>
-      <SpacedContainer>
-        <Input inline disabled />
-        <Input inline disabled />
-      </SpacedContainer>
-    </div>
-  ))
+  .add("Disabled", () => <Input disabled value="cannot edit me!" />)
   .add("Validation", () => (
-    <div>
-      <Container>
+    <Flex direction="column">
+      <Item>
         <Input valid defaultValue="I am valid" />
-      </Container>
-      <Container>
+      </Item>
+      <Item>
         <Input invalid defaultValue="I am invalid" />
-      </Container>
-      <Container>
+      </Item>
+      <Item>
         <Input
           disabled
           invalid
           defaultValue="I am disabled. Validation not shown."
         />
-      </Container>
-    </div>
+      </Item>
+    </Flex>
   ));

@@ -3,7 +3,6 @@ import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
 import ButtonPanel from "../ButtonPanel";
-import Container from "../Container";
 import P from "../Paragraph";
 import Button from "./Button";
 
@@ -12,7 +11,7 @@ storiesOf("Button", module)
     "Basic",
     withInfo()(() => {
       return (
-        <Container disableGutter flush>
+        <div>
           <ButtonPanel>
             <Button>Default</Button>
             <Button appearance="primary">Primary</Button>
@@ -24,13 +23,13 @@ storiesOf("Button", module)
             <Button appearance="link">Link</Button>
           </ButtonPanel>
           <P>Set "Stage background" to dark knob to see light variations</P>
-        </Container>
+        </div>
       );
     })
   )
   .add("Block-level", () => {
     return (
-      <Container disableGutter flush>
+      <div>
         <ButtonPanel>
           <Button block>Default</Button>
           <Button block appearance="primary">
@@ -56,12 +55,12 @@ storiesOf("Button", module)
           </Button>
         </ButtonPanel>
         <P>Set "Stage background" to dark knob to see light variations</P>
-      </Container>
+      </div>
     );
   })
   .add("Disabled", () => {
     return (
-      <Container disableGutter flush>
+      <div>
         <ButtonPanel>
           <Button disabled>Default</Button>
           <Button disabled appearance="primary">
@@ -87,6 +86,6 @@ storiesOf("Button", module)
           </Button>
         </ButtonPanel>
         <P>Set "Stage background" to dark knob to see light variations</P>
-      </Container>
+      </div>
     );
   });

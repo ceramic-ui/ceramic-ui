@@ -3,7 +3,6 @@ import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
 import Box from "../Box";
-import Container from "../Container";
 import Field from "../Field";
 import P from "../Paragraph";
 import Switch from "./Switch";
@@ -11,7 +10,7 @@ import Switch from "./Switch";
 storiesOf("Switch", module).add(
   "Basic",
   withInfo()(() => (
-    <Container disableGutter>
+    <div>
       <Box>
         <P>As a checkbox</P>
         <Field>
@@ -48,6 +47,6 @@ storiesOf("Switch", module).add(
           </Switch>
         </Field>
       </Box>
-    </Container>
+    </div>
   ))
 );

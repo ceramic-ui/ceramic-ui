@@ -2,14 +2,13 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
-import Container from "../Container";
 import Text from "./Text";
 
 storiesOf("Text", module)
   .add(
     "Basic",
     withInfo()(() => (
-      <Container>
+      <div>
         <Text>Basic example</Text>
         <br />
         <Text color="primary">Basic example (primary)</Text>
@@ -21,11 +20,11 @@ storiesOf("Text", module)
         <Text color="danger">Basic example (danger)</Text>
         <br />
         <Text color="muted">Basic example (muted)</Text>
-      </Container>
+      </div>
     ))
   )
   .add("Weights", () => (
-    <Container>
+    <div>
       <Text weight="normal">Basic example</Text>
       <br />
       <Text weight="bold">Basic example</Text>
@@ -74,5 +73,5 @@ storiesOf("Text", module)
       <Text color="muted" weight="bold">
         Basic example (muted)
       </Text>
-    </Container>
+    </div>
   ));

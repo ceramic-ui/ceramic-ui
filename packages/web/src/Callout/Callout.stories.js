@@ -2,7 +2,6 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 
-import Container from "../Container";
 import H from "../Heading";
 import P from "../Paragraph";
 import Callout from "./Callout";
@@ -10,7 +9,7 @@ import Callout from "./Callout";
 storiesOf("Callout", module).add(
   "Basic",
   withInfo("A is a styled container with various presentation options")(() => (
-    <Container disableGutter>
+    <div>
       <Callout appearance="primary">
         <H level={2}>Callout - Primary style</H>
         <P>This is some example content</P>
@@ -46,6 +45,6 @@ storiesOf("Callout", module).add(
           It draws some attention to it relative to surrounding content
         </P>
       </Callout>
-    </Container>
+    </div>
   ))
 );

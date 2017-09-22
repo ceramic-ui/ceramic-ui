@@ -1,12 +1,11 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
 
-import Container from "../Container";
 import Box from "./Box";
 
 storiesOf("Box", module)
   .add("Basic", () => (
-    <Container>
+    <div>
       <Box>Basic example</Box>
       <Box disableGutter>
         With <code>disableGutter</code>
@@ -14,10 +13,10 @@ storiesOf("Box", module)
       <Box disableBorder>
         With <code>disableBorder</code>
       </Box>
-    </Container>
+    </div>
   ))
   .add("Backgrounds", () => (
-    <Container>
+    <div>
       <Box background="primary">
         With <code>background="primary"</code>
       </Box>
@@ -33,5 +32,5 @@ storiesOf("Box", module)
       <Box background="muted">
         With <code>background="muted"</code>
       </Box>
-    </Container>
+    </div>
   ));
