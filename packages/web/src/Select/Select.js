@@ -32,6 +32,7 @@ Container.displayName = "Select.Container";
 
 const Accessory = styled.div`
   width: ${props => props.theme.spacingSmallest(s => s * 4)};
+  margin-left: ${props => props.theme.spacingSmallest(s => s * -4)};
   display: inline-block;
   text-align: center;
 `;
@@ -69,8 +70,11 @@ const Control = styled.select`
   border-radius: 0;
   color: currentColor;
   ${props =>
-    `padding: ${props.theme.spacingSmallest()} ${props.theme.spacingSmallest()}`};
-  padding-right: ${props => props.theme.spacingSmallest()};
+    `padding-top: ${props.theme.spacingSmallest()};
+     padding-bottom: ${props.theme.spacingSmallest()};
+     padding-left: ${props.theme.spacingSmallest()};
+     padding-right ${props.theme.spacingSmallest(s => s * 4)};
+  `};
   font-size: ${props => props.theme.fontSize()};
   line-height: inherit;
   cursor: pointer;

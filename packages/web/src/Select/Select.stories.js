@@ -36,7 +36,6 @@ storiesOf("Select", module)
           </Select>
         </Item>
       </Flex>
-      <span>Hi</span>
     </div>
   ))
   .add("Disabled", () => (
