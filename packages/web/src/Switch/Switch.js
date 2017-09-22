@@ -3,11 +3,8 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 
 const Status = styled.div`
-  width: ${props => props.theme.fontSize(s => s * 1.4)};
-  height: ${props => props.theme.fontSize(s => s * 1.4)};
   margin-right: ${props => props.theme.spacingSmallest()};
   display: inline-block;
-  box-sizing: border-box;
   border: ${props => props.theme.borderWidth()} solid currentColor;
   box-shadow: 0 2px 4px 0 ${props => props.theme.dropShadow};
   border-radius: 100%;
@@ -16,16 +13,28 @@ const Status = styled.div`
   flex-shrink: 0;
   &:after {
     content: "";
-    width: ${props => props.theme.fontSize()};
-    height: ${props => props.theme.fontSize()};
+    transform: scale3d(0.8, 0.8, 1);
+    transform-origin: 50% 50%;
     border-radius: ${props => props.theme.fontSize()};
     position: absolute;
-    top: ${props => props.theme.fontSize(s => s * 0.2)};
-    left: ${props => props.theme.fontSize(s => s * 0.2)};
+    top: 0;
+    left: 0;
     background-color: currentColor;
     opacity: 0;
     transition: opacity 80ms ease-in;
   }
+
+  ${props => {
+    const size = props.theme.fontSize(s => s * 1.2);
+    return `
+      width: ${size};
+      height: ${size};
+      &:after {
+        width: ${size};
+        height: ${size};
+      }
+    `;
+  }};
 `;
 Status.displayName = "Switch.Status";
 

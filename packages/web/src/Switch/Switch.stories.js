@@ -11,7 +11,7 @@ import Switch from "./Switch";
 storiesOf("Switch", module).add(
   "Basic",
   withInfo()(() => (
-    <Container>
+    <Container disableGutter>
       <Box>
         <P>As a checkbox</P>
         <Field>
@@ -32,21 +32,21 @@ storiesOf("Switch", module).add(
       </Box>
       <Box>
         <P>As a radio</P>
-        <Container>
+        <Field>
           <Switch id="example4" name="radio1" type="radio">
             This can be selected
           </Switch>
-        </Container>
-        <Container>
+        </Field>
+        <Field>
           <Switch id="example5" name="radio1" type="radio">
             So can this one
           </Switch>
-        </Container>
-        <Container>
+        </Field>
+        <Field>
           <Switch id="example6" name="radio1" type="radio" disabled>
             But this one is disabled
           </Switch>
-        </Container>
+        </Field>
       </Box>
     </Container>
   ))

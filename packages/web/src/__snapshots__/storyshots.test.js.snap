@@ -6158,24 +6158,24 @@ exports[`Storyshots Examples Form Validation 1`] = `
             className="Field-w8gztl-0 dOdphz"
           >
             <div
-              className="Switch__Container-s1qdbane-3 dTqXkj"
+              className="Switch__Container-s12shb1n-3 erjjhL"
             >
               <input
                 aria-describedby="marketingErrors"
                 checked={true}
-                className="Switch__Control-s1qdbane-2 kpFWBT"
+                className="Switch__Control-s12shb1n-2 UqEMw"
                 name="marketing"
                 onChange={[Function]}
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1qdbane-1 unOwy"
+                className="Switch__Label-s12shb1n-1 MBuRg"
               >
                 <div
-                  className="Switch__Status-s1qdbane-0 cISJpu"
+                  className="Switch__Status-s12shb1n-0 lmYiEf"
                 />
                 <div
-                  className="Switch__Content-s1qdbane-4 fbCVql"
+                  className="Switch__Content-s12shb1n-4 cQtReC"
                 >
                   Would you like to receive occasional emails with offers and product announcements?
                 </div>
@@ -19620,7 +19620,7 @@ exports[`Storyshots Switch Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 dNtKMy"
+        className="Container-j48z18-0 kInJPc"
       >
         <div
           className="Box-s1c7qjo5-0 jicxdx"
@@ -19635,22 +19635,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Field-w8gztl-0 dOdphz"
           >
             <div
-              className="Switch__Container-s1qdbane-3 dTqXkj"
+              className="Switch__Container-s12shb1n-3 erjjhL"
             >
               <input
-                className="Switch__Control-s1qdbane-2 kpFWBT"
+                className="Switch__Control-s12shb1n-2 UqEMw"
                 id="example"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1qdbane-1 unOwy"
+                className="Switch__Label-s12shb1n-1 MBuRg"
               >
                 <div
-                  className="Switch__Status-s1qdbane-0 cISJpu"
+                  className="Switch__Status-s12shb1n-0 lmYiEf"
                 />
                 <div
-                  className="Switch__Content-s1qdbane-4 fbCVql"
+                  className="Switch__Content-s12shb1n-4 cQtReC"
                 >
                   This can be toggled
                 </div>
@@ -19661,22 +19661,22 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Field-w8gztl-0 dOdphz"
           >
             <div
-              className="Switch__Container-s1qdbane-3 dTqXkj"
+              className="Switch__Container-s12shb1n-3 erjjhL"
             >
               <input
-                className="Switch__Control-s1qdbane-2 kpFWBT"
+                className="Switch__Control-s12shb1n-2 UqEMw"
                 id="example2"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1qdbane-1 unOwy"
+                className="Switch__Label-s12shb1n-1 MBuRg"
               >
                 <div
-                  className="Switch__Status-s1qdbane-0 cISJpu"
+                  className="Switch__Status-s12shb1n-0 lmYiEf"
                 />
                 <div
-                  className="Switch__Content-s1qdbane-4 fbCVql"
+                  className="Switch__Content-s12shb1n-4 cQtReC"
                 >
                   So can this one
                 </div>
@@ -19687,23 +19687,23 @@ exports[`Storyshots Switch Basic 1`] = `
             className="Field-w8gztl-0 jNJaXY"
           >
             <div
-              className="Switch__Container-s1qdbane-3 dTqXkj"
+              className="Switch__Container-s12shb1n-3 erjjhL"
             >
               <input
-                className="Switch__Control-s1qdbane-2 kpFWBT"
+                className="Switch__Control-s12shb1n-2 UqEMw"
                 disabled={true}
                 id="example3"
                 name="check1"
                 type="checkbox"
               />
               <label
-                className="Switch__Label-s1qdbane-1 unOwy"
+                className="Switch__Label-s12shb1n-1 MBuRg"
               >
                 <div
-                  className="Switch__Status-s1qdbane-0 cISJpu"
+                  className="Switch__Status-s12shb1n-0 lmYiEf"
                 />
                 <div
-                  className="Switch__Content-s1qdbane-4 fbCVql"
+                  className="Switch__Content-s12shb1n-4 cQtReC"
                 >
                   But this one is disabled
                 </div>
@@ -19721,25 +19721,25 @@ exports[`Storyshots Switch Basic 1`] = `
             As a radio
           </p>
           <div
-            className="Container-j48z18-0 dNtKMy"
+            className="Field-w8gztl-0 dOdphz"
           >
             <div
-              className="Switch__Container-s1qdbane-3 dTqXkj"
+              className="Switch__Container-s12shb1n-3 erjjhL"
             >
               <input
-                className="Switch__Control-s1qdbane-2 kpFWBT"
+                className="Switch__Control-s12shb1n-2 UqEMw"
                 id="example4"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1qdbane-1 unOwy"
+                className="Switch__Label-s12shb1n-1 MBuRg"
               >
                 <div
-                  className="Switch__Status-s1qdbane-0 cISJpu"
+                  className="Switch__Status-s12shb1n-0 lmYiEf"
                 />
                 <div
-                  className="Switch__Content-s1qdbane-4 fbCVql"
+                  className="Switch__Content-s12shb1n-4 cQtReC"
                 >
                   This can be selected
                 </div>
@@ -19747,25 +19747,25 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="Container-j48z18-0 dNtKMy"
+            className="Field-w8gztl-0 dOdphz"
           >
             <div
-              className="Switch__Container-s1qdbane-3 dTqXkj"
+              className="Switch__Container-s12shb1n-3 erjjhL"
             >
               <input
-                className="Switch__Control-s1qdbane-2 kpFWBT"
+                className="Switch__Control-s12shb1n-2 UqEMw"
                 id="example5"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1qdbane-1 unOwy"
+                className="Switch__Label-s12shb1n-1 MBuRg"
               >
                 <div
-                  className="Switch__Status-s1qdbane-0 cISJpu"
+                  className="Switch__Status-s12shb1n-0 lmYiEf"
                 />
                 <div
-                  className="Switch__Content-s1qdbane-4 fbCVql"
+                  className="Switch__Content-s12shb1n-4 cQtReC"
                 >
                   So can this one
                 </div>
@@ -19773,26 +19773,26 @@ exports[`Storyshots Switch Basic 1`] = `
             </div>
           </div>
           <div
-            className="Container-j48z18-0 dNtKMy"
+            className="Field-w8gztl-0 dOdphz"
           >
             <div
-              className="Switch__Container-s1qdbane-3 dTqXkj"
+              className="Switch__Container-s12shb1n-3 erjjhL"
             >
               <input
-                className="Switch__Control-s1qdbane-2 kpFWBT"
+                className="Switch__Control-s12shb1n-2 UqEMw"
                 disabled={true}
                 id="example6"
                 name="radio1"
                 type="radio"
               />
               <label
-                className="Switch__Label-s1qdbane-1 unOwy"
+                className="Switch__Label-s12shb1n-1 MBuRg"
               >
                 <div
-                  className="Switch__Status-s1qdbane-0 cISJpu"
+                  className="Switch__Status-s12shb1n-0 lmYiEf"
                 />
                 <div
-                  className="Switch__Content-s1qdbane-4 fbCVql"
+                  className="Switch__Content-s12shb1n-4 cQtReC"
                 >
                   But this one is disabled
                 </div>
@@ -19963,7 +19963,17 @@ exports[`Storyshots Switch Basic 1`] = `
                     &lt;
                     Container
                   </span>
-                  <span />
+                  <span>
+                    <span>
+                       
+                      <span
+                        style={Object {}}
+                      >
+                        disableGutter
+                      </span>
+                      
+                    </span>
+                  </span>
                   <span
                     style={
                       Object {
@@ -20849,7 +20859,7 @@ exports[`Storyshots Switch Basic 1`] = `
                         }
                       >
                         &lt;
-                        Container
+                        Field
                       </span>
                       <span />
                       <span
@@ -21030,7 +21040,7 @@ exports[`Storyshots Switch Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Container
+                        Field
                         &gt;
                       </span>
                     </div>
@@ -21052,7 +21062,7 @@ exports[`Storyshots Switch Basic 1`] = `
                         }
                       >
                         &lt;
-                        Container
+                        Field
                       </span>
                       <span />
                       <span
@@ -21233,7 +21243,7 @@ exports[`Storyshots Switch Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Container
+                        Field
                         &gt;
                       </span>
                     </div>
@@ -21255,7 +21265,7 @@ exports[`Storyshots Switch Basic 1`] = `
                         }
                       >
                         &lt;
-                        Container
+                        Field
                       </span>
                       <span />
                       <span
@@ -21456,7 +21466,7 @@ exports[`Storyshots Switch Basic 1`] = `
                         }
                       >
                         &lt;/
-                        Container
+                        Field
                         &gt;
                       </span>
                     </div>
