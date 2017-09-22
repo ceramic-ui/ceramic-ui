@@ -11,11 +11,7 @@
     "url": "git+https://github.com/ceramic-ui/ceramic-ui.git"
   },
   "license": "MIT",
-  "keywords": [
-    "react",
-    "ui",
-    "styled-components"
-  ],
+  "keywords": ["react", "ui", "styled-components"],
   "publishConfig": {
     "access": "public"
   },
@@ -39,7 +35,6 @@
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.6",
-    "@storybook/addon-info": "^3.2.9",
     "@storybook/addon-knobs": "^3.2.8",
     "@storybook/addon-links": "^3.2.6",
     "@storybook/addon-storyshots": "^3.2.8",

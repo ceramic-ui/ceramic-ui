@@ -1,32 +1,28 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import { withInfo } from "@storybook/addon-info";
 
 import ButtonPanel from "../ButtonPanel";
 import P from "../Paragraph";
 import Button from "./Button";
 
 storiesOf("Button", module)
-  .add(
-    "Basic",
-    withInfo()(() => {
-      return (
-        <div>
-          <ButtonPanel>
-            <Button>Default</Button>
-            <Button appearance="primary">Primary</Button>
-            <Button appearance="secondary">Secondary</Button>
-            <Button appearance="success">Success</Button>
-            <Button appearance="danger">Danger</Button>
-            <Button appearance="light">Light</Button>
-            <Button appearance="dark">Dark</Button>
-            <Button appearance="link">Link</Button>
-          </ButtonPanel>
-          <P>Set "Stage background" to dark knob to see light variations</P>
-        </div>
-      );
-    })
-  )
+  .add("Basic", () => {
+    return (
+      <div>
+        <ButtonPanel>
+          <Button>Default</Button>
+          <Button appearance="primary">Primary</Button>
+          <Button appearance="secondary">Secondary</Button>
+          <Button appearance="success">Success</Button>
+          <Button appearance="danger">Danger</Button>
+          <Button appearance="light">Light</Button>
+          <Button appearance="dark">Dark</Button>
+          <Button appearance="link">Link</Button>
+        </ButtonPanel>
+        <P>Set "Stage background" to dark knob to see light variations</P>
+      </div>
+    );
+  })
   .add("Block-level", () => {
     return (
       <div>

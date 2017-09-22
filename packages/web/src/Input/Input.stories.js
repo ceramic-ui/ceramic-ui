@@ -1,25 +1,21 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import { withInfo } from "@storybook/addon-info";
 
 import Flex, { Item } from "../Flex";
 import Input from "./Input";
 
 storiesOf("Input", module)
-  .add("Basic", withInfo()(() => <Input />))
-  .add(
-    "Inline",
-    withInfo()(() => (
-      <Flex>
-        <Item>
-          <Input inline />
-        </Item>
-        <Item>
-          <Input inline />
-        </Item>
-      </Flex>
-    ))
-  )
+  .add("Basic", () => <Input />)
+  .add("Inline", () => (
+    <Flex>
+      <Item>
+        <Input inline />
+      </Item>
+      <Item>
+        <Input inline />
+      </Item>
+    </Flex>
+  ))
   .add("Disabled", () => <Input disabled value="cannot edit me!" />)
   .add("Validation", () => (
     <Flex direction="column">

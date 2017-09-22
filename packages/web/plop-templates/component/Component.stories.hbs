@@ -1,10 +1,6 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import { withInfo } from "@storybook/addon-info";
 
 import {{name}} from "./{{name}}";
 
-storiesOf("{{name}}", module).add(
-  "Basic",
-  withInfo()(() => <{{name}}>Basic example</{{name}}>)
-);
+storiesOf("{{name}}", module).add("Basic", () => <{{name}}>Basic example</{{name}}>);

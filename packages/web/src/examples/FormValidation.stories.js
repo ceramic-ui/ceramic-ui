@@ -1,6 +1,5 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import { withInfo } from "@storybook/addon-info";
 
 import Button from "../Button";
 import ButtonPanel from "../ButtonPanel";
@@ -247,4 +246,4 @@ class App extends React.Component {
   }
 }
 
-storiesOf("Examples", module).add("Form Validation", withInfo()(() => <App />));
+storiesOf("Examples", module).add("Form Validation", () => <App />);
