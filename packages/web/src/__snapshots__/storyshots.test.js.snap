@@ -1375,11 +1375,11 @@ exports[`Storyshots Select Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Select__Container-s1ww6l2m-0 kNYBJE"
+    className="Select__Container-h7v5lq-0 bFAjwz"
     disabled={undefined}
   >
     <select
-      className="Select__Control-s1ww6l2m-3 qfHwh"
+      className="Select__Control-h7v5lq-3 jlQFOG"
     >
       <option
         value=""
@@ -1408,10 +1408,10 @@ exports[`Storyshots Select Basic 1`] = `
       </option>
     </select>
     <div
-      className="Select__Accessory-s1ww6l2m-1 cPTKoc"
+      className="Select__Accessory-h7v5lq-1 eThkKw"
     >
       <svg
-        className="Select__Chevron-s1ww6l2m-2 gXybW"
+        className="Select__Chevron-h7v5lq-2 eVUACE"
         fill="none"
         stroke="currentColor"
         strokeLinecap="round"
@@ -1433,11 +1433,11 @@ exports[`Storyshots Select Disabled 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Select__Container-s1ww6l2m-0 hTCjxD"
+    className="Select__Container-h7v5lq-0 jFjDFy"
     disabled={true}
   >
     <select
-      className="Select__Control-s1ww6l2m-3 qfHwh"
+      className="Select__Control-h7v5lq-3 jlQFOG"
       disabled={true}
     >
       <option
@@ -1467,10 +1467,10 @@ exports[`Storyshots Select Disabled 1`] = `
       </option>
     </select>
     <div
-      className="Select__Accessory-s1ww6l2m-1 cPTKoc"
+      className="Select__Accessory-h7v5lq-1 eThkKw"
     >
       <svg
-        className="Select__Chevron-s1ww6l2m-2 gXybW"
+        className="Select__Chevron-h7v5lq-2 eVUACE"
         fill="none"
         stroke="currentColor"
         strokeLinecap="round"
@@ -1500,11 +1500,11 @@ exports[`Storyshots Select Inline 1`] = `
         className="Flex__Item-s1lmmxu5-0 jFTHiw"
       >
         <div
-          className="Select__Container-s1ww6l2m-0 jzrmiY"
+          className="Select__Container-h7v5lq-0 eeTVMk"
           disabled={undefined}
         >
           <select
-            className="Select__Control-s1ww6l2m-3 jjqtzI"
+            className="Select__Control-h7v5lq-3 ihyrjY"
           >
             <option
               value=""
@@ -1533,10 +1533,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-s1ww6l2m-1 cPTKoc"
+            className="Select__Accessory-h7v5lq-1 eThkKw"
           >
             <svg
-              className="Select__Chevron-s1ww6l2m-2 gXybW"
+              className="Select__Chevron-h7v5lq-2 eVUACE"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -1555,11 +1555,11 @@ exports[`Storyshots Select Inline 1`] = `
         className="Flex__Item-s1lmmxu5-0 jFTHiw"
       >
         <div
-          className="Select__Container-s1ww6l2m-0 jzrmiY"
+          className="Select__Container-h7v5lq-0 eeTVMk"
           disabled={undefined}
         >
           <select
-            className="Select__Control-s1ww6l2m-3 jjqtzI"
+            className="Select__Control-h7v5lq-3 ihyrjY"
           >
             <option
               value=""
@@ -1588,10 +1588,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-s1ww6l2m-1 cPTKoc"
+            className="Select__Accessory-h7v5lq-1 eThkKw"
           >
             <svg
-              className="Select__Chevron-s1ww6l2m-2 gXybW"
+              className="Select__Chevron-h7v5lq-2 eVUACE"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -1607,9 +1607,6 @@ exports[`Storyshots Select Inline 1`] = `
         </div>
       </div>
     </div>
-    <span>
-      Hi
-    </span>
   </div>
 </div>
 `;
@@ -1625,11 +1622,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <div
-        className="Select__Container-s1ww6l2m-0 bDaIna"
+        className="Select__Container-h7v5lq-0 gQNkxp"
         disabled={undefined}
       >
         <select
-          className="Select__Control-s1ww6l2m-3 qfHwh"
+          className="Select__Control-h7v5lq-3 jlQFOG"
         >
           <option
             value=""
@@ -1658,10 +1655,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1ww6l2m-1 cPTKoc"
+          className="Select__Accessory-h7v5lq-1 eThkKw"
         >
           <svg
-            className="Select__Chevron-s1ww6l2m-2 gXybW"
+            className="Select__Chevron-h7v5lq-2 eVUACE"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -1680,11 +1677,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <div
-        className="Select__Container-s1ww6l2m-0 iNPxSw"
+        className="Select__Container-h7v5lq-0 itlJgQ"
         disabled={undefined}
       >
         <select
-          className="Select__Control-s1ww6l2m-3 qfHwh"
+          className="Select__Control-h7v5lq-3 jlQFOG"
         >
           <option
             value=""
@@ -1713,10 +1710,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1ww6l2m-1 cPTKoc"
+          className="Select__Accessory-h7v5lq-1 eThkKw"
         >
           <svg
-            className="Select__Chevron-s1ww6l2m-2 gXybW"
+            className="Select__Chevron-h7v5lq-2 eVUACE"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -1735,11 +1732,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <div
-        className="Select__Container-s1ww6l2m-0 hTCjxD"
+        className="Select__Container-h7v5lq-0 jFjDFy"
         disabled={true}
       >
         <select
-          className="Select__Control-s1ww6l2m-3 qfHwh"
+          className="Select__Control-h7v5lq-3 jlQFOG"
           disabled={true}
         >
           <option
@@ -1769,10 +1766,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-s1ww6l2m-1 cPTKoc"
+          className="Select__Accessory-h7v5lq-1 eThkKw"
         >
           <svg
-            className="Select__Chevron-s1ww6l2m-2 gXybW"
+            className="Select__Chevron-h7v5lq-2 eVUACE"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
