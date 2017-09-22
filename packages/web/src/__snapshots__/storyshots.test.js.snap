@@ -5,7 +5,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 dNtKMy"
+    className="Container-s1kk78uv-0 GCnsz"
   >
     <div
       className="Box-s1c7qjo5-0 cJOikH"
@@ -56,7 +56,7 @@ exports[`Storyshots Box Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 dNtKMy"
+    className="Container-s1kk78uv-0 GCnsz"
   >
     <div
       className="Box-s1c7qjo5-0 jicxdx"
@@ -97,7 +97,7 @@ exports[`Storyshots Button Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 bFqOuv"
+        className="Container-s1kk78uv-0 kZTUJk"
       >
         <div
           className="ButtonPanel-ovkzl-0 ejpSHT"
@@ -1484,7 +1484,7 @@ exports[`Storyshots Button Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -1499,16 +1499,83 @@ exports[`Storyshots Button Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -1624,7 +1691,7 @@ exports[`Storyshots Button Block-level 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 bFqOuv"
+    className="Container-s1kk78uv-0 kZTUJk"
   >
     <div
       className="ButtonPanel-ovkzl-0 ejpSHT"
@@ -1693,7 +1760,7 @@ exports[`Storyshots Button Disabled 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 bFqOuv"
+    className="Container-s1kk78uv-0 kZTUJk"
   >
     <div
       className="ButtonPanel-ovkzl-0 ejpSHT"
@@ -2819,7 +2886,7 @@ exports[`Storyshots Callout Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 kInJPc"
+        className="Container-s1kk78uv-0 eHBryB"
       >
         <div
           className="Callout-mttm4f-0 ZhdNC"
@@ -4889,7 +4956,7 @@ exports[`Storyshots Callout Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -4904,16 +4971,83 @@ exports[`Storyshots Callout Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -5123,19 +5257,19 @@ exports[`Storyshots Container Basic 1`] = `
     >
       <div>
         <div
-          className="Container-j48z18-0 dNtKMy"
+          className="Container-s1kk78uv-0 GCnsz"
         >
           Hello Container 1
         </div>
         <div
-          className="Container-j48z18-0 dNtKMy"
+          className="Container-s1kk78uv-0 GCnsz"
         >
           Hello Container 2
         </div>
         <div
-          className="Container-j48z18-0 eCwBnd"
+          className="Container-s1kk78uv-0 loswEv"
         >
-          This container has its width limited for readability on tablet and larger screens. On mobile screens, it still takes up 100% width. Try resizing your window to see the effect.
+          This container has custom max widths for different screen size. Try resizing the browser window!
         </div>
       </div>
     </div>
@@ -5493,7 +5627,196 @@ exports[`Storyshots Container Basic 1`] = `
                         <span
                           style={Object {}}
                         >
-                          readable
+                          maxWidths
+                        </span>
+                        <span>
+                          =
+                          <span
+                            style={Object {}}
+                          >
+                            <span>
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                [
+                                <span>
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#666",
+                                      }
+                                    }
+                                  >
+                                    {
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#666",
+                                        }
+                                      }
+                                    >
+                                      media
+                                    </span>
+                                    : 
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#22a",
+                                          "wordBreak": "break-word",
+                                        }
+                                      }
+                                    >
+                                      "
+                                      small
+                                      "
+                                    </span>
+                                    , 
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#666",
+                                        }
+                                      }
+                                    >
+                                      value
+                                    </span>
+                                    : 
+                                    <span>
+                                      <span
+                                        style={
+                                          Object {
+                                            "color": "#a11",
+                                          }
+                                        }
+                                      >
+                                        400
+                                      </span>
+                                    </span>
+                                    }
+                                  </span>
+                                </span>
+                                , 
+                                <span>
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#666",
+                                      }
+                                    }
+                                  >
+                                    {
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#666",
+                                        }
+                                      }
+                                    >
+                                      media
+                                    </span>
+                                    : 
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#22a",
+                                          "wordBreak": "break-word",
+                                        }
+                                      }
+                                    >
+                                      "
+                                      medium
+                                      "
+                                    </span>
+                                    , 
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#666",
+                                        }
+                                      }
+                                    >
+                                      value
+                                    </span>
+                                    : 
+                                    <span>
+                                      <span
+                                        style={
+                                          Object {
+                                            "color": "#a11",
+                                          }
+                                        }
+                                      >
+                                        500
+                                      </span>
+                                    </span>
+                                    }
+                                  </span>
+                                </span>
+                                , 
+                                <span>
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#666",
+                                      }
+                                    }
+                                  >
+                                    {
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#666",
+                                        }
+                                      }
+                                    >
+                                      media
+                                    </span>
+                                    : 
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#22a",
+                                          "wordBreak": "break-word",
+                                        }
+                                      }
+                                    >
+                                      "
+                                      large
+                                      "
+                                    </span>
+                                    , 
+                                    <span
+                                      style={
+                                        Object {
+                                          "color": "#666",
+                                        }
+                                      }
+                                    >
+                                      value
+                                    </span>
+                                    : 
+                                    <span>
+                                      <span
+                                        style={
+                                          Object {
+                                            "color": "#a11",
+                                          }
+                                        }
+                                      >
+                                        800
+                                      </span>
+                                    </span>
+                                    }
+                                  </span>
+                                </span>
+                                ]
+                              </span>
+                            </span>
+                          </span>
                         </span>
                         
                       </span>
@@ -5523,7 +5846,7 @@ exports[`Storyshots Container Basic 1`] = `
                         }
                       }
                     >
-                      This container has its width limited for readability on tablet and larger screens. On mobile screens, it still takes up 100% width. Try resizing your window to see the effect.
+                      This container has custom max widths for different screen size. Try resizing the browser window!
                     </span>
                   </div>
                   <div
@@ -5626,7 +5949,7 @@ exports[`Storyshots Container Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -5641,16 +5964,83 @@ exports[`Storyshots Container Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -5963,7 +6353,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 FtTuT"
+        className="Readable-s106xs6s-0 GWqSM"
       >
         <form
           className="Form-s152rqk0-0 jCBAIU"
@@ -6419,7 +6809,7 @@ exports[`Storyshots Examples Using with downshift 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 eCwBnd"
+    className="Readable-s106xs6s-0 GWqSM"
     onClick={[Function]}
   >
     <input
@@ -6454,7 +6844,7 @@ exports[`Storyshots Field Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 eCwBnd"
+        className="Readable-s106xs6s-0 GWqSM"
       >
         <div
           className="Field-w8gztl-0 rOvtQ"
@@ -6660,19 +7050,9 @@ exports[`Storyshots Field Basic 1`] = `
                     }
                   >
                     &lt;
-                    Container
+                    Readable
                   </span>
-                  <span>
-                    <span>
-                       
-                      <span
-                        style={Object {}}
-                      >
-                        readable
-                      </span>
-                      
-                    </span>
-                  </span>
+                  <span />
                   <span
                     style={
                       Object {
@@ -7351,7 +7731,7 @@ exports[`Storyshots Field Basic 1`] = `
                     }
                   >
                     &lt;/
-                    Container
+                    Readable
                     &gt;
                   </span>
                 </div>
@@ -7371,95 +7751,6 @@ exports[`Storyshots Field Basic 1`] = `
             >
               Prop Types
             </h1>
-            <div>
-              <h2
-                style={
-                  Object {
-                    "margin": "20px 0 0 0",
-                  }
-                }
-              >
-                "
-                Container
-                " Component
-              </h2>
-              <table
-                style={
-                  Object {
-                    "borderCollapse": "separate",
-                    "borderSpacing": "10px 5px",
-                    "marginLeft": -10,
-                  }
-                }
-              >
-                <thead>
-                  <tr>
-                    <th>
-                      property
-                    </th>
-                    <th>
-                      propType
-                    </th>
-                    <th>
-                      required
-                    </th>
-                    <th>
-                      default
-                    </th>
-                    <th>
-                      description
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>
-                      readable
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                  <tr>
-                    <td>
-                      disableGutter
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                  <tr>
-                    <td>
-                      flush
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                </tbody>
-              </table>
-            </div>
             <div>
               <h2
                 style={
@@ -7664,6 +7955,22 @@ exports[`Storyshots Field Basic 1`] = `
               >
                 "
                 Label
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Readable
                 " Component
               </h2>
               <small>
@@ -8134,7 +8441,7 @@ exports[`Storyshots Flex Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 FtTuT"
+        className="Readable-s106xs6s-0 GWqSM"
       >
         <div
           className="Flex-s1q8d755-1 juJjjy"
@@ -8383,27 +8690,9 @@ exports[`Storyshots Flex Basic 1`] = `
                     }
                   >
                     &lt;
-                    Container
+                    Readable
                   </span>
-                  <span>
-                    <span>
-                       
-                      <span
-                        style={Object {}}
-                      >
-                        readable
-                      </span>
-                    </span>
-                    <span>
-                       
-                      <span
-                        style={Object {}}
-                      >
-                        disableGutter
-                      </span>
-                      
-                    </span>
-                  </span>
+                  <span />
                   <span
                     style={
                       Object {
@@ -9556,7 +9845,7 @@ exports[`Storyshots Flex Basic 1`] = `
                     }
                   >
                     &lt;/
-                    Container
+                    Readable
                     &gt;
                   </span>
                 </div>
@@ -9576,95 +9865,6 @@ exports[`Storyshots Flex Basic 1`] = `
             >
               Prop Types
             </h1>
-            <div>
-              <h2
-                style={
-                  Object {
-                    "margin": "20px 0 0 0",
-                  }
-                }
-              >
-                "
-                Container
-                " Component
-              </h2>
-              <table
-                style={
-                  Object {
-                    "borderCollapse": "separate",
-                    "borderSpacing": "10px 5px",
-                    "marginLeft": -10,
-                  }
-                }
-              >
-                <thead>
-                  <tr>
-                    <th>
-                      property
-                    </th>
-                    <th>
-                      propType
-                    </th>
-                    <th>
-                      required
-                    </th>
-                    <th>
-                      default
-                    </th>
-                    <th>
-                      description
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>
-                      readable
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                  <tr>
-                    <td>
-                      disableGutter
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                  <tr>
-                    <td>
-                      flush
-                    </td>
-                    <td>
-                      bool
-                    </td>
-                    <td>
-                      no
-                    </td>
-                    <td>
-                      -
-                    </td>
-                    <td />
-                  </tr>
-                </tbody>
-              </table>
-            </div>
             <div>
               <h2
                 style={
@@ -9998,6 +10198,22 @@ exports[`Storyshots Flex Basic 1`] = `
                   </tr>
                 </tbody>
               </table>
+            </div>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Readable
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
             </div>
           </div>
         </div>
@@ -11209,7 +11425,7 @@ exports[`Storyshots Input Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 eCwBnd"
+        className="Container-s1kk78uv-0 GCnsz"
       >
         <input
           className="Input-s1j0sozl-0 kXoTHM"
@@ -11377,17 +11593,7 @@ exports[`Storyshots Input Basic 1`] = `
                     &lt;
                     Container
                   </span>
-                  <span>
-                    <span>
-                       
-                      <span
-                        style={Object {}}
-                      >
-                        readable
-                      </span>
-                      
-                    </span>
-                  </span>
+                  <span />
                   <span
                     style={
                       Object {
@@ -11506,7 +11712,7 @@ exports[`Storyshots Input Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -11521,16 +11727,83 @@ exports[`Storyshots Input Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -11655,7 +11928,7 @@ exports[`Storyshots Input Disabled 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 eCwBnd"
+      className="Container-s1kk78uv-0 GCnsz"
     >
       <input
         className="Input-s1j0sozl-0 hkqqXQ"
@@ -11664,7 +11937,7 @@ exports[`Storyshots Input Disabled 1`] = `
       />
     </div>
     <div
-      className="j48z18-0-Container-klzlrk dEbckB"
+      className="s1kk78uv-0-Container-klzlrk cJQGgN"
     >
       <input
         className="Input-s1j0sozl-0 knlRKb"
@@ -11693,7 +11966,7 @@ exports[`Storyshots Input Inline 1`] = `
       }
     >
       <div
-        className="j48z18-0-Container-klzlrk dEbckB"
+        className="s1kk78uv-0-Container-klzlrk cJQGgN"
       >
         <input
           className="Input-s1j0sozl-0 exdyCQ"
@@ -11864,17 +12137,7 @@ exports[`Storyshots Input Inline 1`] = `
                     &lt;
                     Container
                   </span>
-                  <span>
-                    <span>
-                       
-                      <span
-                        style={Object {}}
-                      >
-                        readable
-                      </span>
-                      
-                    </span>
-                  </span>
+                  <span />
                   <span
                     style={
                       Object {
@@ -12042,7 +12305,7 @@ exports[`Storyshots Input Inline 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -12057,16 +12320,83 @@ exports[`Storyshots Input Inline 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -12191,7 +12521,7 @@ exports[`Storyshots Input Validation 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 eCwBnd"
+      className="Container-s1kk78uv-0 GCnsz"
     >
       <input
         className="Input-s1j0sozl-0 jRZpZk"
@@ -12199,7 +12529,7 @@ exports[`Storyshots Input Validation 1`] = `
       />
     </div>
     <div
-      className="Container-j48z18-0 eCwBnd"
+      className="Container-s1kk78uv-0 GCnsz"
     >
       <input
         className="Input-s1j0sozl-0 bfuwXq"
@@ -12207,7 +12537,7 @@ exports[`Storyshots Input Validation 1`] = `
       />
     </div>
     <div
-      className="Container-j48z18-0 eCwBnd"
+      className="Container-s1kk78uv-0 GCnsz"
     >
       <input
         className="Input-s1j0sozl-0 kaKCt"
@@ -15710,7 +16040,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 dNtKMy"
+        className="Container-s1kk78uv-0 GCnsz"
       >
         <div
           aria-valuemax={100}
@@ -16408,7 +16738,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -16423,16 +16753,83 @@ exports[`Storyshots ProgressBar Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -16612,6 +17009,275 @@ exports[`Storyshots ProgressBar Basic 1`] = `
 </div>
 `;
 
+exports[`Storyshots Readable Basic 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "zIndex": 0,
+        }
+      }
+    >
+      <div
+        className="Readable-s106xs6s-0 GWqSM"
+      >
+        Readable has its width limited for readability on larger screens. On smaller screens, it reverts to take up 100% width. Try resizing your window to see the effect.
+      </div>
+    </div>
+    <a
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "background": "#28c",
+          "borderRadius": "0 0 0 5px",
+          "color": "#fff",
+          "cursor": "pointer",
+          "display": "block",
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "padding": "5px 15px",
+          "position": "fixed",
+          "right": 0,
+          "textDecoration": "none",
+          "top": 0,
+        }
+      }
+      tabIndex="0"
+    >
+      Show Info
+    </a>
+    <div
+      style={
+        Object {
+          "background": "white",
+          "bottom": 0,
+          "display": "none",
+          "left": 0,
+          "overflow": "auto",
+          "padding": "0 40px",
+          "position": "fixed",
+          "right": 0,
+          "top": 0,
+          "zIndex": 99999,
+        }
+      }
+    >
+      <a
+        onClick={[Function]}
+        role="button"
+        style={
+          Object {
+            "background": "#28c",
+            "borderRadius": "0 0 0 5px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "display": "block",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "padding": "5px 15px",
+            "position": "fixed",
+            "right": 0,
+            "textDecoration": "none",
+            "top": 0,
+          }
+        }
+        tabIndex="0"
+      >
+        ×
+      </a>
+      <div
+        style={undefined}
+      >
+        <div
+          style={
+            Object {
+              "WebkitFontSmoothing": "antialiased",
+              "backgroundColor": "#fff",
+              "border": "1px solid #eee",
+              "borderRadius": "2px",
+              "boxShadow": "0px 2px 3px rgba(0, 0, 0, 0.05)",
+              "color": "#444",
+              "fontFamily": "-apple-system, \\".SFNSText-Regular\\", \\"San Francisco\\", BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\", \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\", \\"Lucida Grande\\", \\"Arial\\", sans-serif",
+              "fontSize": "15px",
+              "fontWeight": 300,
+              "lineHeight": 1.45,
+              "marginTop": "50px",
+              "padding": "20px 40px 40px",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "borderBottom": "1px solid #eee",
+                "marginBottom": 10,
+                "paddingTop": 10,
+              }
+            }
+          >
+            <h1
+              style={
+                Object {
+                  "fontSize": "35px",
+                  "margin": 0,
+                  "padding": 0,
+                }
+              }
+            >
+              Readable
+            </h1>
+            <h2
+              style={
+                Object {
+                  "fontSize": "22px",
+                  "fontWeight": 400,
+                  "margin": "0 0 10px 0",
+                  "padding": 0,
+                }
+              }
+            >
+              Basic
+            </h2>
+          </div>
+          
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Story Source
+            </h1>
+            <pre
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                  "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
+                  "fontSize": ".88em",
+                  "lineHeight": 1.5,
+                  "overflowX": "scroll",
+                  "padding": ".5rem",
+                }
+              }
+            >
+              <div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;
+                    Readable
+                  </span>
+                  <span />
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &gt;
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 33,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    Readable has its width limited for readability on larger screens. On smaller screens, it reverts to take up 100% width. Try resizing your window to see the effect.
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingLeft": 18,
+                      "paddingRight": 3,
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "#777",
+                      }
+                    }
+                  >
+                    &lt;/
+                    Readable
+                    &gt;
+                  </span>
+                </div>
+              </div>
+            </pre>
+          </div>
+          <div>
+            <h1
+              style={
+                Object {
+                  "borderBottom": "1px solid #EEE",
+                  "fontSize": "25px",
+                  "margin": "20px 0 0 0",
+                  "padding": "0 0 5px 0",
+                }
+              }
+            >
+              Prop Types
+            </h1>
+            <div>
+              <h2
+                style={
+                  Object {
+                    "margin": "20px 0 0 0",
+                  }
+                }
+              >
+                "
+                Readable
+                " Component
+              </h2>
+              <small>
+                No propTypes defined!
+              </small>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Select Basic 1`] = `
 <div
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
@@ -16626,7 +17292,7 @@ exports[`Storyshots Select Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 eCwBnd"
+        className="Container-s1kk78uv-0 GCnsz"
       >
         <div
           className="Select__Container-euw34d-0 fSURji"
@@ -16842,17 +17508,7 @@ exports[`Storyshots Select Basic 1`] = `
                     &lt;
                     Container
                   </span>
-                  <span>
-                    <span>
-                       
-                      <span
-                        style={Object {}}
-                      >
-                        readable
-                      </span>
-                      
-                    </span>
-                  </span>
+                  <span />
                   <span
                     style={
                       Object {
@@ -17483,7 +18139,7 @@ exports[`Storyshots Select Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -17498,16 +18154,83 @@ exports[`Storyshots Select Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -17663,7 +18386,7 @@ exports[`Storyshots Select Disabled 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 eCwBnd"
+      className="Container-s1kk78uv-0 GCnsz"
     >
       <div
         className="Select__Container-euw34d-0 dYBxRi"
@@ -17719,7 +18442,7 @@ exports[`Storyshots Select Disabled 1`] = `
       </div>
     </div>
     <div
-      className="j48z18-0-Container-gATNmD hSjwVg"
+      className="s1kk78uv-0-Container-gATNmD jtRVAf"
     >
       <div
         className="Select__Container-euw34d-0 iZWlcj"
@@ -17844,7 +18567,7 @@ exports[`Storyshots Select Inline 1`] = `
       }
     >
       <div
-        className="j48z18-0-Container-gATNmD hSjwVg"
+        className="s1kk78uv-0-Container-gATNmD jtRVAf"
       >
         <div
           className="Select__Container-euw34d-0 cwkVuY"
@@ -18111,17 +18834,7 @@ exports[`Storyshots Select Inline 1`] = `
                     &lt;
                     Container
                   </span>
-                  <span>
-                    <span>
-                       
-                      <span
-                        style={Object {}}
-                      >
-                        readable
-                      </span>
-                      
-                    </span>
-                  </span>
+                  <span />
                   <span
                     style={
                       Object {
@@ -19313,7 +20026,7 @@ exports[`Storyshots Select Inline 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -19328,16 +20041,83 @@ exports[`Storyshots Select Inline 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -19493,7 +20273,7 @@ exports[`Storyshots Select Validation 1`] = `
 >
   <div>
     <div
-      className="Container-j48z18-0 dNtKMy"
+      className="Container-s1kk78uv-0 GCnsz"
     >
       <div
         className="Select__Container-euw34d-0 kNwxjY"
@@ -19548,7 +20328,7 @@ exports[`Storyshots Select Validation 1`] = `
       </div>
     </div>
     <div
-      className="Container-j48z18-0 dNtKMy"
+      className="Container-s1kk78uv-0 GCnsz"
     >
       <div
         className="Select__Container-euw34d-0 hYINGq"
@@ -19620,7 +20400,7 @@ exports[`Storyshots Switch Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 kInJPc"
+        className="Container-s1kk78uv-0 eHBryB"
       >
         <div
           className="Box-s1c7qjo5-0 jicxdx"
@@ -21686,7 +22466,7 @@ exports[`Storyshots Switch Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -21701,16 +22481,83 @@ exports[`Storyshots Switch Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -22271,7 +23118,7 @@ exports[`Storyshots Text Basic 1`] = `
       }
     >
       <div
-        className="Container-j48z18-0 dNtKMy"
+        className="Container-s1kk78uv-0 GCnsz"
       >
         <span
           className="Text-s14udbl0-0 fEefOv"
@@ -23270,7 +24117,7 @@ exports[`Storyshots Text Basic 1`] = `
                 <tbody>
                   <tr>
                     <td>
-                      readable
+                      disableGutter
                     </td>
                     <td>
                       bool
@@ -23285,16 +24132,83 @@ exports[`Storyshots Text Basic 1`] = `
                   </tr>
                   <tr>
                     <td>
-                      disableGutter
+                      maxWidths
                     </td>
                     <td>
-                      bool
+                      other
                     </td>
                     <td>
-                      no
+                      yes
                     </td>
                     <td>
-                      -
+                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#666",
+                            }
+                          }
+                        >
+                          [
+                          <span>
+                            <span
+                              style={
+                                Object {
+                                  "color": "#666",
+                                }
+                              }
+                            >
+                              {
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                media
+                              </span>
+                              : 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                "
+                                large
+                                "
+                              </span>
+                              , 
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#666",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
+                              : 
+                              <span>
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#a11",
+                                    }
+                                  }
+                                >
+                                  960
+                                </span>
+                              </span>
+                              }
+                            </span>
+                          </span>
+                          ]
+                        </span>
+                      </span>
                     </td>
                     <td />
                   </tr>
@@ -23403,7 +24317,7 @@ exports[`Storyshots Text Weights 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Container-j48z18-0 dNtKMy"
+    className="Container-s1kk78uv-0 GCnsz"
   >
     <span
       className="Text-s14udbl0-0 fsUGAH"

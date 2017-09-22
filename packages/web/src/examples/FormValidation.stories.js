@@ -4,7 +4,6 @@ import { withInfo } from "@storybook/addon-info";
 
 import Button from "../Button";
 import ButtonPanel from "../ButtonPanel";
-import Container from "../Container";
 import Error from "../Error";
 import Field from "../Field";
 import FieldSet from "../FieldSet";
@@ -13,6 +12,7 @@ import Form from "../Form";
 import Input from "../Input";
 import Label from "../Label";
 import Legend from "../Legend";
+import Readable from "../Readable";
 import Switch from "../Switch";
 
 const postCodeRE = /[0-9]{4}/;
@@ -86,7 +86,7 @@ class App extends React.Component {
     const { edited, errors, form } = this.state;
     const hasErrors = !!Object.keys(errors).length;
     return (
-      <Container readable disableGutter>
+      <Readable>
         <Form onSubmit={this.handleSubmit}>
           <FieldSet>
             <Flex>
@@ -242,7 +242,7 @@ class App extends React.Component {
             </Button>
           </ButtonPanel>
         </Form>
-      </Container>
+      </Readable>
     );
   }
 }

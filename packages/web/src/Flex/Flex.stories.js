@@ -3,9 +3,9 @@ import { storiesOf } from "@storybook/react";
 import { withInfo } from "@storybook/addon-info";
 import { select } from "@storybook/addon-knobs";
 
-import Container from "../Container";
 import P from "../Paragraph";
 import Flex from "./Flex";
+import Readable from "../Readable";
 
 const itemAlignments = [
   "normal",
@@ -42,7 +42,7 @@ storiesOf("Flex", module).add(
       "wrap"
     );
     return (
-      <Container readable disableGutter>
+      <Readable>
         <Flex
           wrap={wrap}
           alignItems={alignItems}
@@ -73,7 +73,7 @@ storiesOf("Flex", module).add(
             <P>Seventh example</P>
           </Flex.Item>
         </Flex>
-      </Container>
+      </Readable>
     );
   })
 );

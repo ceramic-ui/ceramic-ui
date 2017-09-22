@@ -15,7 +15,7 @@ storiesOf("Input", module)
   .add(
     "Basic",
     withInfo()(() => (
-      <Container readable>
+      <Container>
         <Input />
       </Container>
     ))
@@ -23,7 +23,7 @@ storiesOf("Input", module)
   .add(
     "Inline",
     withInfo()(() => (
-      <SpacedContainer readable>
+      <SpacedContainer>
         <Input inline />
         <Input inline />
       </SpacedContainer>
@@ -31,10 +31,10 @@ storiesOf("Input", module)
   )
   .add("Disabled", () => (
     <div>
-      <Container readable>
+      <Container>
         <Input disabled value="cannot edit me!" />
       </Container>
-      <SpacedContainer readable>
+      <SpacedContainer>
         <Input inline disabled />
         <Input inline disabled />
       </SpacedContainer>
@@ -42,13 +42,13 @@ storiesOf("Input", module)
   ))
   .add("Validation", () => (
     <div>
-      <Container readable>
+      <Container>
         <Input valid defaultValue="I am valid" />
       </Container>
-      <Container readable>
+      <Container>
         <Input invalid defaultValue="I am invalid" />
       </Container>
-      <Container readable>
+      <Container>
         <Input
           disabled
           invalid

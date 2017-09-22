@@ -15,7 +15,7 @@ storiesOf("Select", module)
   .add(
     "Basic",
     withInfo()(() => (
-      <Container readable>
+      <Container>
         <Select>
           <Option value="">Select your favourite super hero</Option>
           <Option value="wonder-woman">Wonder woman</Option>
@@ -29,7 +29,7 @@ storiesOf("Select", module)
   .add(
     "Inline",
     withInfo()(() => (
-      <SpacedContainer readable>
+      <SpacedContainer>
         <Select inline>
           <Option value="">Select your favourite super hero</Option>
           <Option value="wonder-woman">Wonder woman</Option>
@@ -49,7 +49,7 @@ storiesOf("Select", module)
   )
   .add("Disabled", () => (
     <div>
-      <Container readable>
+      <Container>
         <Select disabled>
           <Option value="">You can't open me!</Option>
           <Option value="wonder-woman">Wonder woman</Option>
@@ -58,7 +58,7 @@ storiesOf("Select", module)
           <Option value="iron-man">Iron man</Option>
         </Select>
       </Container>
-      <SpacedContainer readable>
+      <SpacedContainer>
         <Select inline disabled>
           <Option value="">Select your favourite super hero</Option>
           <Option value="wonder-woman">Wonder woman</Option>

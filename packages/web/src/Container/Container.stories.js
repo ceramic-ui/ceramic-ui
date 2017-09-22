@@ -12,10 +12,15 @@ storiesOf("Container", module).add(
     <div>
       <Container>Hello Container 1</Container>
       <Container>Hello Container 2</Container>
-      <Container readable>
-        This container has its width limited for readability on tablet and
-        larger screens. On mobile screens, it still takes up 100% width. Try
-        resizing your window to see the effect.
+      <Container
+        maxWidths={[
+          { media: "small", value: 400 },
+          { media: "medium", value: 500 },
+          { media: "large", value: 800 }
+        ]}
+      >
+        This container has custom max widths for different screen size. Try
+        resizing the browser window!
       </Container>
     </div>
   ))

@@ -6,8 +6,8 @@ import Downshift from "downshift";
 import { darken } from "../colors";
 import Button from "../Button";
 import Box from "../Box";
-import Container from "../Container";
 import Input from "../Input";
+import Readable from "../Readable";
 
 const DownButton = Button.extend`
   text-align: left;
@@ -60,7 +60,7 @@ storiesOf("Examples", module).add("Using with downshift", () => (
     {childProps => {
       const { getRootProps, getInputProps, isOpen, inputValue } = childProps;
       return (
-        <Container readable {...getRootProps({ refKey: "innerRef" })}>
+        <Readable {...getRootProps({ refKey: "innerRef" })}>
           <DownInput
             {...getInputProps({ placeholder: "Favorite color?" })}
             isOpen={isOpen}
@@ -70,7 +70,7 @@ storiesOf("Examples", module).add("Using with downshift", () => (
               {renderItems(filterItems(inputValue), childProps)}
             </DownBox>
           )}
-        </Container>
+        </Readable>
       );
     }}
   </Downshift>
