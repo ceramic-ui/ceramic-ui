@@ -6,7 +6,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
 >
   <div>
     <div
-      className="Box-s1q72ma9-0 bVrEHR"
+      className="Box-s1k20wdx-0 jrfhHe"
     >
       With 
       <code>
@@ -14,7 +14,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1q72ma9-0 ddBEgc"
+      className="Box-s1k20wdx-0 joAhoS"
     >
       With 
       <code>
@@ -22,7 +22,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1q72ma9-0 dRMoWq"
+      className="Box-s1k20wdx-0 ykQqZ"
     >
       With 
       <code>
@@ -30,7 +30,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1q72ma9-0 dzlkHf"
+      className="Box-s1k20wdx-0 ewuwxB"
     >
       With 
       <code>
@@ -38,7 +38,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1q72ma9-0 fgdNFC"
+      className="Box-s1k20wdx-0 dPWVib"
     >
       With 
       <code>
@@ -53,26 +53,20 @@ exports[`Storyshots Box Basic 1`] = `
 <div
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
-  <div>
+  <div
+    className="Box-s1k20wdx-0 jTUUIc"
+  >
     <div
-      className="Box-s1q72ma9-0 eaVbDB"
+      className="Box-s1k20wdx-0 jTUUIc"
     >
       Basic example
     </div>
     <div
-      className="Box-s1q72ma9-0 jnZIkl"
+      className="Box-s1k20wdx-0 hHhPMz"
     >
       With 
       <code>
         gutterX="base" gutterY="smallest"
-      </code>
-    </div>
-    <div
-      className="Box-s1q72ma9-0 UmpuX"
-    >
-      With 
-      <code>
-        noBorder
       </code>
     </div>
   </div>
@@ -498,7 +492,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
       onSubmit={[Function]}
     >
       <fieldset
-        className="Box-s1q72ma9-0-fieldset guMcTU"
+        className="Box-s1k20wdx-0-fieldset fSSFtb"
       >
         <div
           className="Flex-s1lmmxu5-1 dNIKNy"
@@ -563,7 +557,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
         </div>
       </fieldset>
       <fieldset
-        className="Box-s1q72ma9-0-fieldset guMcTU"
+        className="Box-s1k20wdx-0-fieldset fSSFtb"
       >
         <div
           className="Flex-s1lmmxu5-1 dNIKNy"
@@ -813,7 +807,7 @@ exports[`Storyshots FieldSet Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <fieldset
-    className="Box-s1q72ma9-0-fieldset guMcTU"
+    className="Box-s1k20wdx-0-fieldset fSSFtb"
   >
     Basic example
   </fieldset>
@@ -1788,187 +1782,198 @@ exports[`Storyshots Select Validation 1`] = `
 </div>
 `;
 
-exports[`Storyshots Switch Basic 1`] = `
+exports[`Storyshots Switch Checkboxes 1`] = `
 <div
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
-  <div>
-    <div
-      className="Box-s1q72ma9-0 eaVbDB"
+  <div
+    className="Box-s1k20wdx-0 gmYpKW"
+  >
+    <p
+      className="Paragraph-s1qmbsem-0 hiwcSy"
+      spacing="smallest"
     >
-      <p
-        className="Paragraph-s1qmbsem-0 hiwcSy"
-        spacing="smallest"
-      >
-        As a checkbox
-      </p>
+      Switch can be used as checkboxes with 
+      <code>
+        type="checkbox"
+      </code>
+    </p>
+    <div
+      className="Field-w8gztl-0 dOdphz"
+    >
       <div
-        className="Field-w8gztl-0 dOdphz"
+        className="Switch__Container-s12shb1n-3 erjjhL"
       >
-        <div
-          className="Switch__Container-s12shb1n-3 erjjhL"
+        <input
+          className="Switch__Control-s12shb1n-2 UqEMw"
+          id="example"
+          name="check1"
+          type="checkbox"
+        />
+        <label
+          className="Switch__Label-s12shb1n-1 MBuRg"
         >
-          <input
-            className="Switch__Control-s12shb1n-2 UqEMw"
-            id="example"
-            name="check1"
-            type="checkbox"
+          <div
+            className="Switch__Status-s12shb1n-0 lmYiEf"
           />
-          <label
-            className="Switch__Label-s12shb1n-1 MBuRg"
+          <div
+            className="Switch__Content-s12shb1n-4 cQtReC"
           >
-            <div
-              className="Switch__Status-s12shb1n-0 lmYiEf"
-            />
-            <div
-              className="Switch__Content-s12shb1n-4 cQtReC"
-            >
-              This can be toggled
-            </div>
-          </label>
-        </div>
-      </div>
-      <div
-        className="Field-w8gztl-0 dOdphz"
-      >
-        <div
-          className="Switch__Container-s12shb1n-3 erjjhL"
-        >
-          <input
-            className="Switch__Control-s12shb1n-2 UqEMw"
-            id="example2"
-            name="check1"
-            type="checkbox"
-          />
-          <label
-            className="Switch__Label-s12shb1n-1 MBuRg"
-          >
-            <div
-              className="Switch__Status-s12shb1n-0 lmYiEf"
-            />
-            <div
-              className="Switch__Content-s12shb1n-4 cQtReC"
-            >
-              So can this one
-            </div>
-          </label>
-        </div>
-      </div>
-      <div
-        className="Field-w8gztl-0 jNJaXY"
-      >
-        <div
-          className="Switch__Container-s12shb1n-3 erjjhL"
-        >
-          <input
-            className="Switch__Control-s12shb1n-2 UqEMw"
-            disabled={true}
-            id="example3"
-            name="check1"
-            type="checkbox"
-          />
-          <label
-            className="Switch__Label-s12shb1n-1 MBuRg"
-          >
-            <div
-              className="Switch__Status-s12shb1n-0 lmYiEf"
-            />
-            <div
-              className="Switch__Content-s12shb1n-4 cQtReC"
-            >
-              But this one is disabled
-            </div>
-          </label>
-        </div>
+            This can be toggled
+          </div>
+        </label>
       </div>
     </div>
     <div
-      className="Box-s1q72ma9-0 eaVbDB"
+      className="Field-w8gztl-0 dOdphz"
     >
-      <p
-        className="Paragraph-s1qmbsem-0 hiwcSy"
-        spacing="smallest"
-      >
-        As a radio
-      </p>
       <div
-        className="Field-w8gztl-0 dOdphz"
+        className="Switch__Container-s12shb1n-3 erjjhL"
       >
-        <div
-          className="Switch__Container-s12shb1n-3 erjjhL"
+        <input
+          className="Switch__Control-s12shb1n-2 UqEMw"
+          id="example2"
+          name="check1"
+          type="checkbox"
+        />
+        <label
+          className="Switch__Label-s12shb1n-1 MBuRg"
         >
-          <input
-            className="Switch__Control-s12shb1n-2 UqEMw"
-            id="example4"
-            name="radio1"
-            type="radio"
+          <div
+            className="Switch__Status-s12shb1n-0 lmYiEf"
           />
-          <label
-            className="Switch__Label-s12shb1n-1 MBuRg"
+          <div
+            className="Switch__Content-s12shb1n-4 cQtReC"
           >
-            <div
-              className="Switch__Status-s12shb1n-0 lmYiEf"
-            />
-            <div
-              className="Switch__Content-s12shb1n-4 cQtReC"
-            >
-              This can be selected
-            </div>
-          </label>
-        </div>
+            So can this one
+          </div>
+        </label>
       </div>
+    </div>
+    <div
+      className="Field-w8gztl-0 jNJaXY"
+    >
       <div
-        className="Field-w8gztl-0 dOdphz"
+        className="Switch__Container-s12shb1n-3 erjjhL"
       >
-        <div
-          className="Switch__Container-s12shb1n-3 erjjhL"
+        <input
+          className="Switch__Control-s12shb1n-2 UqEMw"
+          disabled={true}
+          id="example3"
+          name="check1"
+          type="checkbox"
+        />
+        <label
+          className="Switch__Label-s12shb1n-1 MBuRg"
         >
-          <input
-            className="Switch__Control-s12shb1n-2 UqEMw"
-            id="example5"
-            name="radio1"
-            type="radio"
+          <div
+            className="Switch__Status-s12shb1n-0 lmYiEf"
           />
-          <label
-            className="Switch__Label-s12shb1n-1 MBuRg"
+          <div
+            className="Switch__Content-s12shb1n-4 cQtReC"
           >
-            <div
-              className="Switch__Status-s12shb1n-0 lmYiEf"
-            />
-            <div
-              className="Switch__Content-s12shb1n-4 cQtReC"
-            >
-              So can this one
-            </div>
-          </label>
-        </div>
+            But this one is disabled
+          </div>
+        </label>
       </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Switch Radios 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div
+    className="Box-s1k20wdx-0 gmYpKW"
+  >
+    <p
+      className="Paragraph-s1qmbsem-0 hiwcSy"
+      spacing="smallest"
+    >
+      Switch can be used as radios with 
+      <code>
+        type="radios"
+      </code>
+    </p>
+    <div
+      className="Field-w8gztl-0 dOdphz"
+    >
       <div
-        className="Field-w8gztl-0 dOdphz"
+        className="Switch__Container-s12shb1n-3 erjjhL"
       >
-        <div
-          className="Switch__Container-s12shb1n-3 erjjhL"
+        <input
+          className="Switch__Control-s12shb1n-2 UqEMw"
+          id="example4"
+          name="radio1"
+          type="radio"
+        />
+        <label
+          className="Switch__Label-s12shb1n-1 MBuRg"
         >
-          <input
-            className="Switch__Control-s12shb1n-2 UqEMw"
-            disabled={true}
-            id="example6"
-            name="radio1"
-            type="radio"
+          <div
+            className="Switch__Status-s12shb1n-0 lmYiEf"
           />
-          <label
-            className="Switch__Label-s12shb1n-1 MBuRg"
+          <div
+            className="Switch__Content-s12shb1n-4 cQtReC"
           >
-            <div
-              className="Switch__Status-s12shb1n-0 lmYiEf"
-            />
-            <div
-              className="Switch__Content-s12shb1n-4 cQtReC"
-            >
-              But this one is disabled
-            </div>
-          </label>
-        </div>
+            This can be selected
+          </div>
+        </label>
+      </div>
+    </div>
+    <div
+      className="Field-w8gztl-0 dOdphz"
+    >
+      <div
+        className="Switch__Container-s12shb1n-3 erjjhL"
+      >
+        <input
+          className="Switch__Control-s12shb1n-2 UqEMw"
+          id="example5"
+          name="radio1"
+          type="radio"
+        />
+        <label
+          className="Switch__Label-s12shb1n-1 MBuRg"
+        >
+          <div
+            className="Switch__Status-s12shb1n-0 lmYiEf"
+          />
+          <div
+            className="Switch__Content-s12shb1n-4 cQtReC"
+          >
+            So can this one
+          </div>
+        </label>
+      </div>
+    </div>
+    <div
+      className="Field-w8gztl-0 dOdphz"
+    >
+      <div
+        className="Switch__Container-s12shb1n-3 erjjhL"
+      >
+        <input
+          className="Switch__Control-s12shb1n-2 UqEMw"
+          disabled={true}
+          id="example6"
+          name="radio1"
+          type="radio"
+        />
+        <label
+          className="Switch__Label-s12shb1n-1 MBuRg"
+        >
+          <div
+            className="Switch__Status-s12shb1n-0 lmYiEf"
+          />
+          <div
+            className="Switch__Content-s12shb1n-4 cQtReC"
+          >
+            But this one is disabled
+          </div>
+        </label>
       </div>
     </div>
   </div>

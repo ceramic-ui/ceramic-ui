@@ -6,10 +6,12 @@ import Field from "../Field";
 import P from "../Paragraph";
 import Switch from "./Switch";
 
-storiesOf("Switch", module).add("Basic", () => (
-  <div>
+storiesOf("Switch", module)
+  .add("Checkboxes", () => (
     <Box gutterX="base" gutterY="base">
-      <P>As a checkbox</P>
+      <P>
+        Switch can be used as checkboxes with <code>type="checkbox"</code>
+      </P>
       <Field>
         <Switch id="example" name="check1" type="checkbox">
           This can be toggled
@@ -26,8 +28,12 @@ storiesOf("Switch", module).add("Basic", () => (
         </Switch>
       </Field>
     </Box>
+  ))
+  .add("Radios", () => (
     <Box gutterX="base" gutterY="base">
-      <P>As a radio</P>
+      <P>
+        Switch can be used as radios with <code>type="radios"</code>
+      </P>
       <Field>
         <Switch id="example4" name="radio1" type="radio">
           This can be selected
@@ -44,5 +50,4 @@ storiesOf("Switch", module).add("Basic", () => (
         </Switch>
       </Field>
     </Box>
-  </div>
-));
+  ));
