@@ -492,7 +492,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
       onSubmit={[Function]}
     >
       <fieldset
-        className="s1k20wdx-0-fieldset-Box-jLJQJw cYBZzM"
+        className="s1k20wdx-0-fieldset-Box-jLJQJw jNLQCJ"
       >
         <div
           className="Flex-s8l8zm-1 fuadQC"
@@ -557,7 +557,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
         </div>
       </fieldset>
       <fieldset
-        className="s1k20wdx-0-fieldset-Box-jLJQJw cYBZzM"
+        className="s1k20wdx-0-fieldset-Box-jLJQJw jNLQCJ"
       >
         <div
           className="Flex-s8l8zm-1 fuadQC"
@@ -807,7 +807,7 @@ exports[`Storyshots FieldSet Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <fieldset
-    className="s1k20wdx-0-fieldset-Box-jLJQJw cYBZzM"
+    className="s1k20wdx-0-fieldset-Box-jLJQJw jNLQCJ"
   >
     Basic example
   </fieldset>
