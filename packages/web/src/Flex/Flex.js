@@ -21,10 +21,12 @@ const doesWrap = ({ wrap }) => wrap === "wrap" || wrap === "wrap-reverse";
 
 const Flex = styled.div`
   ${props => `
+    max-width: 100%;
     margin-bottom: ${doesWrap(props)
       ? props.theme.spacingBase(s => -1 * s)
       : 0};
     margin-left: ${isColumn(props) ? 0 : props.theme.spacingBase(s => -1 * s)};
+    margin-right: ${isColumn(props) ? 0 : props.theme.spacingBase(s => -1 * s)};
     display: ${props.inline ? "inline-flex" : "flex"};
     ${!!props.alignItems && `align-items: ${props.alignItems}`};
     ${!!props.alignContent && `align-content: ${props.alignContent}`};
@@ -36,6 +38,7 @@ const Flex = styled.div`
     padding-left: ${props => (isColumn(props) ? 0 : props.theme.spacingBase())};
     padding-bottom: ${props =>
       isColumn(props) || doesWrap(props) ? props.theme.spacingBase() : 0};
+    ${props => doesWrap(props) && `max-width: 100%`};
   }
 `;
 

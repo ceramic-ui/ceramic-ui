@@ -495,10 +495,10 @@ exports[`Storyshots Examples Form Validation 1`] = `
         className="Box-s1k20wdx-0-fieldset fSSFtb"
       >
         <div
-          className="Flex-s1lmmxu5-1 dNIKNy"
+          className="Flex-s8l8zm-1 fuadQC"
         >
           <div
-            className="Flex__Item-s1lmmxu5-0 jFTHiw"
+            className="Flex__Item-s8l8zm-0 ifwxop"
           >
             <legend
               className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
@@ -508,10 +508,10 @@ exports[`Storyshots Examples Form Validation 1`] = `
           </div>
         </div>
         <div
-          className="Flex-s1lmmxu5-1 dNIKNy"
+          className="Flex-s8l8zm-1 fuadQC"
         >
           <div
-            className="Flex__Item-s1lmmxu5-0 cmVgdI"
+            className="Flex__Item-s8l8zm-0 iHUsqO"
           >
             <div
               className="Field-w8gztl-0 jNJaXY"
@@ -533,7 +533,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             </div>
           </div>
           <div
-            className="Flex__Item-s1lmmxu5-0 cmVgdI"
+            className="Flex__Item-s8l8zm-0 iHUsqO"
           >
             <div
               className="Field-w8gztl-0 jNJaXY"
@@ -560,10 +560,10 @@ exports[`Storyshots Examples Form Validation 1`] = `
         className="Box-s1k20wdx-0-fieldset fSSFtb"
       >
         <div
-          className="Flex-s1lmmxu5-1 dNIKNy"
+          className="Flex-s8l8zm-1 fuadQC"
         >
           <div
-            className="Flex__Item-s1lmmxu5-0 jFTHiw"
+            className="Flex__Item-s8l8zm-0 ifwxop"
           >
             <legend
               className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
@@ -604,10 +604,10 @@ exports[`Storyshots Examples Form Validation 1`] = `
           />
         </div>
         <div
-          className="Flex-s1lmmxu5-1 dNIKNy"
+          className="Flex-s8l8zm-1 fuadQC"
         >
           <div
-            className="Flex__Item-s1lmmxu5-0 cmVgdI"
+            className="Flex__Item-s8l8zm-0 iHUsqO"
           >
             <div
               className="Field-w8gztl-0 dOdphz"
@@ -629,7 +629,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             </div>
           </div>
           <div
-            className="Flex__Item-s1lmmxu5-0 jFTHiw"
+            className="Flex__Item-s8l8zm-0 ifwxop"
           >
             <div
               className="Field-w8gztl-0 dOdphz"
@@ -822,12 +822,12 @@ exports[`Storyshots Flex Basic 1`] = `
     className="Readable-s106xs6s-0 GWqSM"
   >
     <div
-      className="Flex-s1lmmxu5-1 dQsyUb"
+      className="Flex-s8l8zm-1 kgSxTB"
       direction="row"
       wrap="wrap"
     >
       <div
-        className="Flex__Item-s1lmmxu5-0 jFTHiw"
+        className="Flex__Item-s8l8zm-0 ifwxop"
       >
         <p
           className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -839,7 +839,7 @@ exports[`Storyshots Flex Basic 1`] = `
         </p>
       </div>
       <div
-        className="Flex__Item-s1lmmxu5-0 jFTHiw"
+        className="Flex__Item-s8l8zm-0 ifwxop"
       >
         <p
           className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -849,7 +849,7 @@ exports[`Storyshots Flex Basic 1`] = `
         </p>
       </div>
       <div
-        className="Flex__Item-s1lmmxu5-0 jFTHiw"
+        className="Flex__Item-s8l8zm-0 ifwxop"
       >
         <p
           className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -859,7 +859,7 @@ exports[`Storyshots Flex Basic 1`] = `
         </p>
       </div>
       <div
-        className="Flex__Item-s1lmmxu5-0 hffWbS"
+        className="Flex__Item-s8l8zm-0 kRYbLp"
         order={-1}
       >
         <p
@@ -870,7 +870,7 @@ exports[`Storyshots Flex Basic 1`] = `
         </p>
       </div>
       <div
-        className="Flex__Item-s1lmmxu5-0 cmVgdI"
+        className="Flex__Item-s8l8zm-0 iHUsqO"
       >
         <p
           className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -880,7 +880,7 @@ exports[`Storyshots Flex Basic 1`] = `
         </p>
       </div>
       <div
-        className="Flex__Item-s1lmmxu5-0 jFTHiw"
+        className="Flex__Item-s8l8zm-0 ifwxop"
       >
         <p
           className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -890,7 +890,7 @@ exports[`Storyshots Flex Basic 1`] = `
         </p>
       </div>
       <div
-        className="Flex__Item-s1lmmxu5-0 jFTHiw"
+        className="Flex__Item-s8l8zm-0 ifwxop"
       >
         <p
           className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -982,17 +982,17 @@ exports[`Storyshots Input Inline 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Flex-s1lmmxu5-1 dNIKNy"
+    className="Flex-s8l8zm-1 fuadQC"
   >
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <input
         className="Input-n2s9mv-0 hTZkre"
       />
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <input
         className="Input-n2s9mv-0 hTZkre"
@@ -1007,11 +1007,11 @@ exports[`Storyshots Input Validation 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Flex-s1lmmxu5-1 iQmqfD"
+    className="Flex-s8l8zm-1 cFAGpQ"
     direction="column"
   >
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <input
         className="Input-n2s9mv-0 feLGKW"
@@ -1019,7 +1019,7 @@ exports[`Storyshots Input Validation 1`] = `
       />
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <input
         className="Input-n2s9mv-0 SvraW"
@@ -1027,7 +1027,7 @@ exports[`Storyshots Input Validation 1`] = `
       />
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <input
         className="Input-n2s9mv-0 hfkXjF"
@@ -1068,10 +1068,10 @@ exports[`Storyshots Link Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Flex-s1lmmxu5-1 lhfiLN"
+    className="Flex-s8l8zm-1 bLknKK"
   >
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 fcljDw"
@@ -1081,7 +1081,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 fBeUOM"
@@ -1091,7 +1091,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 cHzbQE"
@@ -1101,7 +1101,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 bfMrYA"
@@ -1111,7 +1111,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 iEeHxe"
@@ -1121,7 +1121,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 fDzeWY"
@@ -1131,7 +1131,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 hUwACL"
@@ -1141,7 +1141,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 enafBc"
@@ -1151,7 +1151,7 @@ exports[`Storyshots Link Basic 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 fNFxrh"
@@ -1169,11 +1169,11 @@ exports[`Storyshots Link Block-level 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Flex-s1lmmxu5-1 iQmqfD"
+    className="Flex-s8l8zm-1 cFAGpQ"
     direction="column"
   >
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 BqjIt"
@@ -1183,7 +1183,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 kuvIka"
@@ -1193,7 +1193,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 gguRWB"
@@ -1203,7 +1203,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 dksWnv"
@@ -1213,7 +1213,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 hCkinq"
@@ -1223,7 +1223,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 kULvTI"
@@ -1233,7 +1233,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 IbGR"
@@ -1243,7 +1243,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 ckaRKj"
@@ -1253,7 +1253,7 @@ exports[`Storyshots Link Block-level 1`] = `
       </a>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
         className="Link-s1mfj9j3-0 kNhoJw"
@@ -1487,11 +1487,11 @@ exports[`Storyshots Select Inline 1`] = `
 >
   <div>
     <div
-      className="Flex-s1lmmxu5-1 exxaEd"
+      className="Flex-s8l8zm-1 ikrlVQ"
       wrap="wrap"
     >
       <div
-        className="Flex__Item-s1lmmxu5-0 jFTHiw"
+        className="Flex__Item-s8l8zm-0 ifwxop"
       >
         <div
           className="Select__Container-v7zbvw-0 iVeICc"
@@ -1546,7 +1546,7 @@ exports[`Storyshots Select Inline 1`] = `
         </div>
       </div>
       <div
-        className="Flex__Item-s1lmmxu5-0 jFTHiw"
+        className="Flex__Item-s8l8zm-0 ifwxop"
       >
         <div
           className="Select__Container-v7zbvw-0 iVeICc"
@@ -1610,10 +1610,10 @@ exports[`Storyshots Select Validation 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Flex-s1lmmxu5-1 dNIKNy"
+    className="Flex-s8l8zm-1 fuadQC"
   >
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <div
         className="Select__Container-v7zbvw-0 euxpSg"
@@ -1668,7 +1668,7 @@ exports[`Storyshots Select Validation 1`] = `
       </div>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <div
         className="Select__Container-v7zbvw-0 cwTSP"
@@ -1723,7 +1723,7 @@ exports[`Storyshots Select Validation 1`] = `
       </div>
     </div>
     <div
-      className="Flex__Item-s1lmmxu5-0 jFTHiw"
+      className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <div
         className="Select__Container-v7zbvw-0 jQnXw"
