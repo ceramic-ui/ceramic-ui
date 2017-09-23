@@ -27,14 +27,12 @@ export default {
   spacingLarger: size(1.44),
   spacingLargest: size(2.074),
   fontSizeBase: size(1),
-
   fontSize1: size(2.074),
   fontSize2: size(1.728),
   fontSize3: size(1.44),
   fontSize4: size(1.2),
   fontSize5: size(1),
   fontSize6: size(0.833),
-
   lineHeight: size(1.5, ""),
   readableWidth: size(38),
   mediaSmall: size(576, "px"),
