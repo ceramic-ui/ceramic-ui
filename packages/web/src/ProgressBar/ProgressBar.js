@@ -22,7 +22,7 @@ const ProgressBar = styled.div.attrs({
   ${props => {
     const color = resolveColor(props, "appearance");
     return `
-      height: ${props.theme.fontSize()};
+      height: ${props.theme.fontSizeBase()};
       background-color: ${props.theme.borderColor};
       background-image: linear-gradient(
         to right,

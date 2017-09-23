@@ -9,7 +9,7 @@ const Input = styled.input`
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
-  font-size: ${props => props.theme.fontSize()};
+  font-size: ${props => props.theme.fontSizeBase()};
   line-height: inherit;
   box-sizing: border-box;
   border: ${props => props.theme.borderWidth()} solid currentColor;

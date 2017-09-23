@@ -15,7 +15,7 @@ const Status = styled.div`
     content: "";
     transform: scale3d(0.8, 0.8, 1);
     transform-origin: 50% 50%;
-    border-radius: ${props => props.theme.fontSize()};
+    border-radius: ${props => props.theme.fontSizeBase()};
     position: absolute;
     top: 0;
     left: 0;
@@ -25,7 +25,7 @@ const Status = styled.div`
   }
 
   ${props => {
-    const size = props.theme.fontSize(s => s * 1.2);
+    const size = props.theme.fontSizeBase(s => s * 1.2);
     return `
       width: ${size};
       height: ${size};

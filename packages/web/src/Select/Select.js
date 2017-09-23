@@ -55,7 +55,7 @@ const ChevronSVG = ({ className }) => (
 const Chevron = styled(ChevronSVG)`
   width: 1em;
   height: 1em;
-  font-size: ${props => props.theme.fontSize()};
+  font-size: ${props => props.theme.fontSizeBase()};
   display: block;
   margin: 0 auto;
 `;
@@ -75,7 +75,7 @@ const Control = styled.select`
      padding-left: ${props.theme.spacingSmallest()};
      padding-right ${props.theme.spacingSmallest(s => s * 4)};
   `};
-  font-size: ${props => props.theme.fontSize()};
+  font-size: ${props => props.theme.fontSizeBase()};
   line-height: inherit;
   cursor: pointer;
   z-index: 1;
