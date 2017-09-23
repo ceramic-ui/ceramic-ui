@@ -5,15 +5,12 @@ import Box from "./Box";
 
 storiesOf("Box", module)
   .add("Basic", () => (
-    <div>
+    <Box>
       <Box>Basic example</Box>
       <Box gutterX="base" gutterY="smallest">
         With <code>gutterX="base" gutterY="smallest"</code>
       </Box>
-      <Box noBorder>
-        With <code>noBorder</code>
-      </Box>
-    </div>
+    </Box>
   ))
   .add("Backgrounds", () => (
     <div>
