@@ -134,7 +134,7 @@ exports[`Storyshots Button Basic 1`] = `
       className="Paragraph-s1qmbsem-0 hiwcSy"
       spacing="smallest"
     >
-      Set "Stage background" to dark knob to see light variations
+      Set "Stage background" knob to dark to see light variations
     </p>
   </div>
 </div>
@@ -201,7 +201,7 @@ exports[`Storyshots Button Block-level 1`] = `
       className="Paragraph-s1qmbsem-0 hiwcSy"
       spacing="smallest"
     >
-      Set "Stage background" to dark knob to see light variations
+      Set "Stage background" knob to dark to see light variations
     </p>
   </div>
 </div>
@@ -277,7 +277,7 @@ exports[`Storyshots Button Disabled 1`] = `
       className="Paragraph-s1qmbsem-0 hiwcSy"
       spacing="smallest"
     >
-      Set "Stage background" to dark knob to see light variations
+      Set "Stage background" knob to dark to see light variations
     </p>
   </div>
 </div>

@@ -19,7 +19,7 @@ storiesOf("Button", module)
           <Button appearance="dark">Dark</Button>
           <Button appearance="link">Link</Button>
         </ButtonPanel>
-        <P>Set "Stage background" to dark knob to see light variations</P>
+        <P>Set "Stage background" knob to dark to see light variations</P>
       </div>
     );
   })
@@ -50,7 +50,7 @@ storiesOf("Button", module)
             Link
           </Button>
         </ButtonPanel>
-        <P>Set "Stage background" to dark knob to see light variations</P>
+        <P>Set "Stage background" knob to dark to see light variations</P>
       </div>
     );
   })
@@ -81,7 +81,7 @@ storiesOf("Button", module)
             Link
           </Button>
         </ButtonPanel>
-        <P>Set "Stage background" to dark knob to see light variations</P>
+        <P>Set "Stage background" knob to dark to see light variations</P>
       </div>
     );
   });
