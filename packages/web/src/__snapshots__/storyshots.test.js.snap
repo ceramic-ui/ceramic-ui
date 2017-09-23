@@ -339,7 +339,7 @@ exports[`Storyshots Callout Basic 1`] = `
       className="Callout-mttm4f-0 ZhdNC"
     >
       <h2
-        className="Heading__Heading2-s1dfzcz4-1 kizYdH"
+        className="Heading__Heading2-bds1vi-1 fLJvPN"
       >
         Callout - Primary style
       </h2>
@@ -360,7 +360,7 @@ exports[`Storyshots Callout Basic 1`] = `
       className="Callout-mttm4f-0 hKbcnT"
     >
       <h2
-        className="Heading__Heading2-s1dfzcz4-1 kizYdH"
+        className="Heading__Heading2-bds1vi-1 fLJvPN"
       >
         Callout - Primary style
       </h2>
@@ -381,7 +381,7 @@ exports[`Storyshots Callout Basic 1`] = `
       className="Callout-mttm4f-0 WuoUl"
     >
       <h2
-        className="Heading__Heading2-s1dfzcz4-1 kizYdH"
+        className="Heading__Heading2-bds1vi-1 fLJvPN"
       >
         Callout - Danger style
       </h2>
@@ -402,7 +402,7 @@ exports[`Storyshots Callout Basic 1`] = `
       className="Callout-mttm4f-0 dHRhPe"
     >
       <h2
-        className="Heading__Heading2-s1dfzcz4-1 kizYdH"
+        className="Heading__Heading2-bds1vi-1 fLJvPN"
       >
         Callout - Success style
       </h2>
@@ -423,7 +423,7 @@ exports[`Storyshots Callout Basic 1`] = `
       className="Callout-mttm4f-0 bqAedm"
     >
       <h2
-        className="Heading__Heading2-s1dfzcz4-1 kizYdH"
+        className="Heading__Heading2-bds1vi-1 fLJvPN"
       >
         Callout - Dark style
       </h2>
@@ -501,7 +501,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             className="Flex__Item-s1lmmxu5-0 jFTHiw"
           >
             <legend
-              className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC fHONcX"
+              className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
             >
               Personal information
             </legend>
@@ -517,14 +517,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
               className="Field-w8gztl-0 jNJaXY"
             >
               <label
-                className="Label-s13jfhe8-0 cVjxDI"
+                className="Label-wn7l1e-0 kBnUBg"
                 htmlFor="givenNames"
               >
                 Given names
               </label>
               <input
                 aria-describedby="givenNamesErrors"
-                className="Input-s1j0sozl-0 kXoTHM"
+                className="Input-n2s9mv-0 TcINU"
                 id="givenNames"
                 name="givenNames"
                 onChange={[Function]}
@@ -539,14 +539,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
               className="Field-w8gztl-0 jNJaXY"
             >
               <label
-                className="Label-s13jfhe8-0 cVjxDI"
+                className="Label-wn7l1e-0 kBnUBg"
                 htmlFor="lastName"
               >
                 Last name
               </label>
               <input
                 aria-describedby="lastNameErrors"
-                className="Input-s1j0sozl-0 kXoTHM"
+                className="Input-n2s9mv-0 TcINU"
                 id="lastName"
                 name="lastName"
                 onChange={[Function]}
@@ -566,7 +566,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             className="Flex__Item-s1lmmxu5-0 jFTHiw"
           >
             <legend
-              className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC fHONcX"
+              className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
             >
               Billing address
             </legend>
@@ -577,14 +577,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
           spacing="smaller"
         >
           <label
-            className="Label-s13jfhe8-0 cVjxDI"
+            className="Label-wn7l1e-0 kBnUBg"
             htmlFor="addressLine1"
           >
             Street address
           </label>
           <input
             aria-describedby="addressLine1Errors"
-            className="Input-s1j0sozl-0 kXoTHM"
+            className="Input-n2s9mv-0 TcINU"
             id="addressLine1"
             name="addressLine1"
             onChange={[Function]}
@@ -596,7 +596,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
         >
           <input
             aria-describedby="addressLine2Errors"
-            className="Input-s1j0sozl-0 kXoTHM"
+            className="Input-n2s9mv-0 TcINU"
             id="addressLine2"
             name="addressLine2"
             onChange={[Function]}
@@ -613,14 +613,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
               className="Field-w8gztl-0 dOdphz"
             >
               <label
-                className="Label-s13jfhe8-0 cVjxDI"
+                className="Label-wn7l1e-0 kBnUBg"
                 htmlFor="city"
               >
                 Town or city
               </label>
               <input
                 aria-describedby="cityErrors"
-                className="Input-s1j0sozl-0 kXoTHM"
+                className="Input-n2s9mv-0 TcINU"
                 id="city"
                 name="city"
                 onChange={[Function]}
@@ -635,14 +635,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
               className="Field-w8gztl-0 dOdphz"
             >
               <label
-                className="Label-s13jfhe8-0 cVjxDI"
+                className="Label-wn7l1e-0 kBnUBg"
                 htmlFor="postCode"
               >
                 Postcode
               </label>
               <input
                 aria-describedby="postCodeErrors"
-                className="Input-s1j0sozl-0 kXoTHM"
+                className="Input-n2s9mv-0 TcINU"
                 id="postCode"
                 name="postCode"
                 onChange={[Function]}
@@ -655,14 +655,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
           className="Field-w8gztl-0 jNJaXY"
         >
           <label
-            className="Label-s13jfhe8-0 cVjxDI"
+            className="Label-wn7l1e-0 kBnUBg"
             htmlFor="country"
           >
             Country
           </label>
           <input
             aria-describedby="countryErrors"
-            className="Input-s1j0sozl-0 kXoTHM"
+            className="Input-n2s9mv-0 TcINU"
             id="country"
             name="country"
             onChange={[Function]}
@@ -674,24 +674,24 @@ exports[`Storyshots Examples Form Validation 1`] = `
         className="Field-w8gztl-0 dOdphz"
       >
         <div
-          className="Switch__Container-s12shb1n-3 erjjhL"
+          className="Switch__Container-s1fnj0mp-3 kbGToR"
         >
           <input
             aria-describedby="marketingErrors"
             checked={true}
-            className="Switch__Control-s12shb1n-2 UqEMw"
+            className="Switch__Control-s1fnj0mp-2 cAFEQu"
             name="marketing"
             onChange={[Function]}
             type="checkbox"
           />
           <label
-            className="Switch__Label-s12shb1n-1 MBuRg"
+            className="Switch__Label-s1fnj0mp-1 kHmlbX"
           >
             <div
-              className="Switch__Status-s12shb1n-0 lmYiEf"
+              className="Switch__Status-s1fnj0mp-0 kJuQgk"
             />
             <div
-              className="Switch__Content-s12shb1n-4 cQtReC"
+              className="Switch__Content-s1fnj0mp-4 cJHJXh"
             >
               Would you like to receive occasional emails with offers and product announcements?
             </div>
@@ -735,7 +735,7 @@ exports[`Storyshots Examples Using with downshift 1`] = `
       aria-autocomplete="list"
       aria-expanded={false}
       autoComplete="off"
-      className="s1j0sozl-0-Input-eXLwAq gakcYW"
+      className="n2s9mv-0-Input-eXLwAq koXfnw"
       id="downshift-input-2"
       onBlur={[Function]}
       onChange={[Function]}
@@ -760,23 +760,23 @@ exports[`Storyshots Field Basic 1`] = `
     >
       <div>
         <label
-          className="Label-s13jfhe8-0 cVjxDI"
+          className="Label-wn7l1e-0 kBnUBg"
         >
           Street
         </label>
         <span
-          className="Text-s14udbl0-0 kSJujU"
+          className="Text-s4v3gyr-0 kefLYG"
           color="muted"
         >
           Must be a U.S. address
         </span>
       </div>
       <input
-        className="Input-s1j0sozl-0 kXoTHM"
+        className="Input-n2s9mv-0 TcINU"
         defaultValue="742 Evergreen Terrace"
       />
       <input
-        className="Input-s1j0sozl-0 kXoTHM"
+        className="Input-n2s9mv-0 TcINU"
         defaultValue=""
       />
       <p
@@ -789,12 +789,12 @@ exports[`Storyshots Field Basic 1`] = `
       className="Field-w8gztl-0 brSsWP"
     >
       <label
-        className="Label-s13jfhe8-0 cVjxDI"
+        className="Label-wn7l1e-0 kBnUBg"
       >
         Town or suburb
       </label>
       <input
-        className="Input-s1j0sozl-0 kXoTHM"
+        className="Input-n2s9mv-0 TcINU"
         defaultValue="Springfield"
       />
     </div>
@@ -922,32 +922,32 @@ exports[`Storyshots Heading Basic 1`] = `
 >
   <div>
     <h1
-      className="Heading__Heading1-s1dfzcz4-0 gpmoUp"
+      className="Heading__Heading1-bds1vi-0 hIKXcA"
     >
       The quick brown fox jumps over the lazy dog
     </h1>
     <h2
-      className="Heading__Heading2-s1dfzcz4-1 kizYdH"
+      className="Heading__Heading2-bds1vi-1 fLJvPN"
     >
       The quick brown fox jumps over the lazy dog
     </h2>
     <h3
-      className="Heading__Heading3-s1dfzcz4-2 dNQuKf"
+      className="Heading__Heading3-bds1vi-2 hTibWs"
     >
       The quick brown fox jumps over the lazy dog
     </h3>
     <h4
-      className="Heading__Heading4-s1dfzcz4-3 cMUzaM"
+      className="Heading__Heading4-bds1vi-3 PeJVO"
     >
       The quick brown fox jumps over the lazy dog
     </h4>
     <h5
-      className="Heading__Heading5-s1dfzcz4-4 fLokKf"
+      className="Heading__Heading5-bds1vi-4 fCKeZC"
     >
       The quick brown fox jumps over the lazy dog
     </h5>
     <h6
-      className="Heading__Heading6-s1dfzcz4-5 fhvBsk"
+      className="Heading__Heading6-bds1vi-5 cWHLlc"
     >
       The quick brown fox jumps over the lazy dog
     </h6>
@@ -960,7 +960,7 @@ exports[`Storyshots Input Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <input
-    className="Input-s1j0sozl-0 kXoTHM"
+    className="Input-n2s9mv-0 TcINU"
   />
 </div>
 `;
@@ -970,7 +970,7 @@ exports[`Storyshots Input Disabled 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <input
-    className="Input-s1j0sozl-0 hkqqXQ"
+    className="Input-n2s9mv-0 iSaqdt"
     disabled={true}
     value="cannot edit me!"
   />
@@ -988,14 +988,14 @@ exports[`Storyshots Input Inline 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <input
-        className="Input-s1j0sozl-0 exdyCQ"
+        className="Input-n2s9mv-0 hTZkre"
       />
     </div>
     <div
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <input
-        className="Input-s1j0sozl-0 exdyCQ"
+        className="Input-n2s9mv-0 hTZkre"
       />
     </div>
   </div>
@@ -1014,7 +1014,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <input
-        className="Input-s1j0sozl-0 jRZpZk"
+        className="Input-n2s9mv-0 feLGKW"
         defaultValue="I am valid"
       />
     </div>
@@ -1022,7 +1022,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <input
-        className="Input-s1j0sozl-0 bfuwXq"
+        className="Input-n2s9mv-0 SvraW"
         defaultValue="I am invalid"
       />
     </div>
@@ -1030,7 +1030,7 @@ exports[`Storyshots Input Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <input
-        className="Input-s1j0sozl-0 kaKCt"
+        className="Input-n2s9mv-0 hfkXjF"
         defaultValue="I am disabled. Validation not shown."
         disabled={true}
       />
@@ -1044,7 +1044,7 @@ exports[`Storyshots Label Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <label
-    className="Label-s13jfhe8-0 cVjxDI"
+    className="Label-wn7l1e-0 kBnUBg"
   >
     Basic example
   </label>
@@ -1056,7 +1056,7 @@ exports[`Storyshots Legend Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <legend
-    className="s1dfzcz4-3-legend-Heading__Heading4-brhaBC fHONcX"
+    className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
   >
     Basic example
   </legend>
@@ -1302,7 +1302,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       aria-valuemax={100}
       aria-valuemin={0}
       aria-valuenow={42}
-      className="ProgressBar-cxqey5-0 FapRJ"
+      className="ProgressBar-ai7x4l-0 dnbHPC"
       max={100}
       min={0}
       role="progressbar"
@@ -1312,7 +1312,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       aria-valuemax={100}
       aria-valuemin={0}
       aria-valuenow={42}
-      className="ProgressBar-cxqey5-0 heVjpj"
+      className="ProgressBar-ai7x4l-0 jFaGd"
       max={100}
       min={0}
       role="progressbar"
@@ -1322,7 +1322,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       aria-valuemax={100}
       aria-valuemin={0}
       aria-valuenow={42}
-      className="ProgressBar-cxqey5-0 dXrtOQ"
+      className="ProgressBar-ai7x4l-0 iUhamh"
       max={100}
       min={0}
       role="progressbar"
@@ -1332,7 +1332,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       aria-valuemax={100}
       aria-valuemin={0}
       aria-valuenow={42}
-      className="ProgressBar-cxqey5-0 hsayfM"
+      className="ProgressBar-ai7x4l-0 cvfXGW"
       max={100}
       min={0}
       role="progressbar"
@@ -1342,7 +1342,7 @@ exports[`Storyshots ProgressBar Basic 1`] = `
       aria-valuemax={100}
       aria-valuemin={0}
       aria-valuenow={42}
-      className="ProgressBar-cxqey5-0 hCygmx"
+      className="ProgressBar-ai7x4l-0 gbijEE"
       max={100}
       min={0}
       role="progressbar"
@@ -1369,11 +1369,11 @@ exports[`Storyshots Select Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Select__Container-h7v5lq-0 bFAjwz"
+    className="Select__Container-v7zbvw-0 kuvvkm"
     disabled={undefined}
   >
     <select
-      className="Select__Control-h7v5lq-3 jlQFOG"
+      className="Select__Control-v7zbvw-3 gZkPLa"
     >
       <option
         value=""
@@ -1402,10 +1402,10 @@ exports[`Storyshots Select Basic 1`] = `
       </option>
     </select>
     <div
-      className="Select__Accessory-h7v5lq-1 eThkKw"
+      className="Select__Accessory-v7zbvw-1 cNvZnX"
     >
       <svg
-        className="Select__Chevron-h7v5lq-2 eVUACE"
+        className="Select__Chevron-v7zbvw-2 fuWQGj"
         fill="none"
         stroke="currentColor"
         strokeLinecap="round"
@@ -1427,11 +1427,11 @@ exports[`Storyshots Select Disabled 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Select__Container-h7v5lq-0 jFjDFy"
+    className="Select__Container-v7zbvw-0 jQnXw"
     disabled={true}
   >
     <select
-      className="Select__Control-h7v5lq-3 jlQFOG"
+      className="Select__Control-v7zbvw-3 gZkPLa"
       disabled={true}
     >
       <option
@@ -1461,10 +1461,10 @@ exports[`Storyshots Select Disabled 1`] = `
       </option>
     </select>
     <div
-      className="Select__Accessory-h7v5lq-1 eThkKw"
+      className="Select__Accessory-v7zbvw-1 cNvZnX"
     >
       <svg
-        className="Select__Chevron-h7v5lq-2 eVUACE"
+        className="Select__Chevron-v7zbvw-2 fuWQGj"
         fill="none"
         stroke="currentColor"
         strokeLinecap="round"
@@ -1494,11 +1494,11 @@ exports[`Storyshots Select Inline 1`] = `
         className="Flex__Item-s1lmmxu5-0 jFTHiw"
       >
         <div
-          className="Select__Container-h7v5lq-0 eeTVMk"
+          className="Select__Container-v7zbvw-0 iVeICc"
           disabled={undefined}
         >
           <select
-            className="Select__Control-h7v5lq-3 ihyrjY"
+            className="Select__Control-v7zbvw-3 cYzruK"
           >
             <option
               value=""
@@ -1527,10 +1527,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-h7v5lq-1 eThkKw"
+            className="Select__Accessory-v7zbvw-1 cNvZnX"
           >
             <svg
-              className="Select__Chevron-h7v5lq-2 eVUACE"
+              className="Select__Chevron-v7zbvw-2 fuWQGj"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -1549,11 +1549,11 @@ exports[`Storyshots Select Inline 1`] = `
         className="Flex__Item-s1lmmxu5-0 jFTHiw"
       >
         <div
-          className="Select__Container-h7v5lq-0 eeTVMk"
+          className="Select__Container-v7zbvw-0 iVeICc"
           disabled={undefined}
         >
           <select
-            className="Select__Control-h7v5lq-3 ihyrjY"
+            className="Select__Control-v7zbvw-3 cYzruK"
           >
             <option
               value=""
@@ -1582,10 +1582,10 @@ exports[`Storyshots Select Inline 1`] = `
             </option>
           </select>
           <div
-            className="Select__Accessory-h7v5lq-1 eThkKw"
+            className="Select__Accessory-v7zbvw-1 cNvZnX"
           >
             <svg
-              className="Select__Chevron-h7v5lq-2 eVUACE"
+              className="Select__Chevron-v7zbvw-2 fuWQGj"
               fill="none"
               stroke="currentColor"
               strokeLinecap="round"
@@ -1616,11 +1616,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <div
-        className="Select__Container-h7v5lq-0 gQNkxp"
+        className="Select__Container-v7zbvw-0 euxpSg"
         disabled={undefined}
       >
         <select
-          className="Select__Control-h7v5lq-3 jlQFOG"
+          className="Select__Control-v7zbvw-3 gZkPLa"
         >
           <option
             value=""
@@ -1649,10 +1649,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-h7v5lq-1 eThkKw"
+          className="Select__Accessory-v7zbvw-1 cNvZnX"
         >
           <svg
-            className="Select__Chevron-h7v5lq-2 eVUACE"
+            className="Select__Chevron-v7zbvw-2 fuWQGj"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -1671,11 +1671,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <div
-        className="Select__Container-h7v5lq-0 itlJgQ"
+        className="Select__Container-v7zbvw-0 cwTSP"
         disabled={undefined}
       >
         <select
-          className="Select__Control-h7v5lq-3 jlQFOG"
+          className="Select__Control-v7zbvw-3 gZkPLa"
         >
           <option
             value=""
@@ -1704,10 +1704,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-h7v5lq-1 eThkKw"
+          className="Select__Accessory-v7zbvw-1 cNvZnX"
         >
           <svg
-            className="Select__Chevron-h7v5lq-2 eVUACE"
+            className="Select__Chevron-v7zbvw-2 fuWQGj"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -1726,11 +1726,11 @@ exports[`Storyshots Select Validation 1`] = `
       className="Flex__Item-s1lmmxu5-0 jFTHiw"
     >
       <div
-        className="Select__Container-h7v5lq-0 jFjDFy"
+        className="Select__Container-v7zbvw-0 jQnXw"
         disabled={true}
       >
         <select
-          className="Select__Control-h7v5lq-3 jlQFOG"
+          className="Select__Control-v7zbvw-3 gZkPLa"
           disabled={true}
         >
           <option
@@ -1760,10 +1760,10 @@ exports[`Storyshots Select Validation 1`] = `
           </option>
         </select>
         <div
-          className="Select__Accessory-h7v5lq-1 eThkKw"
+          className="Select__Accessory-v7zbvw-1 cNvZnX"
         >
           <svg
-            className="Select__Chevron-h7v5lq-2 eVUACE"
+            className="Select__Chevron-v7zbvw-2 fuWQGj"
             fill="none"
             stroke="currentColor"
             strokeLinecap="round"
@@ -1802,22 +1802,22 @@ exports[`Storyshots Switch Checkboxes 1`] = `
       className="Field-w8gztl-0 dOdphz"
     >
       <div
-        className="Switch__Container-s12shb1n-3 erjjhL"
+        className="Switch__Container-s1fnj0mp-3 kbGToR"
       >
         <input
-          className="Switch__Control-s12shb1n-2 UqEMw"
+          className="Switch__Control-s1fnj0mp-2 cAFEQu"
           id="example"
           name="check1"
           type="checkbox"
         />
         <label
-          className="Switch__Label-s12shb1n-1 MBuRg"
+          className="Switch__Label-s1fnj0mp-1 kHmlbX"
         >
           <div
-            className="Switch__Status-s12shb1n-0 lmYiEf"
+            className="Switch__Status-s1fnj0mp-0 kJuQgk"
           />
           <div
-            className="Switch__Content-s12shb1n-4 cQtReC"
+            className="Switch__Content-s1fnj0mp-4 cJHJXh"
           >
             This can be toggled
           </div>
@@ -1828,22 +1828,22 @@ exports[`Storyshots Switch Checkboxes 1`] = `
       className="Field-w8gztl-0 dOdphz"
     >
       <div
-        className="Switch__Container-s12shb1n-3 erjjhL"
+        className="Switch__Container-s1fnj0mp-3 kbGToR"
       >
         <input
-          className="Switch__Control-s12shb1n-2 UqEMw"
+          className="Switch__Control-s1fnj0mp-2 cAFEQu"
           id="example2"
           name="check1"
           type="checkbox"
         />
         <label
-          className="Switch__Label-s12shb1n-1 MBuRg"
+          className="Switch__Label-s1fnj0mp-1 kHmlbX"
         >
           <div
-            className="Switch__Status-s12shb1n-0 lmYiEf"
+            className="Switch__Status-s1fnj0mp-0 kJuQgk"
           />
           <div
-            className="Switch__Content-s12shb1n-4 cQtReC"
+            className="Switch__Content-s1fnj0mp-4 cJHJXh"
           >
             So can this one
           </div>
@@ -1854,23 +1854,23 @@ exports[`Storyshots Switch Checkboxes 1`] = `
       className="Field-w8gztl-0 jNJaXY"
     >
       <div
-        className="Switch__Container-s12shb1n-3 erjjhL"
+        className="Switch__Container-s1fnj0mp-3 kbGToR"
       >
         <input
-          className="Switch__Control-s12shb1n-2 UqEMw"
+          className="Switch__Control-s1fnj0mp-2 cAFEQu"
           disabled={true}
           id="example3"
           name="check1"
           type="checkbox"
         />
         <label
-          className="Switch__Label-s12shb1n-1 MBuRg"
+          className="Switch__Label-s1fnj0mp-1 kHmlbX"
         >
           <div
-            className="Switch__Status-s12shb1n-0 lmYiEf"
+            className="Switch__Status-s1fnj0mp-0 kJuQgk"
           />
           <div
-            className="Switch__Content-s12shb1n-4 cQtReC"
+            className="Switch__Content-s1fnj0mp-4 cJHJXh"
           >
             But this one is disabled
           </div>
@@ -1901,22 +1901,22 @@ exports[`Storyshots Switch Radios 1`] = `
       className="Field-w8gztl-0 dOdphz"
     >
       <div
-        className="Switch__Container-s12shb1n-3 erjjhL"
+        className="Switch__Container-s1fnj0mp-3 kbGToR"
       >
         <input
-          className="Switch__Control-s12shb1n-2 UqEMw"
+          className="Switch__Control-s1fnj0mp-2 cAFEQu"
           id="example4"
           name="radio1"
           type="radio"
         />
         <label
-          className="Switch__Label-s12shb1n-1 MBuRg"
+          className="Switch__Label-s1fnj0mp-1 kHmlbX"
         >
           <div
-            className="Switch__Status-s12shb1n-0 lmYiEf"
+            className="Switch__Status-s1fnj0mp-0 kJuQgk"
           />
           <div
-            className="Switch__Content-s12shb1n-4 cQtReC"
+            className="Switch__Content-s1fnj0mp-4 cJHJXh"
           >
             This can be selected
           </div>
@@ -1927,22 +1927,22 @@ exports[`Storyshots Switch Radios 1`] = `
       className="Field-w8gztl-0 dOdphz"
     >
       <div
-        className="Switch__Container-s12shb1n-3 erjjhL"
+        className="Switch__Container-s1fnj0mp-3 kbGToR"
       >
         <input
-          className="Switch__Control-s12shb1n-2 UqEMw"
+          className="Switch__Control-s1fnj0mp-2 cAFEQu"
           id="example5"
           name="radio1"
           type="radio"
         />
         <label
-          className="Switch__Label-s12shb1n-1 MBuRg"
+          className="Switch__Label-s1fnj0mp-1 kHmlbX"
         >
           <div
-            className="Switch__Status-s12shb1n-0 lmYiEf"
+            className="Switch__Status-s1fnj0mp-0 kJuQgk"
           />
           <div
-            className="Switch__Content-s12shb1n-4 cQtReC"
+            className="Switch__Content-s1fnj0mp-4 cJHJXh"
           >
             So can this one
           </div>
@@ -1953,23 +1953,23 @@ exports[`Storyshots Switch Radios 1`] = `
       className="Field-w8gztl-0 dOdphz"
     >
       <div
-        className="Switch__Container-s12shb1n-3 erjjhL"
+        className="Switch__Container-s1fnj0mp-3 kbGToR"
       >
         <input
-          className="Switch__Control-s12shb1n-2 UqEMw"
+          className="Switch__Control-s1fnj0mp-2 cAFEQu"
           disabled={true}
           id="example6"
           name="radio1"
           type="radio"
         />
         <label
-          className="Switch__Label-s12shb1n-1 MBuRg"
+          className="Switch__Label-s1fnj0mp-1 kHmlbX"
         >
           <div
-            className="Switch__Status-s12shb1n-0 lmYiEf"
+            className="Switch__Status-s1fnj0mp-0 kJuQgk"
           />
           <div
-            className="Switch__Content-s12shb1n-4 cQtReC"
+            className="Switch__Content-s1fnj0mp-4 cJHJXh"
           >
             But this one is disabled
           </div>
@@ -1998,44 +1998,88 @@ exports[`Storyshots Text Basic 1`] = `
 >
   <div>
     <span
-      className="Text-s14udbl0-0 fEefOv"
+      className="Text-s4v3gyr-0 dXgVIn"
     >
       Basic example
     </span>
     <br />
     <span
-      className="Text-s14udbl0-0 caTMLn"
+      className="Text-s4v3gyr-0 kUQwIW"
       color="primary"
     >
       Basic example (primary)
     </span>
     <br />
     <span
-      className="Text-s14udbl0-0 elFyqG"
+      className="Text-s4v3gyr-0 eHcXJT"
       color="secondary"
     >
       Basic example (secondary)
     </span>
     <br />
     <span
-      className="Text-s14udbl0-0 dPbJXX"
+      className="Text-s4v3gyr-0 dbpNRJ"
       color="success"
     >
       Basic example (success)
     </span>
     <br />
     <span
-      className="Text-s14udbl0-0 faOBeQ"
+      className="Text-s4v3gyr-0 jAevOY"
       color="danger"
     >
       Basic example (danger)
     </span>
     <br />
     <span
-      className="Text-s14udbl0-0 kSJujU"
+      className="Text-s4v3gyr-0 kefLYG"
       color="muted"
     >
       Basic example (muted)
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Text Levels 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div>
+    <span
+      className="Text-s4v3gyr-0 fRYfkn"
+    >
+      The quick brown fox jumps over the lazy dog
+    </span>
+    <br />
+    <span
+      className="Text-s4v3gyr-0 gCSiJP"
+    >
+      The quick brown fox jumps over the lazy dog
+    </span>
+    <br />
+    <span
+      className="Text-s4v3gyr-0 fkpCVb"
+    >
+      The quick brown fox jumps over the lazy dog
+    </span>
+    <br />
+    <span
+      className="Text-s4v3gyr-0 dxTcCW"
+    >
+      The quick brown fox jumps over the lazy dog
+    </span>
+    <br />
+    <span
+      className="Text-s4v3gyr-0 lEJJs"
+    >
+      The quick brown fox jumps over the lazy dog
+    </span>
+    <br />
+    <span
+      className="Text-s4v3gyr-0 eciNPa"
+    >
+      The quick brown fox jumps over the lazy dog
     </span>
   </div>
 </div>
@@ -2047,90 +2091,30 @@ exports[`Storyshots Text Weights 1`] = `
 >
   <div>
     <span
-      className="Text-s14udbl0-0 fsUGAH"
+      className="Text-s4v3gyr-0 eQvQXY"
     >
-      Basic example
+      Example text using 
+      <code>
+        weight="lighter"
+      </code>
     </span>
     <br />
     <span
-      className="Text-s14udbl0-0 cjdsFr"
+      className="Text-s4v3gyr-0 ffsIGc"
     >
-      Basic example
-    </span>
-    <br />
-    <br />
-    <span
-      className="Text-s14udbl0-0 eQwzEW"
-      color="primary"
-    >
-      Basic example (primary)
+      Example text using 
+      <code>
+        weight="normal"
+      </code>
     </span>
     <br />
     <span
-      className="Text-s14udbl0-0 eVzHnO"
-      color="primary"
+      className="Text-s4v3gyr-0 chCfzp"
     >
-      Basic example (primary)
-    </span>
-    <br />
-    <br />
-    <span
-      className="Text-s14udbl0-0 omMWE"
-      color="secondary"
-    >
-      Basic example (secondary)
-    </span>
-    <br />
-    <span
-      className="Text-s14udbl0-0 icuQXv"
-      color="secondary"
-    >
-      Basic example (secondary)
-    </span>
-    <br />
-    <br />
-    <span
-      className="Text-s14udbl0-0 DPJJD"
-      color="success"
-    >
-      Basic example (success)
-    </span>
-    <br />
-    <span
-      className="Text-s14udbl0-0 fZtAUk"
-      color="success"
-    >
-      Basic example (success)
-    </span>
-    <br />
-    <br />
-    <span
-      className="Text-s14udbl0-0 ipgdPB"
-      color="danger"
-    >
-      Basic example (danger)
-    </span>
-    <br />
-    <span
-      className="Text-s14udbl0-0 fXlBTO"
-      color="danger"
-    >
-      Basic example (danger)
-    </span>
-    <br />
-    <br />
-    <span
-      className="Text-s14udbl0-0 gSrlBb"
-      color="muted"
-    >
-      Basic example (muted)
-    </span>
-    <br />
-    <span
-      className="Text-s14udbl0-0 eRwcuD"
-      color="muted"
-    >
-      Basic example (muted)
+      Example text using 
+      <code>
+        weight="bold"
+      </code>
     </span>
   </div>
 </div>

@@ -21,53 +21,31 @@ storiesOf("Text", module)
   ))
   .add("Weights", () => (
     <div>
-      <Text weight="normal">Basic example</Text>
-      <br />
-      <Text weight="bold">Basic example</Text>
-      <br />
-      <br />
-      <Text color="primary" weight="normal">
-        Basic example (primary)
+      <Text weight="lighter">
+        Example text using <code>weight="lighter"</code>
       </Text>
       <br />
-      <Text color="primary" weight="bold">
-        Basic example (primary)
+      <Text weight="normal">
+        Example text using <code>weight="normal"</code>
       </Text>
       <br />
-      <br />
-      <Text color="secondary" weight="normal">
-        Basic example (secondary)
+      <Text weight="bold">
+        Example text using <code>weight="bold"</code>
       </Text>
+    </div>
+  ))
+  .add("Levels", () => (
+    <div>
+      <Text level={1}>The quick brown fox jumps over the lazy dog</Text>
       <br />
-      <Text color="secondary" weight="bold">
-        Basic example (secondary)
-      </Text>
+      <Text level={2}>The quick brown fox jumps over the lazy dog</Text>
       <br />
+      <Text level={3}>The quick brown fox jumps over the lazy dog</Text>
       <br />
-      <Text color="success" weight="normal">
-        Basic example (success)
-      </Text>
+      <Text level={4}>The quick brown fox jumps over the lazy dog</Text>
       <br />
-      <Text color="success" weight="bold">
-        Basic example (success)
-      </Text>
+      <Text level={5}>The quick brown fox jumps over the lazy dog</Text>
       <br />
-      <br />
-      <Text color="danger" weight="normal">
-        Basic example (danger)
-      </Text>
-      <br />
-      <Text color="danger" weight="bold">
-        Basic example (danger)
-      </Text>
-      <br />
-      <br />
-      <Text color="muted" weight="normal">
-        Basic example (muted)
-      </Text>
-      <br />
-      <Text color="muted" weight="bold">
-        Basic example (muted)
-      </Text>
+      <Text level={6}>The quick brown fox jumps over the lazy dog</Text>
     </div>
   ));
