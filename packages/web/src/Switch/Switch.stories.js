@@ -8,7 +8,7 @@ import Switch from "./Switch";
 
 storiesOf("Switch", module).add("Basic", () => (
   <div>
-    <Box>
+    <Box gutterX="base" gutterY="base">
       <P>As a checkbox</P>
       <Field>
         <Switch id="example" name="check1" type="checkbox">
@@ -26,7 +26,7 @@ storiesOf("Switch", module).add("Basic", () => (
         </Switch>
       </Field>
     </Box>
-    <Box>
+    <Box gutterX="base" gutterY="base">
       <P>As a radio</P>
       <Field>
         <Switch id="example4" name="radio1" type="radio">

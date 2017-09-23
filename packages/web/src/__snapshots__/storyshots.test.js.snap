@@ -6,7 +6,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
 >
   <div>
     <div
-      className="Box-s1c7qjo5-0 cJOikH"
+      className="Box-s1q72ma9-0 bVrEHR"
     >
       With 
       <code>
@@ -14,7 +14,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 jEOcBg"
+      className="Box-s1q72ma9-0 ddBEgc"
     >
       With 
       <code>
@@ -22,7 +22,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 jPmOWW"
+      className="Box-s1q72ma9-0 dRMoWq"
     >
       With 
       <code>
@@ -30,7 +30,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 htcLMn"
+      className="Box-s1q72ma9-0 dzlkHf"
     >
       With 
       <code>
@@ -38,7 +38,7 @@ exports[`Storyshots Box Backgrounds 1`] = `
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 bqUsDu"
+      className="Box-s1q72ma9-0 fgdNFC"
     >
       With 
       <code>
@@ -55,24 +55,24 @@ exports[`Storyshots Box Basic 1`] = `
 >
   <div>
     <div
-      className="Box-s1c7qjo5-0 jicxdx"
+      className="Box-s1q72ma9-0 eaVbDB"
     >
       Basic example
     </div>
     <div
-      className="Box-s1c7qjo5-0 dmvKNm"
+      className="Box-s1q72ma9-0 jnZIkl"
     >
       With 
       <code>
-        disableGutter
+        gutterX="base" gutterY="smallest"
       </code>
     </div>
     <div
-      className="Box-s1c7qjo5-0 cRzeFe"
+      className="Box-s1q72ma9-0 UmpuX"
     >
       With 
       <code>
-        disableBorder
+        noBorder
       </code>
     </div>
   </div>
@@ -498,7 +498,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
       onSubmit={[Function]}
     >
       <fieldset
-        className="Box-s1c7qjo5-0-fieldset gCfFWk"
+        className="Box-s1q72ma9-0-fieldset guMcTU"
       >
         <div
           className="Flex-s1lmmxu5-1 dNIKNy"
@@ -563,7 +563,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
         </div>
       </fieldset>
       <fieldset
-        className="Box-s1c7qjo5-0-fieldset gCfFWk"
+        className="Box-s1q72ma9-0-fieldset guMcTU"
       >
         <div
           className="Flex-s1lmmxu5-1 dNIKNy"
@@ -813,7 +813,7 @@ exports[`Storyshots FieldSet Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <fieldset
-    className="Box-s1c7qjo5-0-fieldset gCfFWk"
+    className="Box-s1q72ma9-0-fieldset guMcTU"
   >
     Basic example
   </fieldset>
@@ -1794,7 +1794,7 @@ exports[`Storyshots Switch Basic 1`] = `
 >
   <div>
     <div
-      className="Box-s1c7qjo5-0 jicxdx"
+      className="Box-s1q72ma9-0 eaVbDB"
     >
       <p
         className="Paragraph-s1qmbsem-0 hiwcSy"
@@ -1883,7 +1883,7 @@ exports[`Storyshots Switch Basic 1`] = `
       </div>
     </div>
     <div
-      className="Box-s1c7qjo5-0 jicxdx"
+      className="Box-s1q72ma9-0 eaVbDB"
     >
       <p
         className="Paragraph-s1qmbsem-0 hiwcSy"

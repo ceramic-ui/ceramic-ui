@@ -43,8 +43,8 @@ export const lighten = darkenLighten;
 /**
  * Given `props` and a key to look for in props, attempt to resolve the value of
  * a colour defined in themes. So for example:
- * `resolveColor(props, 'background')` will get the value `props.background`
- * which will be a brand color short name such as "primary" and then returns
+ * `resolveColor(props, 'background')` will use the value of `props.background`,
+ * which will be a brand color short name such as "primary", to return
  * `props.theme.brandPrimary`
  *
  * @param {object} props

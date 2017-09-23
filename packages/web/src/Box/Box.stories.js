@@ -7,29 +7,29 @@ storiesOf("Box", module)
   .add("Basic", () => (
     <div>
       <Box>Basic example</Box>
-      <Box disableGutter>
-        With <code>disableGutter</code>
+      <Box gutterX="base" gutterY="smallest">
+        With <code>gutterX="base" gutterY="smallest"</code>
       </Box>
-      <Box disableBorder>
-        With <code>disableBorder</code>
+      <Box noBorder>
+        With <code>noBorder</code>
       </Box>
     </div>
   ))
   .add("Backgrounds", () => (
     <div>
-      <Box background="primary">
+      <Box gutterX="base" gutterY="base" background="primary">
         With <code>background="primary"</code>
       </Box>
-      <Box background="secondary">
+      <Box gutterX="base" gutterY="base" background="secondary">
         With <code>background="secondary"</code>
       </Box>
-      <Box background="success">
+      <Box gutterX="base" gutterY="base" background="success">
         With <code>background="success"</code>
       </Box>
-      <Box background="danger">
+      <Box gutterX="base" gutterY="base" background="danger">
         With <code>background="danger"</code>
       </Box>
-      <Box background="muted">
+      <Box gutterX="base" gutterY="base" background="muted">
         With <code>background="muted"</code>
       </Box>
     </div>
