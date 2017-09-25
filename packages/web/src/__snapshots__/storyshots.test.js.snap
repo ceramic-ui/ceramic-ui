@@ -1,47 +1,97 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Storyshots Box Alignment 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div
+    className="Box-s1nrm5q2-0 goUzMG"
+  >
+    <div
+      className="Box-s1nrm5q2-0 gWaevY"
+    >
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        align="left"
+      </code>
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 kuKyFI"
+    >
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        align="center"
+      </code>
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 ekhFAK"
+    >
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        align="right"
+      </code>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Box Backgrounds 1`] = `
 <div
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
-  <div>
+  <div
+    className="Box-s1nrm5q2-0 goUzMG"
+  >
     <div
-      className="Box-s1k20wdx-0 jrfhHe"
+      className="Box-s1nrm5q2-0 eZcPGz"
     >
       With 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         background="primary"
       </code>
     </div>
     <div
-      className="Box-s1k20wdx-0 joAhoS"
+      className="Box-s1nrm5q2-0 iaHXgf"
     >
       With 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         background="secondary"
       </code>
     </div>
     <div
-      className="Box-s1k20wdx-0 ykQqZ"
+      className="Box-s1nrm5q2-0 kKusg"
     >
       With 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         background="success"
       </code>
     </div>
     <div
-      className="Box-s1k20wdx-0 ewuwxB"
+      className="Box-s1nrm5q2-0 cHLvxU"
     >
       With 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         background="danger"
       </code>
     </div>
     <div
-      className="Box-s1k20wdx-0 dPWVib"
+      className="Box-s1nrm5q2-0 Lnjlw"
     >
       With 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         background="muted"
       </code>
     </div>
@@ -54,19 +104,166 @@ exports[`Storyshots Box Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Box-s1k20wdx-0 jTUUIc"
+    className="Box-s1nrm5q2-0 goUzMG"
   >
     <div
-      className="Box-s1k20wdx-0 jTUUIc"
+      className="Box-s1nrm5q2-0 goUzMG"
     >
       Basic example
     </div>
     <div
-      className="Box-s1k20wdx-0 hHhPMz"
+      className="Box-s1nrm5q2-0 knjmJf"
     >
       With 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         gutterX="base" gutterY="smallest"
+      </code>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Box Border 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div
+    className="Box-s1nrm5q2-0 juZIns"
+  >
+    Box with 
+    <code
+      className="Code-s18nyp7m-0 hjoPbf"
+    >
+      border
+    </code>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Box Colors 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div
+    className="Box-s1nrm5q2-0 goUzMG"
+  >
+    <div
+      className="Box-s1nrm5q2-0 goUzMG"
+    >
+      Basic example
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 eRdqYZ"
+      color="primary"
+    >
+      Basic example (primary)
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 Gqwff"
+      color="secondary"
+    >
+      Basic example (secondary)
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 biOILD"
+      color="success"
+    >
+      Basic example (success)
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 iPkHcZ"
+      color="danger"
+    >
+      Basic example (danger)
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 diHvZW"
+      color="muted"
+    >
+      Basic example (muted)
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Box Levels 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div
+    className="Box-s1nrm5q2-0 goUzMG"
+  >
+    <div
+      className="Box-s1nrm5q2-0 bGhGjn"
+    >
+      The quick brown fox jumps over the lazy dog
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 cEnONV"
+    >
+      The quick brown fox jumps over the lazy dog
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 jObxWc"
+    >
+      The quick brown fox jumps over the lazy dog
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 ebaCRg"
+    >
+      The quick brown fox jumps over the lazy dog
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 cdtOwZ"
+    >
+      The quick brown fox jumps over the lazy dog
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 Dpvlm"
+    >
+      The quick brown fox jumps over the lazy dog
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Box Weights 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div
+    className="Box-s1nrm5q2-0 goUzMG"
+  >
+    <div
+      className="Box-s1nrm5q2-0 eLvlpt"
+    >
+      Example Box using 
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        weight="lighter"
+      </code>
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 mlZvd"
+    >
+      Example Box using 
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        weight="normal"
+      </code>
+    </div>
+    <div
+      className="Box-s1nrm5q2-0 irVegi"
+    >
+      Example Box using 
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        weight="bold"
       </code>
     </div>
   </div>
@@ -444,23 +641,38 @@ exports[`Storyshots Callout Basic 1`] = `
 </div>
 `;
 
+exports[`Storyshots Code Basic 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div>
+    This is an in-line 
+    <code
+      className="Code-s18nyp7m-0 hjoPbf"
+    >
+      code example
+    </code>
+  </div>
+</div>
+`;
+
 exports[`Storyshots Container Basic 1`] = `
 <div
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div>
     <div
-      className="Container-s1kk78uv-0 GCnsz"
+      className="Container-g414mt-0 fvDRLG"
     >
       Hello Container 1
     </div>
     <div
-      className="Container-s1kk78uv-0 GCnsz"
+      className="Container-g414mt-0 fvDRLG"
     >
       Hello Container 2
     </div>
     <div
-      className="Container-s1kk78uv-0 loswEv"
+      className="Container-g414mt-0 hrpHli"
     >
       This container has custom max widths for different screen size. Try resizing the browser window!
     </div>
@@ -492,7 +704,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
       onSubmit={[Function]}
     >
       <fieldset
-        className="s1k20wdx-0-fieldset-Box-jLJQJw jNLQCJ"
+        className="s1nrm5q2-0-fieldset-Box-jLJQJw iRPYcj"
       >
         <div
           className="Flex-s8l8zm-1 fuadQC"
@@ -557,7 +769,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
         </div>
       </fieldset>
       <fieldset
-        className="s1k20wdx-0-fieldset-Box-jLJQJw jNLQCJ"
+        className="s1nrm5q2-0-fieldset-Box-jLJQJw iRPYcj"
       >
         <div
           className="Flex-s8l8zm-1 fuadQC"
@@ -765,7 +977,7 @@ exports[`Storyshots Field Basic 1`] = `
           Street
         </label>
         <span
-          className="Text-s4v3gyr-0 kefLYG"
+          className="Text-s8nfma1-0 ixIiuR"
           color="muted"
         >
           Must be a U.S. address
@@ -807,7 +1019,7 @@ exports[`Storyshots FieldSet Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <fieldset
-    className="s1k20wdx-0-fieldset-Box-jLJQJw jNLQCJ"
+    className="s1nrm5q2-0-fieldset-Box-jLJQJw iRPYcj"
   >
     Basic example
   </fieldset>
@@ -1290,6 +1502,24 @@ exports[`Storyshots Paragraph Basic 1`] = `
       This is another paragraph
     </p>
   </div>
+</div>
+`;
+
+exports[`Storyshots Pre Basic 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <pre
+    className="Pre-s1txlaan-0 decRQZ"
+  >
+    package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello world")
+}
+  </pre>
 </div>
 `;
 
@@ -1787,14 +2017,16 @@ exports[`Storyshots Switch Checkboxes 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Box-s1k20wdx-0 gmYpKW"
+    className="Box-s1nrm5q2-0 kpqszB"
   >
     <p
       className="Paragraph-s1qmbsem-0 hiwcSy"
       spacing="smallest"
     >
       Switch can be used as checkboxes with 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         type="checkbox"
       </code>
     </p>
@@ -1886,14 +2118,16 @@ exports[`Storyshots Switch Radios 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div
-    className="Box-s1k20wdx-0 gmYpKW"
+    className="Box-s1nrm5q2-0 kpqszB"
   >
     <p
       className="Paragraph-s1qmbsem-0 hiwcSy"
       spacing="smallest"
     >
       Switch can be used as radios with 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         type="radios"
       </code>
     </p>
@@ -1992,47 +2226,83 @@ exports[`Storyshots SystemFontStack Basic 1`] = `
 </div>
 `;
 
-exports[`Storyshots Text Basic 1`] = `
+exports[`Storyshots Text Alignment 1`] = `
 <div
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <div>
     <span
-      className="Text-s4v3gyr-0 dXgVIn"
+      className="Text-s8nfma1-0 djepN"
+    >
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        align="left"
+      </code>
+    </span>
+    <span
+      className="Text-s8nfma1-0 hYyjcP"
+    >
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        align="center"
+      </code>
+    </span>
+    <span
+      className="Text-s8nfma1-0 iccdDT"
+    >
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
+        align="right"
+      </code>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Text Colors 1`] = `
+<div
+  className="SystemFontStack-s1ry2lqk-0 lcrENz"
+>
+  <div>
+    <span
+      className="Text-s8nfma1-0 bifwBh"
     >
       Basic example
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 kUQwIW"
+      className="Text-s8nfma1-0 fjQxCW"
       color="primary"
     >
       Basic example (primary)
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 eHcXJT"
+      className="Text-s8nfma1-0 fdxAUv"
       color="secondary"
     >
       Basic example (secondary)
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 dbpNRJ"
+      className="Text-s8nfma1-0 dSMyuf"
       color="success"
     >
       Basic example (success)
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 jAevOY"
+      className="Text-s8nfma1-0 ixhjbv"
       color="danger"
     >
       Basic example (danger)
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 kefLYG"
+      className="Text-s8nfma1-0 ixIiuR"
       color="muted"
     >
       Basic example (muted)
@@ -2047,37 +2317,37 @@ exports[`Storyshots Text Levels 1`] = `
 >
   <div>
     <span
-      className="Text-s4v3gyr-0 fRYfkn"
+      className="Text-s8nfma1-0 ddCViF"
     >
       The quick brown fox jumps over the lazy dog
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 gCSiJP"
+      className="Text-s8nfma1-0 liOpqi"
     >
       The quick brown fox jumps over the lazy dog
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 fkpCVb"
+      className="Text-s8nfma1-0 hdJVLr"
     >
       The quick brown fox jumps over the lazy dog
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 dxTcCW"
+      className="Text-s8nfma1-0 aXXwI"
     >
       The quick brown fox jumps over the lazy dog
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 lEJJs"
+      className="Text-s8nfma1-0 gZfFgJ"
     >
       The quick brown fox jumps over the lazy dog
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 eciNPa"
+      className="Text-s8nfma1-0 gMKjqT"
     >
       The quick brown fox jumps over the lazy dog
     </span>
@@ -2091,28 +2361,34 @@ exports[`Storyshots Text Weights 1`] = `
 >
   <div>
     <span
-      className="Text-s4v3gyr-0 eQvQXY"
+      className="Text-s8nfma1-0 kaRvde"
     >
       Example text using 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         weight="lighter"
       </code>
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 ffsIGc"
+      className="Text-s8nfma1-0 hjfiIW"
     >
       Example text using 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         weight="normal"
       </code>
     </span>
     <br />
     <span
-      className="Text-s4v3gyr-0 chCfzp"
+      className="Text-s8nfma1-0 blHUul"
     >
       Example text using 
-      <code>
+      <code
+        className="Code-s18nyp7m-0 hjoPbf"
+      >
         weight="bold"
       </code>
     </span>
