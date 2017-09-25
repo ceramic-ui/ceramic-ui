@@ -4,7 +4,7 @@ import { storiesOf } from "@storybook/react";
 import Text from "./Text";
 
 storiesOf("Text", module)
-  .add("Basic", () => (
+  .add("Colors", () => (
     <div>
       <Text>Basic example</Text>
       <br />
@@ -47,5 +47,18 @@ storiesOf("Text", module)
       <Text level={5}>The quick brown fox jumps over the lazy dog</Text>
       <br />
       <Text level={6}>The quick brown fox jumps over the lazy dog</Text>
+    </div>
+  ))
+  .add("Alignment", () => (
+    <div>
+      <Text block flush align="left">
+        <code>align="left"</code>
+      </Text>
+      <Text block flush align="center">
+        <code>align="center"</code>
+      </Text>
+      <Text block flush align="right">
+        <code>align="right"</code>
+      </Text>
     </div>
   ));

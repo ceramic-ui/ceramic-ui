@@ -6,12 +6,14 @@ import {
   spacingPropTypes,
   resolveSpacing
 } from "../mixins/spacing";
+import { textMixin, textPropTypes } from "../mixins/typography";
 import { resolveColor } from "../colors";
 
 const defaultColor = "transparent";
 
 const Box = styled.div`
   ${spacingMixin};
+  ${textMixin};
 
   box-sizing: border-box;
 
@@ -30,6 +32,11 @@ const Box = styled.div`
         padding-bottom: ${gutterY()};
         `};
       background-color: ${resolveColor(props, "background") || defaultColor};
+      ${!!props.border &&
+        `
+        border: ${props.theme.borderWidth()} solid ${props.theme.borderColor};
+        border-radius: ${props.theme.borderRadius()};
+        `};
     `;
   }};
 `;
@@ -38,6 +45,8 @@ Box.propTypes = {
   gutterX: PropTypes.string,
   gutterY: PropTypes.string,
   background: PropTypes.string.isRequired,
+  border: PropTypes.bool,
+  ...textPropTypes,
   ...spacingPropTypes
 };
 Box.defaultProps = {
