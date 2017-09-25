@@ -1,6 +1,7 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
 
+import Code from "../Code";
 import Text from "./Text";
 
 storiesOf("Text", module)
@@ -22,15 +23,15 @@ storiesOf("Text", module)
   .add("Weights", () => (
     <div>
       <Text weight="lighter">
-        Example text using <code>weight="lighter"</code>
+        Example text using <Code>weight="lighter"</Code>
       </Text>
       <br />
       <Text weight="normal">
-        Example text using <code>weight="normal"</code>
+        Example text using <Code>weight="normal"</Code>
       </Text>
       <br />
       <Text weight="bold">
-        Example text using <code>weight="bold"</code>
+        Example text using <Code>weight="bold"</Code>
       </Text>
     </div>
   ))
@@ -52,13 +53,13 @@ storiesOf("Text", module)
   .add("Alignment", () => (
     <div>
       <Text block flush align="left">
-        <code>align="left"</code>
+        <Code>align="left"</Code>
       </Text>
       <Text block flush align="center">
-        <code>align="center"</code>
+        <Code>align="center"</Code>
       </Text>
       <Text block flush align="right">
-        <code>align="right"</code>
+        <Code>align="right"</Code>
       </Text>
     </div>
   ));

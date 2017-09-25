@@ -1,6 +1,7 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
 
+import Code from "../Code";
 import Box from "./Box";
 
 storiesOf("Box", module)
@@ -8,31 +9,31 @@ storiesOf("Box", module)
     <Box>
       <Box>Basic example</Box>
       <Box gutterX="base" gutterY="smallest">
-        With <code>gutterX="base" gutterY="smallest"</code>
+        With <Code>gutterX="base" gutterY="smallest"</Code>
       </Box>
     </Box>
   ))
   .add("Border", () => (
     <Box border>
-      Box with <code>border</code>
+      Box with <Code>border</Code>
     </Box>
   ))
   .add("Backgrounds", () => (
     <Box>
       <Box gutterX="base" gutterY="base" background="primary">
-        With <code>background="primary"</code>
+        With <Code>background="primary"</Code>
       </Box>
       <Box gutterX="base" gutterY="base" background="secondary">
-        With <code>background="secondary"</code>
+        With <Code>background="secondary"</Code>
       </Box>
       <Box gutterX="base" gutterY="base" background="success">
-        With <code>background="success"</code>
+        With <Code>background="success"</Code>
       </Box>
       <Box gutterX="base" gutterY="base" background="danger">
-        With <code>background="danger"</code>
+        With <Code>background="danger"</Code>
       </Box>
       <Box gutterX="base" gutterY="base" background="muted">
-        With <code>background="muted"</code>
+        With <Code>background="muted"</Code>
       </Box>
     </Box>
   ))
@@ -49,13 +50,13 @@ storiesOf("Box", module)
   .add("Weights", () => (
     <Box>
       <Box weight="lighter">
-        Example Box using <code>weight="lighter"</code>
+        Example Box using <Code>weight="lighter"</Code>
       </Box>
       <Box weight="normal">
-        Example Box using <code>weight="normal"</code>
+        Example Box using <Code>weight="normal"</Code>
       </Box>
       <Box weight="bold">
-        Example Box using <code>weight="bold"</code>
+        Example Box using <Code>weight="bold"</Code>
       </Box>
     </Box>
   ))
@@ -72,13 +73,13 @@ storiesOf("Box", module)
   .add("Alignment", () => (
     <Box>
       <Box align="left">
-        <code>align="left"</code>
+        <Code>align="left"</Code>
       </Box>
       <Box align="center">
-        <code>align="center"</code>
+        <Code>align="center"</Code>
       </Box>
       <Box align="right">
-        <code>align="right"</code>
+        <Code>align="right"</Code>
       </Box>
     </Box>
   ));

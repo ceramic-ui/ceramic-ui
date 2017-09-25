@@ -2,6 +2,7 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 
 import Box from "../Box";
+import Code from "../Code";
 import Field from "../Field";
 import P from "../Paragraph";
 import Switch from "./Switch";
@@ -10,7 +11,7 @@ storiesOf("Switch", module)
   .add("Checkboxes", () => (
     <Box gutterX="base" gutterY="base">
       <P>
-        Switch can be used as checkboxes with <code>type="checkbox"</code>
+        Switch can be used as checkboxes with <Code>type="checkbox"</Code>
       </P>
       <Field>
         <Switch id="example" name="check1" type="checkbox">
@@ -32,7 +33,7 @@ storiesOf("Switch", module)
   .add("Radios", () => (
     <Box gutterX="base" gutterY="base">
       <P>
-        Switch can be used as radios with <code>type="radios"</code>
+        Switch can be used as radios with <Code>type="radios"</Code>
       </P>
       <Field>
         <Switch id="example4" name="radio1" type="radio">
