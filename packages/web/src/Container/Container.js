@@ -23,14 +23,14 @@ const calculateMaxWidth = props => {
 const Container = styled.div`
   ${spacingMixin};
   box-sizing: border-box;
-  padding: 0 ${props => !props.disableGutter && props.theme.spacingBase()};
+  padding: 0 ${props => !props.noGutter && props.theme.spacingBase()};
   margin-left: auto;
   margin-right: auto;
   ${calculateMaxWidth};
 `;
 Container.displayName = "Container";
 Container.propTypes = {
-  disableGutter: PropTypes.bool,
+  noGutter: PropTypes.bool,
   maxWidths: PropTypes.arrayOf(
     PropTypes.shape({
       media: PropTypes.string.isRequired,
