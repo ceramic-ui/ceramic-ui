@@ -940,7 +940,6 @@ exports[`Storyshots Examples Using with downshift 1`] = `
 >
   <div
     className="Readable-s106xs6s-0 GWqSM"
-    onClick={[Function]}
   >
     <input
       aria-activedescendant={null}
