@@ -1,6 +1,6 @@
 {
   "name": "@ceramic-ui/web",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "description": "React UI Toolkit",
   "homepage": "https://github.com/ceramic-ui/ceramic-ui",
   "bugs": {
@@ -11,7 +11,11 @@
     "url": "git+https://github.com/ceramic-ui/ceramic-ui.git"
   },
   "license": "MIT",
-  "keywords": ["react", "ui", "styled-components"],
+  "keywords": [
+    "react",
+    "ui",
+    "styled-components"
+  ],
   "publishConfig": {
     "access": "public"
   },
@@ -61,6 +65,8 @@
   },
   "jest": {
     "testEnvironment": "jsdom",
-    "setupFiles": ["./src/jest.setup.js"]
+    "setupFiles": [
+      "./src/jest.setup.js"
+    ]
   }
 }
