@@ -11,19 +11,15 @@
     "url": "git+https://github.com/ceramic-ui/ceramic-ui.git"
   },
   "license": "MIT",
-  "keywords": [
-    "react",
-    "ui",
-    "styled-components"
-  ],
+  "keywords": ["react", "ui", "styled-components"],
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {
-    "prop-types": "^16.0.0",
+    "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "styled-components": "^2.1.2"
+    "styled-components": "^2.2.0"
   },
   "scripts": {
     "build:main": "BABEL_ENV=production babel src -d . --source-maps",
@@ -65,8 +61,6 @@
   },
   "jest": {
     "testEnvironment": "jsdom",
-    "setupFiles": [
-      "./src/jest.setup.js"
-    ]
+    "setupFiles": ["./src/jest.setup.js"]
   }
 }
