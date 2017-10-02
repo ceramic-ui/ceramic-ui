@@ -55,7 +55,7 @@ export const darkMixin = css`
   }
   &:hover,
   &:focus {
-    background-color: ${props => darken(props.theme.brandLight, 5)};
+    background-color: ${props => props.theme.dropShadow};
   }
 `;
 
@@ -68,7 +68,7 @@ export const lightMixin = css`
   }
   &:hover,
   &:focus {
-    background-color: ${props => darken(props.theme.brandLight, 5)};
+    background-color: ${props => props.theme.dropShadow};
   }
 `;
 
@@ -79,7 +79,6 @@ export const linkMixin = css`
   &:visited {
     color: ${props => props.theme.linkColor};
   }
-  text-transform: none;
   text-decoration: underline;
   font-weight: 400;
 `;
@@ -102,7 +101,6 @@ export const buttonMixin = css`
   font-weight: 500;
   cursor: pointer;
   text-align: center;
-  text-transform: uppercase;
   text-decoration: none;
   line-height: inherit;
   &:focus {

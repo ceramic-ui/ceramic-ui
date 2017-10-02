@@ -279,49 +279,49 @@ exports[`Storyshots Button Basic 1`] = `
       className="ButtonPanel-ovkzl-0 ejpSHT"
     >
       <button
-        className="Button-s1srdffo-0 hUxorT"
+        className="Button-s1srdffo-0 kjSjbu"
         type="button"
       >
         Default
       </button>
       <button
-        className="Button-s1srdffo-0 cLgDaV"
+        className="Button-s1srdffo-0 fXTBxa"
         type="button"
       >
         Primary
       </button>
       <button
-        className="Button-s1srdffo-0 gVkBJZ"
+        className="Button-s1srdffo-0 bTXnpC"
         type="button"
       >
         Secondary
       </button>
       <button
-        className="Button-s1srdffo-0 jJQubz"
+        className="Button-s1srdffo-0 OKlfJ"
         type="button"
       >
         Success
       </button>
       <button
-        className="Button-s1srdffo-0 cWgVmd"
+        className="Button-s1srdffo-0 mWRvv"
         type="button"
       >
         Danger
       </button>
       <button
-        className="Button-s1srdffo-0 eYQfim"
+        className="Button-s1srdffo-0 lhelEi"
         type="button"
       >
         Light
       </button>
       <button
-        className="Button-s1srdffo-0 hqSpOF"
+        className="Button-s1srdffo-0 ildHGH"
         type="button"
       >
         Dark
       </button>
       <button
-        className="Button-s1srdffo-0 hFNdAJ"
+        className="Button-s1srdffo-0 jYosC"
         type="button"
       >
         Link
@@ -346,49 +346,49 @@ exports[`Storyshots Button Block-level 1`] = `
       className="ButtonPanel-ovkzl-0 ejpSHT"
     >
       <button
-        className="Button-s1srdffo-0 fKKYbd"
+        className="Button-s1srdffo-0 kjmIpJ"
         type="button"
       >
         Default
       </button>
       <button
-        className="Button-s1srdffo-0 gsTopv"
+        className="Button-s1srdffo-0 cUTMYY"
         type="button"
       >
         Primary
       </button>
       <button
-        className="Button-s1srdffo-0 lyhkl"
+        className="Button-s1srdffo-0 jrxkTT"
         type="button"
       >
         Secondary
       </button>
       <button
-        className="Button-s1srdffo-0 csdKDi"
+        className="Button-s1srdffo-0 liUBzj"
         type="button"
       >
         Success
       </button>
       <button
-        className="Button-s1srdffo-0 dHNYyx"
+        className="Button-s1srdffo-0 cdzGHU"
         type="button"
       >
         Danger
       </button>
       <button
-        className="Button-s1srdffo-0 emXGXy"
+        className="Button-s1srdffo-0 kNcPcr"
         type="button"
       >
         Light
       </button>
       <button
-        className="Button-s1srdffo-0 jwUWVU"
+        className="Button-s1srdffo-0 kgOfvc"
         type="button"
       >
         Dark
       </button>
       <button
-        className="Button-s1srdffo-0 dcTAcy"
+        className="Button-s1srdffo-0 bwkgII"
         type="button"
       >
         Link
@@ -413,56 +413,56 @@ exports[`Storyshots Button Disabled 1`] = `
       className="ButtonPanel-ovkzl-0 ejpSHT"
     >
       <button
-        className="Button-s1srdffo-0 hUxorT"
+        className="Button-s1srdffo-0 kjSjbu"
         disabled={true}
         type="button"
       >
         Default
       </button>
       <button
-        className="Button-s1srdffo-0 cLgDaV"
+        className="Button-s1srdffo-0 fXTBxa"
         disabled={true}
         type="button"
       >
         Primary
       </button>
       <button
-        className="Button-s1srdffo-0 gVkBJZ"
+        className="Button-s1srdffo-0 bTXnpC"
         disabled={true}
         type="button"
       >
         Secondary
       </button>
       <button
-        className="Button-s1srdffo-0 jJQubz"
+        className="Button-s1srdffo-0 OKlfJ"
         disabled={true}
         type="button"
       >
         Success
       </button>
       <button
-        className="Button-s1srdffo-0 cWgVmd"
+        className="Button-s1srdffo-0 mWRvv"
         disabled={true}
         type="button"
       >
         Danger
       </button>
       <button
-        className="Button-s1srdffo-0 eYQfim"
+        className="Button-s1srdffo-0 lhelEi"
         disabled={true}
         type="button"
       >
         Light
       </button>
       <button
-        className="Button-s1srdffo-0 hqSpOF"
+        className="Button-s1srdffo-0 ildHGH"
         disabled={true}
         type="button"
       >
         Dark
       </button>
       <button
-        className="Button-s1srdffo-0 hFNdAJ"
+        className="Button-s1srdffo-0 jYosC"
         disabled={true}
         onClick={[Function]}
         type="button"
@@ -488,37 +488,37 @@ exports[`Storyshots ButtonPanel Basic 1`] = `
     className="ButtonPanel-ovkzl-0 hQjWpQ"
   >
     <button
-      className="Button-s1srdffo-0 hUxorT"
+      className="Button-s1srdffo-0 kjSjbu"
       type="button"
     >
       Default
     </button>
     <button
-      className="Button-s1srdffo-0 cLgDaV"
+      className="Button-s1srdffo-0 fXTBxa"
       type="button"
     >
       Primary
     </button>
     <button
-      className="Button-s1srdffo-0 gVkBJZ"
+      className="Button-s1srdffo-0 bTXnpC"
       type="button"
     >
       Secondary
     </button>
     <button
-      className="Button-s1srdffo-0 jJQubz"
+      className="Button-s1srdffo-0 OKlfJ"
       type="button"
     >
       Success
     </button>
     <button
-      className="Button-s1srdffo-0 cWgVmd"
+      className="Button-s1srdffo-0 mWRvv"
       type="button"
     >
       Danger
     </button>
     <button
-      className="Button-s1srdffo-0 hFNdAJ"
+      className="Button-s1srdffo-0 jYosC"
       type="button"
     >
       Link
@@ -914,14 +914,14 @@ exports[`Storyshots Examples Form Validation 1`] = `
         className="ButtonPanel-ovkzl-0 jOmgch"
       >
         <button
-          className="Button-s1srdffo-0 hFNdAJ"
+          className="Button-s1srdffo-0 jYosC"
           onClick={[Function]}
           type="button"
         >
           Reset
         </button>
         <button
-          className="Button-s1srdffo-0 cLgDaV"
+          className="Button-s1srdffo-0 fXTBxa"
           disabled={false}
           onClick={[Function]}
           type="submit"
@@ -1295,7 +1295,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 fBeUOM"
+        className="Link-s1mfj9j3-0 jCQmck"
         href="#"
       >
         Default
@@ -1305,7 +1305,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 cHzbQE"
+        className="Link-s1mfj9j3-0 MxuyW"
         href="#"
       >
         Primary
@@ -1315,7 +1315,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 bfMrYA"
+        className="Link-s1mfj9j3-0 bIxwmL"
         href="#"
       >
         Secondary
@@ -1325,7 +1325,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 iEeHxe"
+        className="Link-s1mfj9j3-0 gZTPSe"
         href="#"
       >
         Success
@@ -1335,7 +1335,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 fDzeWY"
+        className="Link-s1mfj9j3-0 dAXFZr"
         href="#"
       >
         Danger
@@ -1345,7 +1345,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 hUwACL"
+        className="Link-s1mfj9j3-0 bkxhLg"
         href="#"
       >
         Light
@@ -1355,7 +1355,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 enafBc"
+        className="Link-s1mfj9j3-0 kVXzKz"
         href="#"
       >
         Dark
@@ -1365,7 +1365,7 @@ exports[`Storyshots Link Basic 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 fNFxrh"
+        className="Link-s1mfj9j3-0 joPgJF"
         href="#"
       >
         Link
@@ -1397,7 +1397,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 kuvIka"
+        className="Link-s1mfj9j3-0 kQhVDq"
         href="#"
       >
         Default
@@ -1407,7 +1407,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 gguRWB"
+        className="Link-s1mfj9j3-0 gOJkKm"
         href="#"
       >
         Primary
@@ -1417,7 +1417,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 dksWnv"
+        className="Link-s1mfj9j3-0 eDOHRJ"
         href="#"
       >
         Secondary
@@ -1427,7 +1427,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 hCkinq"
+        className="Link-s1mfj9j3-0 itoypx"
         href="#"
       >
         Success
@@ -1437,7 +1437,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 kULvTI"
+        className="Link-s1mfj9j3-0 czgJPT"
         href="#"
       >
         Danger
@@ -1447,7 +1447,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 IbGR"
+        className="Link-s1mfj9j3-0 jqkNDV"
         href="#"
       >
         Light
@@ -1457,7 +1457,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 ckaRKj"
+        className="Link-s1mfj9j3-0 jlqhoS"
         href="#"
       >
         Dark
@@ -1467,7 +1467,7 @@ exports[`Storyshots Link Block-level 1`] = `
       className="Flex__Item-s8l8zm-0 ifwxop"
     >
       <a
-        className="Link-s1mfj9j3-0 kNhoJw"
+        className="Link-s1mfj9j3-0 kiMOoa"
         href="#"
       >
         Link
