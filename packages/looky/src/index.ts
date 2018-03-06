@@ -1,8 +1,10 @@
 import dlv from "dlv";
 
-export type ResponsiveProp<K extends string> = { [p in K]?: string | string[] };
+export type ResponsiveProp<K extends string> = {
+  [p in K]?: string | Array<string | null>
+};
 export interface Themed {
-  theme?: {
+  theme: {
     media: string[];
   };
 }
@@ -32,6 +34,9 @@ const lookit = (getMedia: (props: Themed) => string[]) => {
             return "";
           }
           const themeValue = dlv(props.theme, k);
+          if (!themeValue) {
+            return "";
+          }
           const rules = interpolate(themeValue);
           if (i === 0) {
             return rules;
