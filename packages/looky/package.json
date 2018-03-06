@@ -1,0 +1,25 @@
+{
+  "name": "@ceramic-ui/looky",
+  "version": "0.0.0",
+  "description": "Responsively use values from your theme in your css-in-js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "repository": "git@github.com:disintegrator/lookit.git",
+  "author": "George Haidar <ghaidar0@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build:cjs": "tsc -p ./tsconfig.cjs.json",
+    "build:es": "tsc -p ./tsconfig.es.json",
+    "build": "npm run build:cjs && npm run build:es",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "dlv": "^1.1.1"
+  },
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "tslint-config-prettier": "^1.9.0",
+    "tslint-plugin-prettier": "^1.3.0",
+    "typescript": "^2.7.2"
+  }
+}
