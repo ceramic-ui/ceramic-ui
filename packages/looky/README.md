@@ -126,7 +126,7 @@ In this case, Container's styles will include:
 ```css
 /*
 The class name for Container won't actually be .container
-styled-components will generate something like sc-bdVaJa. This is  illustrative.
+styled-components will generate something like sc-bdVaJa. This is illustrative.
 */
 .container {
   margin-bottom: 8px;
