@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "declaration": true,
+    "sourceMap": true,
+    "removeComments": true,
+    "noEmit": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  }
+}

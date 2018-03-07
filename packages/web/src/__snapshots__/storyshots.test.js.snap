@@ -704,7 +704,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
       onSubmit={[Function]}
     >
       <fieldset
-        className="s1nrm5q2-0-fieldset-Box-jLJQJw iRPYcj"
+        className="s1nrm5q2-0-fieldset-Box-cwadsP hUojAf"
       >
         <div
           className="Flex-s8l8zm-1 fuadQC"
@@ -713,7 +713,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             className="Flex__Item-s8l8zm-0 ifwxop"
           >
             <legend
-              className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
+              className="bds1vi-3-legend-Heading__Heading4-FrpYN kaTiwX"
             >
               Personal information
             </legend>
@@ -769,7 +769,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
         </div>
       </fieldset>
       <fieldset
-        className="s1nrm5q2-0-fieldset-Box-jLJQJw iRPYcj"
+        className="s1nrm5q2-0-fieldset-Box-cwadsP hUojAf"
       >
         <div
           className="Flex-s8l8zm-1 fuadQC"
@@ -778,7 +778,7 @@ exports[`Storyshots Examples Form Validation 1`] = `
             className="Flex__Item-s8l8zm-0 ifwxop"
           >
             <legend
-              className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
+              className="bds1vi-3-legend-Heading__Heading4-FrpYN kaTiwX"
             >
               Billing address
             </legend>
@@ -946,8 +946,8 @@ exports[`Storyshots Examples Using with downshift 1`] = `
       aria-autocomplete="list"
       aria-expanded={false}
       autoComplete="off"
-      className="n2s9mv-0-Input-eXLwAq koXfnw"
-      id="downshift-input-2"
+      className="n2s9mv-0-Input-hxTtdt hdsqVg"
+      id="downshift-0-input"
       onBlur={[Function]}
       onChange={[Function]}
       onKeyDown={[Function]}
@@ -1018,7 +1018,7 @@ exports[`Storyshots FieldSet Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <fieldset
-    className="s1nrm5q2-0-fieldset-Box-jLJQJw iRPYcj"
+    className="s1nrm5q2-0-fieldset-Box-cwadsP hUojAf"
   >
     Basic example
   </fieldset>
@@ -1267,7 +1267,7 @@ exports[`Storyshots Legend Basic 1`] = `
   className="SystemFontStack-s1ry2lqk-0 lcrENz"
 >
   <legend
-    className="bds1vi-3-legend-Heading__Heading4-brhaBC hbKnRC"
+    className="bds1vi-3-legend-Heading__Heading4-FrpYN kaTiwX"
   >
     Basic example
   </legend>
