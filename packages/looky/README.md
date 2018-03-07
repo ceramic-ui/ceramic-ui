@@ -111,6 +111,40 @@ const App = () => {
 };
 ```
 
+In terms of generated CSS, consider the following snippet:
+
+```js
+<Container
+  spacing={["spacings.small", "spacings.default", null, "spacings.large"]}
+>
+  Hi there
+</Container>
+```
+
+In this case, Container's styles will include:
+
+```css
+/*
+The class name for Container won't actually be .container
+styled-components will generate something like sc-bdVaJa. This is  illustrative.
+*/
+.container {
+  margin-bottom: 8px;
+}
+
+@media (min-width: 576px) {
+  .container {
+    margin-bottom: 16px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    margin-bottom: 24px;
+  }
+}
+```
+
 ## Looky vs facepaint
 
 This utility serves the same purpose as [facepaint][facepaint] but the difference is that it does not allow styling props to take arbitrary values.
