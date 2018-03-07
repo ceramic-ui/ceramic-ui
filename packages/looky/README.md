@@ -58,7 +58,7 @@ padding-right: ${value};
 
 /* Same idea as the resolver for the gutterX prop */
 const gutterY = looky(
-  "gutterX",
+  "gutterY",
   value => `
 padding-left: ${value};
 padding-right: ${value};
@@ -66,13 +66,13 @@ padding-right: ${value};
 );
 
 /* Same idea as the resolver for the gutterX prop */
-const spacing = looky("gutterX", value => `margin-bottom: ${value};`);
+const spacing = looky("spacing", value => `margin-bottom: ${value};`);
 
 const Container = styled.div`
   box-sizing: border-box;
-  ${resolveGutterX};
-  ${resolveGutterY};
-  ${resolveSpacing};
+  ${gutterX};
+  ${gutterY};
+  ${spacing};
 `;
 
 /*
