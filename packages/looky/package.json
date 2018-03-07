@@ -1,6 +1,6 @@
 {
   "name": "@ceramic-ui/looky",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Responsively use values from your theme in your css-in-js",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
