@@ -4,7 +4,14 @@
   "description": "Responsively use values from your theme in your css-in-js",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
-  "repository": "git@github.com:disintegrator/lookit.git",
+  "homepage": "https://github.com/ceramic-ui/ceramic-ui",
+  "bugs": {
+    "url": "https://github.com/ceramic-ui/ceramic-ui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceramic-ui/ceramic-ui.git"
+  },
   "author": "George Haidar <ghaidar0@gmail.com>",
   "license": "MIT",
   "scripts": {
