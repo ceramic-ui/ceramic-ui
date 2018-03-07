@@ -96,7 +96,7 @@ const App = () => {
       3. For portrait tablets and up, we specified null meaning we carry on with
       the value from 2. (16px)<br />
       4. For landscape tablets and up, it will be large (24px)<br />
-      5. Since we didn't specify anything for the laptop/desktop breakpoint we carry
+      5. Since we did not specify anything for the laptop/desktop breakpoint we carry
       on from 4. (24px)
     </Container>
 
