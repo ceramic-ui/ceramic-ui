@@ -15,6 +15,9 @@
     "test": "jest"
   },
   "files": ["dist"],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "dlv": "^1.1.1"
   },
